@@ -1,0 +1,5 @@
+Proximity search finds terms that occur near each other without requiring an exact phrase. Data NEAR three mining can match data mining methods when the two words are separated by at most three positions. It is useful when authors express the same idea with small variations, extra adjectives, or connecting words.
+
+The positional index stores every normalized word location. A proximity algorithm compares locations for the left term with locations for the right term. In this project, the notation data /3 mining means that mining must follow data with zero, one, two, or three words between them. The order therefore remains meaningful, unlike an unordered near operator.
+
+Proximity retrieval offers a middle ground between Boolean AND and exact phrase matching. AND can return a document where the terms are far apart, while phrase search can miss a relevant sentence containing a descriptive word. The graphical interface validates the simple word / number word format and shows all documents satisfying the requested maximum gap.

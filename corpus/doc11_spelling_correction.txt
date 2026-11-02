@@ -1,0 +1,5 @@
+Spelling correction suggests a close vocabulary word for a misspelled query. Levenshtein distance measures the number of character insertions, deletions, or substitutions needed to change one word into another. A common one-letter omission in retrieval is only one deletion away from the intended term.
+
+The search engine compares the unknown word with its known vocabulary. Candidates with a lower edit distance are usually better suggestions. Several candidates can have the same distance, so another signal is useful for tie breaking. Character n-grams provide such a signal by representing a word through short overlapping letter sequences. Similar spellings tend to share more n-grams.
+
+The tolerant-retrieval module returns a short ordered suggestion list. It does not silently rewrite the user's query; instead it exposes the possible corrections so that the user can choose. This behaviour is safer for a learning project and makes the relationship between misspelling, vocabulary, edit distance, and n-gram similarity easy to explain.

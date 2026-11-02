@@ -1,0 +1,5 @@
+Web mining discovers useful patterns from web content, links, and user behaviour. Content mining analyzes page text, structure mining analyzes links, and usage mining analyzes activity logs. These three areas apply data-mining ideas to the unusual scale, connectivity, and variety of the web.
+
+Web content mining extracts knowledge from documents, images, metadata, and other page material. Web structure mining studies links between pages, often using graph algorithms to identify authorities and hubs. Web usage mining examines logs and interaction trails to understand navigation, recommendations, and common user paths.
+
+Information retrieval and web mining are related but distinct. Retrieval focuses on finding documents that answer a user's current query. Mining focuses on discovering broader patterns that may support analysis, personalization, or decision making. A search engine can use mining results to improve ranking and recommendations, while a mining system can use an inverted index to locate relevant textual evidence efficiently.

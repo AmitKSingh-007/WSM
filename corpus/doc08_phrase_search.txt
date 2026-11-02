@@ -1,0 +1,5 @@
+Phrase search uses word positions. The phrase information retrieval matches only when information is immediately followed by retrieval in the same document. An ordinary inverted index can tell that two words occur in a document, but it cannot prove that they appear together in the requested order.
+
+A positional index solves this problem by storing a list of locations for every term in every document. If information occurs at position seven and retrieval occurs at position eight, that pair is a phrase match. For a longer phrase, each following term must occur at the next position. The search engine first finds documents containing all phrase terms and then checks their position lists.
+
+Phrase retrieval is more precise than a simple AND query. A document that contains information at the start and retrieval much later should match information AND retrieval but should not match the exact phrase. Users commonly place quotation marks around a phrase in public search engines. In the local GUI, selecting Phrase mode applies the same adjacent-position rule to the entered words.

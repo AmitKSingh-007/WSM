@@ -1,0 +1,5 @@
+Soundex encodes words according to an approximate English pronunciation. A tolerant search engine can use Soundex to find names that sound alike even when their spelling differs. The code preserves the first letter and converts later consonants into numeric groups, producing a short code such as S620.
+
+Words with the same Soundex code are not guaranteed to have the same meaning. Instead, Soundex offers a simple phonetic candidate filter. It is especially useful for names, where spelling differences and pronunciation variations are common. The search module can calculate the code for a user word and then list vocabulary terms with the same code.
+
+In this collection, the misspelled query sarch shares a Soundex code with search. This demonstrates a tolerant technique different from edit distance: the character sequence is not compared directly, but similar pronunciation is approximated. Soundex is not perfect for every language or accent, yet it remains a useful and easy-to-demonstrate retrieval feature.

@@ -1,0 +1,5 @@
+Robotics combines sensors, computation, and actuators so that machines can perceive and act in the physical world. A robot may use cameras, lidar, microphones, and position sensors to observe its environment. Planning algorithms choose actions that help the robot reach a goal safely.
+
+Computer vision extracts information from images and video. Tasks include object detection, image classification, tracking, and scene understanding. Modern vision systems often use neural networks trained on large labelled datasets, while classical methods use features, edges, geometry, and statistical models.
+
+Web-scale image and video search relies on retrieval ideas similar to text search. Content can be represented by visual descriptors, captions, metadata, and learned embeddings. An index helps locate likely candidates quickly, after which a ranking model orders the most relevant images or videos for the user's query.

@@ -1,0 +1,5 @@
+Association rule mining discovers patterns of items that occur together. A classic market basket rule has the form bread AND butter implies milk. Support measures how frequently an item set occurs, while confidence measures how often the consequence appears when the condition is present.
+
+The Apriori algorithm searches for frequent item sets level by level. It uses the principle that an infrequent subset cannot produce a frequent larger set. Association rules are useful in recommendation systems, retail analysis, and website navigation analysis. A web store can recommend related products after observing common combinations in previous transactions.
+
+Rules should be evaluated carefully because a high confidence value can be misleading when the consequence is already very common. Lift compares the observed co-occurrence with the expected independent occurrence. Data mining therefore combines support, confidence, lift, and domain knowledge before treating a discovered association as useful.

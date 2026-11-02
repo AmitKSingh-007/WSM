@@ -1,0 +1,5 @@
+Computer networks connect devices so that they can exchange data using shared protocols. The Internet protocol suite organizes communication into layers. Applications use services such as web browsing and email, while lower layers deliver packets across local networks and wide-area links.
+
+IP addressing identifies hosts and routers. TCP provides reliable ordered delivery through acknowledgements and retransmission, while UDP provides lightweight datagrams when speed is more important than reliability. Routers choose paths between networks and switches forward frames inside a local network.
+
+Search engines depend on networks to crawl pages and serve results. A crawler downloads documents through network requests, and a user receives ranked results from remote servers. Network latency, bandwidth, caching, and failure handling all influence the speed and reliability of a web search experience.

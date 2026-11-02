@@ -1,0 +1,5 @@
+TF-IDF gives high weight to terms that occur often in one document but rarely across the collection. A common term receives a lower inverse document frequency than a distinctive term. For example, a word appearing in nearly every document provides little evidence that one result is especially relevant, while a rare technical word can strongly distinguish a focused document.
+
+Term frequency counts a word within one document. Raw frequency can overvalue a word repeated many times, so retrieval systems often use a logarithmic TF weight. Document frequency counts how many documents contain the word. Inverse document frequency is calculated from the collection size and document frequency. The product of TF and IDF becomes the word's weight in the document vector.
+
+The query is represented as a vector using the same vocabulary. Cosine similarity divides the dot product of the query and document vectors by their lengths. This normalization prevents long documents from winning merely because they contain more words. The ranked-search mode in the graphical interface prints cosine scores in descending order.

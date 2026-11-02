@@ -1,0 +1,5 @@
+Neural networks are machine-learning models inspired by layers of connected processing units. Each connection has a numeric weight, and each layer transforms its inputs into a new representation. During training, the model adjusts weights to reduce the difference between predictions and known answers.
+
+Deep learning refers to neural networks with many hidden layers. Convolutional networks are effective for images, while transformer architectures are widely used for language tasks. Training requires data, a loss function, an optimization method, and careful evaluation on examples not used during learning.
+
+Information retrieval can use neural models for semantic ranking, query understanding, and document representation. A traditional TF-IDF engine is easier to inspect and explain, while a neural ranker can learn more complex relationships. Practical systems often combine lexical retrieval for reliable candidate generation with learned ranking for final ordering.

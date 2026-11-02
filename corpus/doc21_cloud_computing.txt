@@ -1,0 +1,5 @@
+Cloud computing delivers computing resources over a network. Instead of buying and operating every server, an organization can use virtual machines, managed databases, object storage, and serverless functions when required. Resources can scale up during busy periods and scale down afterward.
+
+Infrastructure as a Service provides virtual infrastructure, Platform as a Service provides deployment environments, and Software as a Service provides complete applications. Virtualization and containers isolate workloads while allowing many services to share physical hardware. Monitoring and automation help operators detect failures and manage changing demand.
+
+A large search engine commonly runs on distributed cloud-like infrastructure. Crawling, indexing, query serving, log analysis, and machine-learning training can be separate services. The local WebMiningSearch application runs on one computer, but its modular design mirrors the separation of responsibilities used in larger systems.

@@ -1,0 +1,5 @@
+Character n-grams break a word into short overlapping sequences. They help a retrieval system compare similar spellings and generate candidates for query correction. A bigram representation of a word includes pairs of neighbouring letters, often with boundary markers at the beginning and end.
+
+For example, two similar spellings share many of their bigrams even when one letter is missing or substituted. The system can compare the n-gram sets using Jaccard similarity: the number of shared n-grams divided by the number of n-grams in either set. A higher score suggests that two strings are structurally similar.
+
+N-grams are also useful for wildcard retrieval and approximate matching. A search engine may use them to limit a huge vocabulary to a smaller set of likely candidates before calculating edit distance. In this project the n-gram function is used as a transparent secondary comparison for spelling suggestions, following the more direct Levenshtein-distance ordering.

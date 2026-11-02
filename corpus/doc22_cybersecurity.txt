@@ -1,0 +1,5 @@
+Cybersecurity protects systems, networks, applications, and information from unauthorized access or harmful changes. Common goals are confidentiality, integrity, and availability. Security controls include authentication, authorization, encryption, backups, monitoring, and incident response procedures.
+
+Web applications face threats such as phishing, password attacks, malware, cross-site scripting, injection, and denial of service. Secure software validates input, stores passwords safely, applies least privilege, and keeps dependencies updated. Network security uses firewalls, segmentation, and encrypted connections to reduce exposure.
+
+Search systems must protect crawlers, stored documents, and user queries. Malicious pages can attempt to exploit parsers or manipulate ranking through spam links and repeated keywords. Logging, rate limits, safe content handling, and privacy-aware retention policies help maintain a trustworthy retrieval service.

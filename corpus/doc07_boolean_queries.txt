@@ -1,0 +1,5 @@
+Boolean retrieval supports AND, OR, and NOT operators. A search for crawler AND index returns documents containing both words. A query with NOT removes unwanted documents. This model treats each document as either a match or a non-match; it does not initially decide which match is more important.
+
+AND is implemented by taking the intersection of two posting lists. OR is implemented by taking their union. NOT is implemented by subtracting one posting list from the full collection or from another matching set. For instance, search AND NOT mining keeps documents mentioning search while excluding documents that also mention mining.
+
+Boolean expressions are useful when a user has a precise information need. A researcher can require one concept and exclude another concept that creates noise. The first Boolean module in this project accepts one binary operation at a time, such as search AND retrieval or crawler OR ranking. The result is displayed as a list of matching document identifiers and previews.

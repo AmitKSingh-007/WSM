@@ -1,0 +1,5 @@
+Clustering groups similar data items without requiring labelled training examples. The goal is to discover natural structure in a collection. A document collection can be clustered by the words it contains, while customers can be clustered by their behaviour or preferences.
+
+K-means is a popular clustering method. It chooses a number of centers, assigns each item to its nearest center, and repeatedly updates the centers. Hierarchical clustering instead builds a tree of groups. The quality of a clustering result depends on the feature representation, distance function, and number of requested groups.
+
+Web mining can use clustering to organize search results into topics. Instead of presenting a long flat list, a system may group results about networks, databases, security, or machine learning. Clusters can improve exploration, but their labels need to be understandable so that users can choose the topic that matches their information need.

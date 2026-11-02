@@ -1,0 +1,5 @@
+Wildcard search matches a pattern against the vocabulary rather than requiring an exact word. A prefix pattern can retrieve computer, computing, and computation without requiring the user to know the exact word form. The asterisk represents any sequence of letters, so a pattern can be placed at the end or in the middle of a word.
+
+The retrieval system first identifies every vocabulary term matching the wildcard expression. It then takes the union of their posting lists to find documents containing any expanded term. In this small collection, scanning the vocabulary is easy to understand and fast enough. A large search engine would often use a permuterm index, k-gram index, or another specialized structure to make wildcard expansion efficient.
+
+Wildcard queries improve recall, but very broad patterns can match many vocabulary terms and produce a large result set. Users should therefore choose a meaningful prefix whenever possible. The GUI's Wildcard mode displays both the expanded vocabulary terms and the documents they match, making the expansion process visible for learning and demonstration.

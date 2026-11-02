@@ -1,0 +1,5 @@
+Synonym expansion can improve recall. A query for automobile may also search for car, while a query for information retrieval may include search and document retrieval. Users often choose different words for the same concept, so an exact vocabulary match can miss documents that are relevant but expressed differently.
+
+The synonym dictionary in this project is intentionally small and explicit. It maps automobile to car, car to automobile, engine to search, and web to internet. The entered term remains in the expanded query, and its related terms are added. The system then combines postings lists for all available expansion terms.
+
+Synonym expansion must be used carefully. Some words have several meanings, and adding every possible related word can reduce precision. A controlled dictionary is appropriate for a focused corpus because it makes the chosen relationships visible. The GUI shows the expansion terms before listing the matching documents, so users can understand why additional results appear.

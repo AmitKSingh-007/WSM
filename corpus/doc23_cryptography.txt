@@ -1,0 +1,5 @@
+Cryptography protects information by transforming it with mathematical algorithms and secret keys. Symmetric encryption uses one shared key for encryption and decryption. Asymmetric encryption uses a public key and a private key, allowing secure key exchange and digital signatures.
+
+Hash functions create fixed-size fingerprints of data. A secure hash makes it difficult to recover the original message or find two messages with the same fingerprint. Digital signatures combine private-key operations and hashes to prove authenticity and detect changes to a document.
+
+Web security uses protocols such as TLS to protect communication between a browser and a server. Retrieval systems may encrypt data in transit, protect stored index files, and authenticate administrative actions. Cryptography supports privacy and trust, but it must be combined with correct key management and secure application design.

@@ -1,0 +1,5 @@
+Database systems store structured information and provide efficient ways to create, read, update, and delete records. A relational database organizes data into tables connected by keys. SQL queries select rows, combine tables, filter conditions, and calculate summaries.
+
+Indexes are important in both databases and search engines. A database index maps key values to record locations, while an inverted index maps terms to document identifiers. Both structures trade storage and update work for faster queries. Transaction systems also provide consistency and recovery when many users access data concurrently.
+
+NoSQL databases use models such as key-value stores, documents, graphs, and wide columns. They can support flexible schemas and distributed workloads. A web-mining application may store crawled pages, link graphs, click logs, and generated indexes in different database systems depending on the access pattern and scale.

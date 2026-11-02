@@ -1,0 +1,5 @@
+Text preprocessing prepares raw text for indexing and search. The same concept may appear as Search, search, or search followed by punctuation. Lowercasing and punctuation cleanup make these forms consistent. Tokenization then splits a document into individual words or tokens that the index can store and compare.
+
+Stop words are very frequent grammatical words such as the, and, and is. They can be removed from ordinary word retrieval because they often do not distinguish one document from another. However, a positional index should keep normalized word positions so that an exact phrase can still be checked correctly. This project therefore separates cleaned indexing tokens from the full normalized token sequence used for positions.
+
+Stemming is another common preprocessing technique. A stemmer may reduce computing, computed, and computation to a shared root. The tradeoff is that an aggressive stemmer can merge words that have different meanings. The current project keeps the implementation transparent by using lowercasing, tokenization, and a small stop-word list before introducing more advanced retrieval features.

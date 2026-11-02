@@ -1,0 +1,5 @@
+Page ranking estimates the importance or relevance of a web page. Link analysis can treat a link as a recommendation, while content ranking compares query terms with document terms. A document containing the query repeatedly may be relevant, but repetition alone is not enough because a page can artificially repeat words without providing useful information.
+
+Link-based methods such as PageRank distribute importance through hyperlinks. A page linked by many respected pages may receive a stronger importance signal than a page with no incoming links. Content-based methods use term frequency, inverse document frequency, headings, titles, and field weights. Modern systems combine many signals rather than trusting a single formula.
+
+This project uses TF-IDF and cosine similarity for content ranking. TF gives credit when a query term occurs in a document. IDF gives more credit to a distinctive term than to a very common one. Cosine similarity compares the weighted query vector with each weighted document vector, producing a score used to order the results.

@@ -1,0 +1,5 @@
+Big data describes collections that are too large, fast, or varied for simple processing on one machine. The common characteristics are volume, velocity, variety, and sometimes veracity and value. Distributed storage and parallel computation help organizations process data from transactions, sensors, logs, and web applications.
+
+MapReduce is a programming model that divides a task into map operations and reduce operations. The map stage produces intermediate key-value pairs, and the reduce stage combines values for the same key. Distributed systems must also manage failures, data locality, replication, and uneven work distribution.
+
+Web mining produces big data through crawled pages, link graphs, search queries, and interaction logs. Index construction can be divided across machines, while query servers can replicate indexes to answer requests quickly. The small corpus in this assignment demonstrates the same ideas at a scale where every structure can be inspected directly.

@@ -1,0 +1,11407 @@
+{
+  "a": {
+    "doc01_search_engines": [
+      8,
+      20,
+      24,
+      28,
+      47,
+      55,
+      65,
+      68,
+      85,
+      100,
+      135,
+      154,
+      165
+    ],
+    "doc02_inverted_index": [
+      37,
+      50,
+      59,
+      91,
+      128,
+      162
+    ],
+    "doc03_web_crawling": [
+      0,
+      27,
+      47,
+      77,
+      155,
+      173
+    ],
+    "doc04_page_ranking": [
+      8,
+      15,
+      18,
+      29,
+      45,
+      65,
+      74,
+      79,
+      107,
+      125,
+      130,
+      137,
+      142,
+      159
+    ],
+    "doc05_text_preprocessing": [
+      33,
+      79,
+      119,
+      128,
+      157
+    ],
+    "doc06_tf_idf": [
+      18,
+      22,
+      28,
+      33,
+      50,
+      57,
+      63,
+      72,
+      82,
+      127
+    ],
+    "doc07_boolean_queries": [
+      8,
+      19,
+      33,
+      36,
+      106,
+      109,
+      113,
+      138,
+      154
+    ],
+    "doc08_phrase_search": [
+      33,
+      47,
+      55,
+      80,
+      84,
+      118,
+      122,
+      152
+    ],
+    "doc09_proximity_search": [
+      59,
+      109,
+      122,
+      135,
+      139
+    ],
+    "doc10_wildcard_queries": [
+      3,
+      14,
+      41,
+      54,
+      98,
+      105,
+      135,
+      143
+    ],
+    "doc11_spelling_correction": [
+      3,
+      8,
+      29,
+      58,
+      86,
+      90,
+      110,
+      141
+    ],
+    "doc12_ngrams": [
+      4,
+      12,
+      24,
+      28,
+      89,
+      110,
+      118,
+      122,
+      142
+    ],
+    "doc13_soundex": [
+      9,
+      41,
+      64,
+      91,
+      111,
+      118,
+      149
+    ],
+    "doc14_synonyms": [
+      5,
+      15,
+      120,
+      126
+    ],
+    "doc15_web_mining": [
+      105,
+      124,
+      137
+    ],
+    "doc16_association_rules": [
+      10,
+      65,
+      82,
+      102,
+      139
+    ],
+    "doc17_clustering": [
+      18,
+      20,
+      44,
+      50,
+      70,
+      77,
+      106,
+      110
+    ],
+    "doc18_neural_networks": [
+      16,
+      26,
+      72,
+      101,
+      113
+    ],
+    "doc19_computer_networks": [
+      79,
+      93,
+      101,
+      123
+    ],
+    "doc20_databases": [
+      16,
+      46,
+      109
+    ],
+    "doc21_cloud_computing": [
+      6,
+      43,
+      50,
+      58,
+      87
+    ],
+    "doc22_cybersecurity": [
+      114
+    ],
+    "doc23_cryptography": [
+      25,
+      29,
+      47,
+      81,
+      94,
+      97
+    ],
+    "doc24_robotics_vision": [
+      17,
+      40,
+      118
+    ],
+    "doc25_big_data": [
+      47,
+      52,
+      134
+    ]
+  },
+  "about": {
+    "doc17_clustering": [
+      115
+    ]
+  },
+  "accent": {
+    "doc13_soundex": [
+      145
+    ]
+  },
+  "accepts": {
+    "doc07_boolean_queries": [
+      133
+    ]
+  },
+  "access": {
+    "doc20_databases": [
+      84,
+      131
+    ],
+    "doc22_cybersecurity": [
+      9
+    ]
+  },
+  "according": {
+    "doc13_soundex": [
+      3
+    ]
+  },
+  "acknowledgements": {
+    "doc19_computer_networks": [
+      54
+    ]
+  },
+  "across": {
+    "doc06_tf_idf": [
+      15
+    ],
+    "doc19_computer_networks": [
+      35
+    ],
+    "doc25_big_data": [
+      111
+    ]
+  },
+  "act": {
+    "doc24_robotics_vision": [
+      12
+    ]
+  },
+  "actions": {
+    "doc23_cryptography": [
+      113
+    ],
+    "doc24_robotics_vision": [
+      34
+    ]
+  },
+  "activity": {
+    "doc15_web_mining": [
+      25
+    ]
+  },
+  "actuators": {
+    "doc24_robotics_vision": [
+      5
+    ]
+  },
+  "added": {
+    "doc14_synonyms": [
+      88
+    ]
+  },
+  "adding": {
+    "doc14_synonyms": [
+      112
+    ]
+  },
+  "additional": {
+    "doc14_synonyms": [
+      152
+    ]
+  },
+  "addresses": {
+    "doc03_web_crawling": [
+      15
+    ]
+  },
+  "addressing": {
+    "doc19_computer_networks": [
+      43
+    ]
+  },
+  "adds": {
+    "doc02_inverted_index": [
+      166
+    ]
+  },
+  "adjacent": {
+    "doc08_phrase_search": [
+      168
+    ]
+  },
+  "adjectives": {
+    "doc09_proximity_search": [
+      47
+    ]
+  },
+  "adjusts": {
+    "doc18_neural_networks": [
+      33
+    ]
+  },
+  "administrative": {
+    "doc23_cryptography": [
+      112
+    ]
+  },
+  "advanced": {
+    "doc05_text_preprocessing": [
+      165
+    ]
+  },
+  "advertisements": {
+    "doc03_web_crawling": [
+      131
+    ]
+  },
+  "after": {
+    "doc03_web_crawling": [
+      118
+    ],
+    "doc16_association_rules": [
+      89
+    ],
+    "doc24_robotics_vision": [
+      116
+    ]
+  },
+  "afterward": {
+    "doc21_cloud_computing": [
+      40
+    ]
+  },
+  "again": {
+    "doc02_inverted_index": [
+      49
+    ]
+  },
+  "against": {
+    "doc10_wildcard_queries": [
+      5
+    ]
+  },
+  "aggressive": {
+    "doc05_text_preprocessing": [
+      136
+    ]
+  },
+  "algorithm": {
+    "doc09_proximity_search": [
+      61
+    ],
+    "doc16_association_rules": [
+      46
+    ]
+  },
+  "algorithms": {
+    "doc15_web_mining": [
+      67
+    ],
+    "doc23_cryptography": [
+      8
+    ],
+    "doc24_robotics_vision": [
+      32
+    ]
+  },
+  "alike": {
+    "doc13_soundex": [
+      21
+    ]
+  },
+  "all": {
+    "doc08_phrase_search": [
+      103
+    ],
+    "doc09_proximity_search": [
+      154
+    ],
+    "doc14_synonyms": [
+      96
+    ],
+    "doc19_computer_networks": [
+      116
+    ]
+  },
+  "allowing": {
+    "doc21_cloud_computing": [
+      69
+    ],
+    "doc23_cryptography": [
+      32
+    ]
+  },
+  "alone": {
+    "doc04_page_ranking": [
+      40
+    ]
+  },
+  "already": {
+    "doc03_web_crawling": [
+      148
+    ],
+    "doc16_association_rules": [
+      113
+    ]
+  },
+  "also": {
+    "doc01_search_engines": [
+      131
+    ],
+    "doc02_inverted_index": [
+      160
+    ],
+    "doc03_web_crawling": [
+      51
+    ],
+    "doc07_boolean_queries": [
+      98
+    ],
+    "doc12_ngrams": [
+      102
+    ],
+    "doc14_synonyms": [
+      10
+    ],
+    "doc20_databases": [
+      76
+    ],
+    "doc25_big_data": [
+      81
+    ]
+  },
+  "although": {
+    "doc01_search_engines": [
+      158
+    ]
+  },
+  "an": {
+    "doc01_search_engines": [
+      34
+    ],
+    "doc02_inverted_index": [
+      0,
+      74,
+      81,
+      135
+    ],
+    "doc03_web_crawling": [
+      95
+    ],
+    "doc05_text_preprocessing": [
+      89,
+      135
+    ],
+    "doc08_phrase_search": [
+      22
+    ],
+    "doc09_proximity_search": [
+      11,
+      102
+    ],
+    "doc10_wildcard_queries": [
+      11
+    ],
+    "doc13_soundex": [
+      5
+    ],
+    "doc14_synonyms": [
+      36
+    ],
+    "doc15_web_mining": [
+      142
+    ],
+    "doc16_association_rules": [
+      27,
+      60
+    ],
+    "doc18_neural_networks": [
+      75
+    ],
+    "doc20_databases": [
+      56
+    ],
+    "doc21_cloud_computing": [
+      15
+    ],
+    "doc24_robotics_vision": [
+      109
+    ]
+  },
+  "analysis": {
+    "doc04_page_ranking": [
+      12
+    ],
+    "doc15_web_mining": [
+      119
+    ],
+    "doc16_association_rules": [
+      77,
+      81
+    ],
+    "doc21_cloud_computing": [
+      103
+    ]
+  },
+  "analyzes": {
+    "doc15_web_mining": [
+      14,
+      19,
+      24
+    ]
+  },
+  "and": {
+    "doc01_search_engines": [
+      33,
+      76,
+      90,
+      120,
+      142,
+      181
+    ],
+    "doc02_inverted_index": [
+      22,
+      75,
+      171
+    ],
+    "doc03_web_crawling": [
+      22,
+      41,
+      55,
+      85,
+      112,
+      124,
+      132
+    ],
+    "doc04_page_ranking": [
+      96,
+      115
+    ],
+    "doc05_text_preprocessing": [
+      7,
+      23,
+      45,
+      57,
+      58,
+      125,
+      156
+    ],
+    "doc06_tf_idf": [
+      104,
+      111,
+      142
+    ],
+    "doc07_boolean_queries": [
+      3,
+      5,
+      12,
+      49,
+      87,
+      119,
+      143,
+      160
+    ],
+    "doc08_phrase_search": [
+      71,
+      106,
+      120,
+      130,
+      137
+    ],
+    "doc09_proximity_search": [
+      114,
+      115,
+      119,
+      152
+    ],
+    "doc10_wildcard_queries": [
+      21,
+      95,
+      133,
+      159,
+      171
+    ],
+    "doc11_spelling_correction": [
+      144,
+      153
+    ],
+    "doc12_ngrams": [
+      18,
+      42,
+      107
+    ],
+    "doc13_soundex": [
+      33,
+      78,
+      94,
+      151
+    ],
+    "doc14_synonyms": [
+      23,
+      58,
+      71,
+      83,
+      111
+    ],
+    "doc15_web_mining": [
+      9,
+      21,
+      39,
+      53,
+      71,
+      78,
+      85,
+      91,
+      134
+    ],
+    "doc16_association_rules": [
+      19,
+      78,
+      134
+    ],
+    "doc17_clustering": [
+      61,
+      87
+    ],
+    "doc18_neural_networks": [
+      19,
+      41,
+      78,
+      98,
+      110
+    ],
+    "doc19_computer_networks": [
+      28,
+      38,
+      46,
+      55,
+      74,
+      90,
+      100,
+      113,
+      120
+    ],
+    "doc20_databases": [
+      5,
+      13,
+      34,
+      43,
+      68,
+      79,
+      98,
+      106,
+      121,
+      133
+    ],
+    "doc21_cloud_computing": [
+      11,
+      25,
+      37,
+      55,
+      64,
+      77,
+      83,
+      104
+    ],
+    "doc22_cybersecurity": [
+      5,
+      18,
+      28,
+      46,
+      60,
+      69,
+      82,
+      98,
+      107
+    ],
+    "doc23_cryptography": [
+      9,
+      20,
+      28,
+      36,
+      72,
+      77,
+      96,
+      110,
+      117,
+      128
+    ],
+    "doc24_robotics_vision": [
+      4,
+      11,
+      24,
+      49,
+      58,
+      80,
+      86,
+      106
+    ],
+    "doc25_big_data": [
+      24,
+      27,
+      31,
+      42,
+      57,
+      68,
+      87,
+      103
+    ]
+  },
+  "another": {
+    "doc05_text_preprocessing": [
+      77,
+      115
+    ],
+    "doc07_boolean_queries": [
+      81,
+      121
+    ],
+    "doc10_wildcard_queries": [
+      112
+    ],
+    "doc11_spelling_correction": [
+      28,
+      74
+    ]
+  },
+  "answer": {
+    "doc15_web_mining": [
+      104
+    ],
+    "doc25_big_data": [
+      120
+    ]
+  },
+  "answers": {
+    "doc18_neural_networks": [
+      43
+    ]
+  },
+  "any": {
+    "doc10_wildcard_queries": [
+      36,
+      81
+    ]
+  },
+  "anything": {
+    "doc01_search_engines": [
+      23
+    ]
+  },
+  "apart": {
+    "doc09_proximity_search": [
+      129
+    ]
+  },
+  "appear": {
+    "doc05_text_preprocessing": [
+      13
+    ],
+    "doc08_phrase_search": [
+      41
+    ],
+    "doc14_synonyms": [
+      154
+    ]
+  },
+  "appearing": {
+    "doc06_tf_idf": [
+      35
+    ]
+  },
+  "appears": {
+    "doc16_association_rules": [
+      38
+    ]
+  },
+  "application": {
+    "doc20_databases": [
+      112
+    ],
+    "doc21_cloud_computing": [
+      115
+    ],
+    "doc23_cryptography": [
+      130
+    ]
+  },
+  "applications": {
+    "doc19_computer_networks": [
+      21
+    ],
+    "doc21_cloud_computing": [
+      62
+    ],
+    "doc22_cybersecurity": [
+      4,
+      33
+    ],
+    "doc25_big_data": [
+      44
+    ]
+  },
+  "applies": {
+    "doc08_phrase_search": [
+      165
+    ],
+    "doc22_cybersecurity": [
+      57
+    ]
+  },
+  "apply": {
+    "doc01_search_engines": [
+      92
+    ],
+    "doc15_web_mining": [
+      30
+    ]
+  },
+  "appropriate": {
+    "doc14_synonyms": [
+      124
+    ]
+  },
+  "approximate": {
+    "doc12_ngrams": [
+      108
+    ],
+    "doc13_soundex": [
+      6
+    ]
+  },
+  "approximated": {
+    "doc13_soundex": [
+      136
+    ]
+  },
+  "apriori": {
+    "doc16_association_rules": [
+      45
+    ]
+  },
+  "architectures": {
+    "doc18_neural_networks": [
+      62
+    ]
+  },
+  "are": {
+    "doc02_inverted_index": [
+      107
+    ],
+    "doc03_web_crawling": [
+      34,
+      39,
+      45,
+      122,
+      134
+    ],
+    "doc05_text_preprocessing": [
+      49
+    ],
+    "doc07_boolean_queries": [
+      103
+    ],
+    "doc09_proximity_search": [
+      27,
+      127
+    ],
+    "doc11_spelling_correction": [
+      62
+    ],
+    "doc12_ngrams": [
+      96,
+      101
+    ],
+    "doc13_soundex": [
+      53,
+      81
+    ],
+    "doc14_synonyms": [
+      44,
+      87
+    ],
+    "doc15_web_mining": [
+      94
+    ],
+    "doc16_association_rules": [
+      71
+    ],
+    "doc18_neural_networks": [
+      2,
+      56,
+      63
+    ],
+    "doc20_databases": [
+      38
+    ],
+    "doc22_cybersecurity": [
+      15
+    ],
+    "doc25_big_data": [
+      5,
+      20
+    ]
+  },
+  "area": {
+    "doc19_computer_networks": [
+      40
+    ]
+  },
+  "areas": {
+    "doc15_web_mining": [
+      29
+    ]
+  },
+  "around": {
+    "doc08_phrase_search": [
+      151
+    ]
+  },
+  "article": {
+    "doc03_web_crawling": [
+      140
+    ]
+  },
+  "artificially": {
+    "doc04_page_ranking": [
+      48
+    ]
+  },
+  "as": {
+    "doc04_page_ranking": [
+      17,
+      59
+    ],
+    "doc05_text_preprocessing": [
+      14,
+      55
+    ],
+    "doc06_tf_idf": [
+      126
+    ],
+    "doc07_boolean_queries": [
+      31,
+      141,
+      153
+    ],
+    "doc12_ngrams": [
+      141
+    ],
+    "doc13_soundex": [
+      45
+    ],
+    "doc16_association_rules": [
+      142
+    ],
+    "doc19_computer_networks": [
+      25
+    ],
+    "doc20_databases": [
+      92
+    ],
+    "doc21_cloud_computing": [
+      42,
+      49,
+      57
+    ],
+    "doc22_cybersecurity": [
+      37
+    ],
+    "doc23_cryptography": [
+      88
+    ]
+  },
+  "assignment": {
+    "doc03_web_crawling": [
+      145
+    ],
+    "doc25_big_data": [
+      128
+    ]
+  },
+  "assigns": {
+    "doc17_clustering": [
+      54
+    ]
+  },
+  "association": {
+    "doc16_association_rules": [
+      0,
+      69,
+      141
+    ]
+  },
+  "asterisk": {
+    "doc10_wildcard_queries": [
+      34
+    ]
+  },
+  "asymmetric": {
+    "doc23_cryptography": [
+      22
+    ]
+  },
+  "at": {
+    "doc01_search_engines": [
+      61
+    ],
+    "doc07_boolean_queries": [
+      137
+    ],
+    "doc08_phrase_search": [
+      68,
+      74,
+      92,
+      127
+    ],
+    "doc09_proximity_search": [
+      30
+    ],
+    "doc10_wildcard_queries": [
+      46
+    ],
+    "doc12_ngrams": [
+      39
+    ],
+    "doc25_big_data": [
+      133
+    ]
+  },
+  "attacks": {
+    "doc22_cybersecurity": [
+      40
+    ]
+  },
+  "attempt": {
+    "doc22_cybersecurity": [
+      88
+    ]
+  },
+  "authenticate": {
+    "doc23_cryptography": [
+      111
+    ]
+  },
+  "authentication": {
+    "doc22_cybersecurity": [
+      23
+    ]
+  },
+  "authenticity": {
+    "doc23_cryptography": [
+      76
+    ]
+  },
+  "authorities": {
+    "doc15_web_mining": [
+      70
+    ]
+  },
+  "authorization": {
+    "doc22_cybersecurity": [
+      24
+    ]
+  },
+  "authors": {
+    "doc09_proximity_search": [
+      38
+    ]
+  },
+  "automation": {
+    "doc21_cloud_computing": [
+      78
+    ]
+  },
+  "automobile": {
+    "doc14_synonyms": [
+      8,
+      62,
+      67
+    ]
+  },
+  "availability": {
+    "doc22_cybersecurity": [
+      19
+    ]
+  },
+  "available": {
+    "doc03_web_crawling": [
+      86
+    ],
+    "doc14_synonyms": [
+      97
+    ]
+  },
+  "avoid": {
+    "doc03_web_crawling": [
+      56
+    ]
+  },
+  "avoided": {
+    "doc03_web_crawling": [
+      46
+    ]
+  },
+  "aware": {
+    "doc22_cybersecurity": [
+      109
+    ]
+  },
+  "away": {
+    "doc11_spelling_correction": [
+      40
+    ]
+  },
+  "backups": {
+    "doc22_cybersecurity": [
+      26
+    ]
+  },
+  "balances": {
+    "doc01_search_engines": [
+      115
+    ]
+  },
+  "bandwidth": {
+    "doc19_computer_networks": [
+      111
+    ]
+  },
+  "based": {
+    "doc03_web_crawling": [
+      79
+    ],
+    "doc04_page_ranking": [
+      56,
+      86
+    ]
+  },
+  "basket": {
+    "doc16_association_rules": [
+      13
+    ]
+  },
+  "be": {
+    "doc01_search_engines": [
+      110
+    ],
+    "doc04_page_ranking": [
+      36
+    ],
+    "doc05_text_preprocessing": [
+      62,
+      94
+    ],
+    "doc10_wildcard_queries": [
+      44
+    ],
+    "doc14_synonyms": [
+      103
+    ],
+    "doc16_association_rules": [
+      98,
+      107
+    ],
+    "doc17_clustering": [
+      24,
+      34,
+      131
+    ],
+    "doc21_cloud_computing": [
+      109
+    ],
+    "doc23_cryptography": [
+      122
+    ],
+    "doc24_robotics_vision": [
+      99
+    ],
+    "doc25_big_data": [
+      109,
+      140
+    ]
+  },
+  "because": {
+    "doc02_inverted_index": [
+      30,
+      119
+    ],
+    "doc03_web_crawling": [
+      107
+    ],
+    "doc04_page_ranking": [
+      44
+    ],
+    "doc05_text_preprocessing": [
+      68
+    ],
+    "doc06_tf_idf": [
+      156
+    ],
+    "doc14_synonyms": [
+      129
+    ],
+    "doc16_association_rules": [
+      101
+    ]
+  },
+  "becomes": {
+    "doc06_tf_idf": [
+      113
+    ]
+  },
+  "before": {
+    "doc01_search_engines": [
+      19
+    ],
+    "doc05_text_preprocessing": [
+      162
+    ],
+    "doc12_ngrams": [
+      128
+    ],
+    "doc14_synonyms": [
+      142
+    ],
+    "doc16_association_rules": [
+      137
+    ]
+  },
+  "beginning": {
+    "doc12_ngrams": [
+      41
+    ]
+  },
+  "begins": {
+    "doc01_search_engines": [
+      18
+    ],
+    "doc03_web_crawling": [
+      9
+    ]
+  },
+  "behaviour": {
+    "doc01_search_engines": [
+      127
+    ],
+    "doc11_spelling_correction": [
+      137
+    ],
+    "doc15_web_mining": [
+      11
+    ],
+    "doc17_clustering": [
+      38
+    ]
+  },
+  "better": {
+    "doc11_spelling_correction": [
+      64
+    ]
+  },
+  "between": {
+    "doc09_proximity_search": [
+      94,
+      112
+    ],
+    "doc11_spelling_correction": [
+      148
+    ],
+    "doc15_web_mining": [
+      62
+    ],
+    "doc18_neural_networks": [
+      39
+    ],
+    "doc19_computer_networks": [
+      72
+    ],
+    "doc23_cryptography": [
+      93
+    ]
+  },
+  "big": {
+    "doc25_big_data": [
+      0,
+      94
+    ]
+  },
+  "bigram": {
+    "doc12_ngrams": [
+      25
+    ]
+  },
+  "bigrams": {
+    "doc12_ngrams": [
+      53
+    ]
+  },
+  "binary": {
+    "doc07_boolean_queries": [
+      135
+    ]
+  },
+  "boolean": {
+    "doc01_search_engines": [
+      93
+    ],
+    "doc07_boolean_queries": [
+      0,
+      101,
+      128
+    ],
+    "doc09_proximity_search": [
+      113
+    ]
+  },
+  "both": {
+    "doc07_boolean_queries": [
+      17
+    ],
+    "doc10_wildcard_queries": [
+      154
+    ],
+    "doc20_databases": [
+      41,
+      64
+    ]
+  },
+  "boundary": {
+    "doc12_ngrams": [
+      37
+    ]
+  },
+  "box": {
+    "doc01_search_engines": [
+      138
+    ]
+  },
+  "bread": {
+    "doc16_association_rules": [
+      18
+    ]
+  },
+  "break": {
+    "doc12_ngrams": [
+      3
+    ]
+  },
+  "breaking": {
+    "doc11_spelling_correction": [
+      80
+    ]
+  },
+  "broad": {
+    "doc10_wildcard_queries": [
+      126
+    ]
+  },
+  "broader": {
+    "doc15_web_mining": [
+      114
+    ]
+  },
+  "browser": {
+    "doc23_cryptography": [
+      95
+    ]
+  },
+  "browsing": {
+    "doc19_computer_networks": [
+      27
+    ]
+  },
+  "builds": {
+    "doc02_inverted_index": [
+      151,
+      161
+    ],
+    "doc17_clustering": [
+      69
+    ]
+  },
+  "busy": {
+    "doc21_cloud_computing": [
+      35
+    ]
+  },
+  "but": {
+    "doc02_inverted_index": [
+      134
+    ],
+    "doc04_page_ranking": [
+      38
+    ],
+    "doc06_tf_idf": [
+      13
+    ],
+    "doc08_phrase_search": [
+      35,
+      139
+    ],
+    "doc10_wildcard_queries": [
+      124
+    ],
+    "doc13_soundex": [
+      132
+    ],
+    "doc14_synonyms": [
+      46
+    ],
+    "doc15_web_mining": [
+      96
+    ],
+    "doc17_clustering": [
+      126
+    ],
+    "doc21_cloud_computing": [
+      120
+    ],
+    "doc23_cryptography": [
+      119
+    ]
+  },
+  "butter": {
+    "doc16_association_rules": [
+      20
+    ]
+  },
+  "buying": {
+    "doc21_cloud_computing": [
+      10
+    ]
+  },
+  "by": {
+    "doc02_inverted_index": [
+      142
+    ],
+    "doc03_web_crawling": [
+      5
+    ],
+    "doc04_page_ranking": [
+      68
+    ],
+    "doc05_text_preprocessing": [
+      20,
+      152
+    ],
+    "doc06_tf_idf": [
+      145
+    ],
+    "doc07_boolean_queries": [
+      52,
+      63,
+      70
+    ],
+    "doc08_phrase_search": [
+      16,
+      53
+    ],
+    "doc09_proximity_search": [
+      29
+    ],
+    "doc11_spelling_correction": [
+      88
+    ],
+    "doc12_ngrams": [
+      80
+    ],
+    "doc16_association_rules": [
+      53
+    ],
+    "doc17_clustering": [
+      26,
+      36
+    ],
+    "doc18_neural_networks": [
+      7
+    ],
+    "doc20_databases": [
+      24
+    ],
+    "doc23_cryptography": [
+      3
+    ],
+    "doc24_robotics_vision": [
+      101
+    ]
+  },
+  "caching": {
+    "doc19_computer_networks": [
+      112
+    ]
+  },
+  "calculate": {
+    "doc13_soundex": [
+      87
+    ],
+    "doc20_databases": [
+      35
+    ]
+  },
+  "calculated": {
+    "doc06_tf_idf": [
+      99
+    ]
+  },
+  "calculating": {
+    "doc12_ngrams": [
+      129
+    ]
+  },
+  "called": {
+    "doc02_inverted_index": [
+      117
+    ]
+  },
+  "cameras": {
+    "doc24_robotics_vision": [
+      21
+    ]
+  },
+  "can": {
+    "doc02_inverted_index": [
+      33,
+      67
+    ],
+    "doc03_web_crawling": [
+      113
+    ],
+    "doc04_page_ranking": [
+      13,
+      47
+    ],
+    "doc05_text_preprocessing": [
+      43,
+      61,
+      92,
+      138
+    ],
+    "doc06_tf_idf": [
+      54,
+      70
+    ],
+    "doc07_boolean_queries": [
+      115
+    ],
+    "doc08_phrase_search": [
+      26
+    ],
+    "doc09_proximity_search": [
+      18,
+      120,
+      133
+    ],
+    "doc10_wildcard_queries": [
+      17,
+      43,
+      128
+    ],
+    "doc11_spelling_correction": [
+      68,
+      134
+    ],
+    "doc12_ngrams": [
+      64
+    ],
+    "doc13_soundex": [
+      13,
+      86
+    ],
+    "doc14_synonyms": [
+      2,
+      40,
+      117,
+      149
+    ],
+    "doc15_web_mining": [
+      127,
+      140
+    ],
+    "doc16_association_rules": [
+      85,
+      106
+    ],
+    "doc17_clustering": [
+      23,
+      33,
+      94,
+      123,
+      136
+    ],
+    "doc18_neural_networks": [
+      89,
+      116
+    ],
+    "doc19_computer_networks": [
+      7
+    ],
+    "doc20_databases": [
+      102
+    ],
+    "doc21_cloud_computing": [
+      17,
+      31,
+      108
+    ],
+    "doc22_cybersecurity": [
+      87
+    ],
+    "doc24_robotics_vision": [
+      9,
+      98
+    ],
+    "doc25_big_data": [
+      108,
+      116,
+      139
+    ]
+  },
+  "candidate": {
+    "doc13_soundex": [
+      67
+    ],
+    "doc18_neural_networks": [
+      129
+    ]
+  },
+  "candidates": {
+    "doc11_spelling_correction": [
+      56,
+      67
+    ],
+    "doc12_ngrams": [
+      20,
+      127
+    ],
+    "doc24_robotics_vision": [
+      114
+    ]
+  },
+  "cannot": {
+    "doc03_web_crawling": [
+      67
+    ],
+    "doc08_phrase_search": [
+      37
+    ],
+    "doc16_association_rules": [
+      63
+    ]
+  },
+  "captions": {
+    "doc24_robotics_vision": [
+      104
+    ]
+  },
+  "car": {
+    "doc14_synonyms": [
+      13,
+      64,
+      65
+    ]
+  },
+  "careful": {
+    "doc18_neural_networks": [
+      79
+    ]
+  },
+  "carefully": {
+    "doc14_synonyms": [
+      105
+    ],
+    "doc16_association_rules": [
+      100
+    ]
+  },
+  "center": {
+    "doc17_clustering": [
+      60
+    ]
+  },
+  "centers": {
+    "doc17_clustering": [
+      53,
+      65
+    ]
+  },
+  "central": {
+    "doc01_search_engines": [
+      151
+    ]
+  },
+  "change": {
+    "doc03_web_crawling": [
+      100
+    ],
+    "doc11_spelling_correction": [
+      24
+    ]
+  },
+  "changes": {
+    "doc22_cybersecurity": [
+      12
+    ],
+    "doc23_cryptography": [
+      79
+    ]
+  },
+  "changing": {
+    "doc21_cloud_computing": [
+      85
+    ]
+  },
+  "character": {
+    "doc11_spelling_correction": [
+      17,
+      81
+    ],
+    "doc12_ngrams": [
+      0
+    ],
+    "doc13_soundex": [
+      126
+    ]
+  },
+  "characteristics": {
+    "doc25_big_data": [
+      19
+    ]
+  },
+  "checked": {
+    "doc05_text_preprocessing": [
+      95
+    ]
+  },
+  "checks": {
+    "doc08_phrase_search": [
+      108
+    ]
+  },
+  "choose": {
+    "doc10_wildcard_queries": [
+      142
+    ],
+    "doc11_spelling_correction": [
+      135
+    ],
+    "doc14_synonyms": [
+      28
+    ],
+    "doc17_clustering": [
+      137
+    ],
+    "doc19_computer_networks": [
+      70
+    ],
+    "doc24_robotics_vision": [
+      33
+    ]
+  },
+  "chooses": {
+    "doc03_web_crawling": [
+      76
+    ],
+    "doc17_clustering": [
+      49
+    ]
+  },
+  "chosen": {
+    "doc14_synonyms": [
+      133
+    ]
+  },
+  "classic": {
+    "doc16_association_rules": [
+      11
+    ]
+  },
+  "classical": {
+    "doc24_robotics_vision": [
+      74
+    ]
+  },
+  "classification": {
+    "doc24_robotics_vision": [
+      56
+    ]
+  },
+  "cleaned": {
+    "doc03_web_crawling": [
+      123
+    ],
+    "doc05_text_preprocessing": [
+      101
+    ]
+  },
+  "cleanup": {
+    "doc05_text_preprocessing": [
+      25
+    ]
+  },
+  "clear": {
+    "doc01_search_engines": [
+      136
+    ]
+  },
+  "click": {
+    "doc20_databases": [
+      119
+    ]
+  },
+  "close": {
+    "doc11_spelling_correction": [
+      4
+    ]
+  },
+  "cloud": {
+    "doc21_cloud_computing": [
+      0,
+      95
+    ]
+  },
+  "clustered": {
+    "doc17_clustering": [
+      25,
+      35
+    ]
+  },
+  "clustering": {
+    "doc17_clustering": [
+      0,
+      46,
+      67,
+      78,
+      96
+    ]
+  },
+  "clusters": {
+    "doc17_clustering": [
+      122
+    ]
+  },
+  "co": {
+    "doc16_association_rules": [
+      120
+    ]
+  },
+  "code": {
+    "doc13_soundex": [
+      28,
+      43,
+      52,
+      89,
+      102,
+      113
+    ]
+  },
+  "collect": {
+    "doc01_search_engines": [
+      176
+    ]
+  },
+  "collection": {
+    "doc01_search_engines": [
+      11,
+      160
+    ],
+    "doc03_web_crawling": [
+      119,
+      166
+    ],
+    "doc06_tf_idf": [
+      17,
+      102
+    ],
+    "doc07_boolean_queries": [
+      78
+    ],
+    "doc10_wildcard_queries": [
+      87
+    ],
+    "doc13_soundex": [
+      105
+    ],
+    "doc17_clustering": [
+      19,
+      22
+    ]
+  },
+  "collections": {
+    "doc25_big_data": [
+      3
+    ]
+  },
+  "columns": {
+    "doc20_databases": [
+      100
+    ]
+  },
+  "combinations": {
+    "doc16_association_rules": [
+      92
+    ]
+  },
+  "combine": {
+    "doc02_inverted_index": [
+      78
+    ],
+    "doc04_page_ranking": [
+      101
+    ],
+    "doc18_neural_networks": [
+      124
+    ],
+    "doc20_databases": [
+      30
+    ],
+    "doc23_cryptography": [
+      68
+    ]
+  },
+  "combined": {
+    "doc23_cryptography": [
+      123
+    ]
+  },
+  "combines": {
+    "doc14_synonyms": [
+      92
+    ],
+    "doc16_association_rules": [
+      130
+    ],
+    "doc24_robotics_vision": [
+      1
+    ],
+    "doc25_big_data": [
+      72
+    ]
+  },
+  "common": {
+    "doc04_page_ranking": [
+      144
+    ],
+    "doc05_text_preprocessing": [
+      116
+    ],
+    "doc06_tf_idf": [
+      19
+    ],
+    "doc11_spelling_correction": [
+      30
+    ],
+    "doc13_soundex": [
+      82
+    ],
+    "doc15_web_mining": [
+      86
+    ],
+    "doc16_association_rules": [
+      91,
+      115
+    ],
+    "doc22_cybersecurity": [
+      13
+    ],
+    "doc25_big_data": [
+      18
+    ]
+  },
+  "commonly": {
+    "doc08_phrase_search": [
+      147
+    ],
+    "doc21_cloud_computing": [
+      91
+    ]
+  },
+  "communication": {
+    "doc19_computer_networks": [
+      18
+    ],
+    "doc23_cryptography": [
+      92
+    ]
+  },
+  "compare": {
+    "doc05_text_preprocessing": [
+      46
+    ],
+    "doc12_ngrams": [
+      15,
+      65
+    ]
+  },
+  "compared": {
+    "doc01_search_engines": [
+      163
+    ],
+    "doc13_soundex": [
+      130
+    ]
+  },
+  "compares": {
+    "doc04_page_ranking": [
+      23,
+      148
+    ],
+    "doc09_proximity_search": [
+      62
+    ],
+    "doc11_spelling_correction": [
+      48
+    ],
+    "doc16_association_rules": [
+      117
+    ]
+  },
+  "comparison": {
+    "doc12_ngrams": [
+      145
+    ]
+  },
+  "complete": {
+    "doc21_cloud_computing": [
+      61
+    ]
+  },
+  "complex": {
+    "doc18_neural_networks": [
+      119
+    ]
+  },
+  "component": {
+    "doc01_search_engines": [
+      36
+    ]
+  },
+  "computation": {
+    "doc05_text_preprocessing": [
+      126
+    ],
+    "doc10_wildcard_queries": [
+      22
+    ],
+    "doc24_robotics_vision": [
+      3
+    ],
+    "doc25_big_data": [
+      33
+    ]
+  },
+  "computed": {
+    "doc05_text_preprocessing": [
+      124
+    ]
+  },
+  "computer": {
+    "doc10_wildcard_queries": [
+      19
+    ],
+    "doc19_computer_networks": [
+      0
+    ],
+    "doc21_cloud_computing": [
+      119
+    ],
+    "doc24_robotics_vision": [
+      43
+    ]
+  },
+  "computing": {
+    "doc05_text_preprocessing": [
+      123
+    ],
+    "doc10_wildcard_queries": [
+      20
+    ],
+    "doc21_cloud_computing": [
+      1,
+      3
+    ]
+  },
+  "concept": {
+    "doc05_text_preprocessing": [
+      11
+    ],
+    "doc07_boolean_queries": [
+      118,
+      122
+    ],
+    "doc14_synonyms": [
+      34
+    ]
+  },
+  "concurrently": {
+    "doc20_databases": [
+      86
+    ]
+  },
+  "condition": {
+    "doc16_association_rules": [
+      41
+    ]
+  },
+  "conditions": {
+    "doc20_databases": [
+      33
+    ]
+  },
+  "confidence": {
+    "doc16_association_rules": [
+      32,
+      104,
+      132
+    ]
+  },
+  "confidentiality": {
+    "doc22_cybersecurity": [
+      16
+    ]
+  },
+  "connect": {
+    "doc19_computer_networks": [
+      2
+    ]
+  },
+  "connected": {
+    "doc18_neural_networks": [
+      10
+    ],
+    "doc20_databases": [
+      23
+    ]
+  },
+  "connecting": {
+    "doc09_proximity_search": [
+      49
+    ]
+  },
+  "connection": {
+    "doc18_neural_networks": [
+      14
+    ]
+  },
+  "connections": {
+    "doc22_cybersecurity": [
+      71
+    ]
+  },
+  "connectivity": {
+    "doc15_web_mining": [
+      38
+    ]
+  },
+  "consequence": {
+    "doc16_association_rules": [
+      37,
+      111
+    ]
+  },
+  "consistency": {
+    "doc20_databases": [
+      78
+    ]
+  },
+  "consistent": {
+    "doc05_text_preprocessing": [
+      29
+    ]
+  },
+  "consists": {
+    "doc03_web_crawling": [
+      149
+    ]
+  },
+  "consonants": {
+    "doc13_soundex": [
+      36
+    ]
+  },
+  "construction": {
+    "doc25_big_data": [
+      107
+    ]
+  },
+  "contain": {
+    "doc02_inverted_index": [
+      90
+    ],
+    "doc06_tf_idf": [
+      92,
+      158
+    ]
+  },
+  "containers": {
+    "doc21_cloud_computing": [
+      65
+    ]
+  },
+  "containing": {
+    "doc02_inverted_index": [
+      9
+    ],
+    "doc04_page_ranking": [
+      31
+    ],
+    "doc07_boolean_queries": [
+      16
+    ],
+    "doc08_phrase_search": [
+      102
+    ],
+    "doc09_proximity_search": [
+      138
+    ],
+    "doc10_wildcard_queries": [
+      80
+    ]
+  },
+  "contains": {
+    "doc02_inverted_index": [
+      54,
+      61
+    ],
+    "doc08_phrase_search": [
+      125
+    ],
+    "doc17_clustering": [
+      30
+    ]
+  },
+  "content": {
+    "doc03_web_crawling": [
+      109
+    ],
+    "doc04_page_ranking": [
+      21,
+      85,
+      119
+    ],
+    "doc15_web_mining": [
+      7,
+      12,
+      45
+    ],
+    "doc22_cybersecurity": [
+      105
+    ],
+    "doc24_robotics_vision": [
+      97
+    ]
+  },
+  "control": {
+    "doc03_web_crawling": [
+      31
+    ]
+  },
+  "controlled": {
+    "doc14_synonyms": [
+      121
+    ]
+  },
+  "controls": {
+    "doc22_cybersecurity": [
+      21
+    ]
+  },
+  "converts": {
+    "doc13_soundex": [
+      34
+    ]
+  },
+  "convolutional": {
+    "doc18_neural_networks": [
+      54
+    ]
+  },
+  "copied": {
+    "doc03_web_crawling": [
+      108
+    ]
+  },
+  "corpus": {
+    "doc01_search_engines": [
+      157
+    ],
+    "doc03_web_crawling": [
+      147
+    ],
+    "doc14_synonyms": [
+      128
+    ],
+    "doc25_big_data": [
+      125
+    ]
+  },
+  "correct": {
+    "doc23_cryptography": [
+      125
+    ]
+  },
+  "correction": {
+    "doc11_spelling_correction": [
+      1
+    ],
+    "doc12_ngrams": [
+      23
+    ]
+  },
+  "corrections": {
+    "doc11_spelling_correction": [
+      129
+    ]
+  },
+  "correctly": {
+    "doc05_text_preprocessing": [
+      96
+    ]
+  },
+  "cosine": {
+    "doc04_page_ranking": [
+      116,
+      146
+    ],
+    "doc06_tf_idf": [
+      133,
+      170
+    ]
+  },
+  "counts": {
+    "doc02_inverted_index": [
+      106
+    ],
+    "doc06_tf_idf": [
+      62,
+      88
+    ]
+  },
+  "crawl": {
+    "doc19_computer_networks": [
+      88
+    ]
+  },
+  "crawled": {
+    "doc03_web_crawling": [
+      120
+    ],
+    "doc20_databases": [
+      115
+    ],
+    "doc25_big_data": [
+      97
+    ]
+  },
+  "crawler": {
+    "doc01_search_engines": [
+      25
+    ],
+    "doc03_web_crawling": [
+      2,
+      49,
+      66,
+      157
+    ],
+    "doc07_boolean_queries": [
+      11,
+      146
+    ],
+    "doc19_computer_networks": [
+      94
+    ]
+  },
+  "crawlers": {
+    "doc22_cybersecurity": [
+      79
+    ]
+  },
+  "crawling": {
+    "doc03_web_crawling": [
+      29
+    ],
+    "doc21_cloud_computing": [
+      98
+    ]
+  },
+  "create": {
+    "doc20_databases": [
+      10
+    ],
+    "doc23_cryptography": [
+      41
+    ]
+  },
+  "creates": {
+    "doc01_search_engines": [
+      84
+    ],
+    "doc07_boolean_queries": [
+      124
+    ]
+  },
+  "credit": {
+    "doc04_page_ranking": [
+      123,
+      135
+    ]
+  },
+  "cross": {
+    "doc22_cybersecurity": [
+      42
+    ]
+  },
+  "cryptography": {
+    "doc23_cryptography": [
+      0,
+      114
+    ]
+  },
+  "current": {
+    "doc05_text_preprocessing": [
+      146
+    ],
+    "doc15_web_mining": [
+      108
+    ]
+  },
+  "customers": {
+    "doc17_clustering": [
+      32
+    ]
+  },
+  "cybersecurity": {
+    "doc22_cybersecurity": [
+      0
+    ]
+  },
+  "data": {
+    "doc02_inverted_index": [
+      153
+    ],
+    "doc09_proximity_search": [
+      14,
+      20,
+      79,
+      86
+    ],
+    "doc15_web_mining": [
+      31
+    ],
+    "doc16_association_rules": [
+      127
+    ],
+    "doc17_clustering": [
+      3
+    ],
+    "doc18_neural_networks": [
+      71
+    ],
+    "doc19_computer_networks": [
+      9
+    ],
+    "doc20_databases": [
+      20,
+      85
+    ],
+    "doc23_cryptography": [
+      46,
+      103
+    ],
+    "doc25_big_data": [
+      1,
+      37,
+      84,
+      95
+    ]
+  },
+  "database": {
+    "doc20_databases": [
+      0,
+      18,
+      47,
+      126
+    ]
+  },
+  "databases": {
+    "doc17_clustering": [
+      117
+    ],
+    "doc20_databases": [
+      42,
+      88
+    ],
+    "doc21_cloud_computing": [
+      22
+    ]
+  },
+  "datagrams": {
+    "doc19_computer_networks": [
+      61
+    ]
+  },
+  "datasets": {
+    "doc24_robotics_vision": [
+      72
+    ]
+  },
+  "decide": {
+    "doc07_boolean_queries": [
+      43
+    ]
+  },
+  "decides": {
+    "doc01_search_engines": [
+      104
+    ]
+  },
+  "decision": {
+    "doc15_web_mining": [
+      122
+    ]
+  },
+  "decryption": {
+    "doc23_cryptography": [
+      21
+    ]
+  },
+  "deep": {
+    "doc18_neural_networks": [
+      44
+    ]
+  },
+  "delete": {
+    "doc20_databases": [
+      14
+    ]
+  },
+  "deletion": {
+    "doc11_spelling_correction": [
+      39
+    ]
+  },
+  "deletions": {
+    "doc11_spelling_correction": [
+      19
+    ]
+  },
+  "deliver": {
+    "doc19_computer_networks": [
+      33
+    ]
+  },
+  "delivers": {
+    "doc21_cloud_computing": [
+      2
+    ]
+  },
+  "delivery": {
+    "doc19_computer_networks": [
+      52
+    ]
+  },
+  "demand": {
+    "doc21_cloud_computing": [
+      86
+    ]
+  },
+  "demonstrate": {
+    "doc13_soundex": [
+      154
+    ]
+  },
+  "demonstrates": {
+    "doc01_search_engines": [
+      170
+    ],
+    "doc13_soundex": [
+      117
+    ],
+    "doc25_big_data": [
+      129
+    ]
+  },
+  "demonstration": {
+    "doc10_wildcard_queries": [
+      172
+    ]
+  },
+  "denial": {
+    "doc22_cybersecurity": [
+      47
+    ]
+  },
+  "depend": {
+    "doc19_computer_networks": [
+      84
+    ]
+  },
+  "dependencies": {
+    "doc22_cybersecurity": [
+      62
+    ]
+  },
+  "depending": {
+    "doc20_databases": [
+      128
+    ]
+  },
+  "depends": {
+    "doc17_clustering": [
+      80
+    ]
+  },
+  "deployment": {
+    "doc21_cloud_computing": [
+      53
+    ]
+  },
+  "descending": {
+    "doc06_tf_idf": [
+      173
+    ]
+  },
+  "describes": {
+    "doc25_big_data": [
+      2
+    ]
+  },
+  "descriptive": {
+    "doc09_proximity_search": [
+      140
+    ]
+  },
+  "descriptors": {
+    "doc24_robotics_vision": [
+      103
+    ]
+  },
+  "design": {
+    "doc21_cloud_computing": [
+      123
+    ],
+    "doc23_cryptography": [
+      131
+    ]
+  },
+  "detect": {
+    "doc21_cloud_computing": [
+      81
+    ],
+    "doc23_cryptography": [
+      78
+    ]
+  },
+  "detection": {
+    "doc03_web_crawling": [
+      104
+    ],
+    "doc24_robotics_vision": [
+      54
+    ]
+  },
+  "devices": {
+    "doc19_computer_networks": [
+      3
+    ]
+  },
+  "dictionary": {
+    "doc14_synonyms": [
+      51,
+      122
+    ]
+  },
+  "difference": {
+    "doc18_neural_networks": [
+      38
+    ]
+  },
+  "differences": {
+    "doc13_soundex": [
+      77
+    ]
+  },
+  "different": {
+    "doc05_text_preprocessing": [
+      143
+    ],
+    "doc13_soundex": [
+      121
+    ],
+    "doc14_synonyms": [
+      29
+    ],
+    "doc20_databases": [
+      125
+    ]
+  },
+  "differently": {
+    "doc14_synonyms": [
+      48
+    ]
+  },
+  "differs": {
+    "doc13_soundex": [
+      26
+    ]
+  },
+  "difficult": {
+    "doc23_cryptography": [
+      52
+    ]
+  },
+  "digital": {
+    "doc23_cryptography": [
+      37,
+      66
+    ]
+  },
+  "direct": {
+    "doc12_ngrams": [
+      152
+    ]
+  },
+  "directly": {
+    "doc02_inverted_index": [
+      35
+    ],
+    "doc13_soundex": [
+      131
+    ],
+    "doc25_big_data": [
+      142
+    ]
+  },
+  "discover": {
+    "doc17_clustering": [
+      14
+    ]
+  },
+  "discovered": {
+    "doc16_association_rules": [
+      140
+    ]
+  },
+  "discovering": {
+    "doc15_web_mining": [
+      113
+    ]
+  },
+  "discovers": {
+    "doc01_search_engines": [
+      26
+    ],
+    "doc03_web_crawling": [
+      3
+    ],
+    "doc15_web_mining": [
+      2
+    ],
+    "doc16_association_rules": [
+      3
+    ]
+  },
+  "display": {
+    "doc01_search_engines": [
+      182
+    ]
+  },
+  "displayed": {
+    "doc07_boolean_queries": [
+      152
+    ]
+  },
+  "displays": {
+    "doc10_wildcard_queries": [
+      153
+    ]
+  },
+  "distance": {
+    "doc11_spelling_correction": [
+      12,
+      61,
+      72,
+      152
+    ],
+    "doc12_ngrams": [
+      131,
+      154
+    ],
+    "doc13_soundex": [
+      124
+    ],
+    "doc17_clustering": [
+      85
+    ]
+  },
+  "distinct": {
+    "doc15_web_mining": [
+      97
+    ]
+  },
+  "distinctive": {
+    "doc04_page_ranking": [
+      138
+    ],
+    "doc06_tf_idf": [
+      29
+    ]
+  },
+  "distinguish": {
+    "doc05_text_preprocessing": [
+      73
+    ],
+    "doc06_tf_idf": [
+      56
+    ]
+  },
+  "distribute": {
+    "doc04_page_ranking": [
+      61
+    ]
+  },
+  "distributed": {
+    "doc20_databases": [
+      107
+    ],
+    "doc21_cloud_computing": [
+      94
+    ],
+    "doc25_big_data": [
+      29,
+      78
+    ]
+  },
+  "distribution": {
+    "doc25_big_data": [
+      90
+    ]
+  },
+  "divided": {
+    "doc12_ngrams": [
+      79
+    ],
+    "doc25_big_data": [
+      110
+    ]
+  },
+  "divides": {
+    "doc06_tf_idf": [
+      135
+    ],
+    "doc25_big_data": [
+      51
+    ]
+  },
+  "do": {
+    "doc05_text_preprocessing": [
+      71
+    ]
+  },
+  "document": {
+    "doc01_search_engines": [
+      118,
+      144
+    ],
+    "doc02_inverted_index": [
+      20,
+      23,
+      48,
+      56,
+      84,
+      104,
+      124,
+      130
+    ],
+    "doc03_web_crawling": [
+      162
+    ],
+    "doc04_page_ranking": [
+      27,
+      30,
+      92,
+      131,
+      156
+    ],
+    "doc05_text_preprocessing": [
+      34,
+      75
+    ],
+    "doc06_tf_idf": [
+      12,
+      25,
+      39,
+      59,
+      67,
+      86,
+      96,
+      105,
+      120,
+      143
+    ],
+    "doc07_boolean_queries": [
+      30,
+      158
+    ],
+    "doc08_phrase_search": [
+      21,
+      34,
+      64,
+      123
+    ],
+    "doc09_proximity_search": [
+      123
+    ],
+    "doc14_synonyms": [
+      24
+    ],
+    "doc17_clustering": [
+      21
+    ],
+    "doc18_neural_networks": [
+      99
+    ],
+    "doc20_databases": [
+      62
+    ],
+    "doc23_cryptography": [
+      82
+    ]
+  },
+  "documents": {
+    "doc01_search_engines": [
+      89
+    ],
+    "doc02_inverted_index": [
+      8,
+      89,
+      144
+    ],
+    "doc03_web_crawling": [
+      153
+    ],
+    "doc06_tf_idf": [
+      91,
+      152
+    ],
+    "doc07_boolean_queries": [
+      15,
+      25,
+      91,
+      96
+    ],
+    "doc08_phrase_search": [
+      101
+    ],
+    "doc09_proximity_search": [
+      155
+    ],
+    "doc10_wildcard_queries": [
+      79,
+      161
+    ],
+    "doc14_synonyms": [
+      42,
+      146
+    ],
+    "doc15_web_mining": [
+      50,
+      102
+    ],
+    "doc19_computer_networks": [
+      96
+    ],
+    "doc20_databases": [
+      96
+    ],
+    "doc22_cybersecurity": [
+      81
+    ]
+  },
+  "does": {
+    "doc07_boolean_queries": [
+      40
+    ],
+    "doc11_spelling_correction": [
+      116
+    ]
+  },
+  "domain": {
+    "doc16_association_rules": [
+      135
+    ]
+  },
+  "dot": {
+    "doc06_tf_idf": [
+      137
+    ]
+  },
+  "down": {
+    "doc21_cloud_computing": [
+      39
+    ]
+  },
+  "downloads": {
+    "doc03_web_crawling": [
+      16
+    ],
+    "doc19_computer_networks": [
+      95
+    ]
+  },
+  "duplicate": {
+    "doc03_web_crawling": [
+      43,
+      103
+    ]
+  },
+  "during": {
+    "doc18_neural_networks": [
+      29,
+      85
+    ],
+    "doc21_cloud_computing": [
+      34
+    ]
+  },
+  "each": {
+    "doc01_search_engines": [
+      42
+    ],
+    "doc02_inverted_index": [
+      4,
+      139
+    ],
+    "doc04_page_ranking": [
+      154
+    ],
+    "doc07_boolean_queries": [
+      29
+    ],
+    "doc08_phrase_search": [
+      87
+    ],
+    "doc09_proximity_search": [
+      7
+    ],
+    "doc17_clustering": [
+      55
+    ],
+    "doc18_neural_networks": [
+      13,
+      20
+    ]
+  },
+  "easier": {
+    "doc18_neural_networks": [
+      107
+    ]
+  },
+  "easy": {
+    "doc10_wildcard_queries": [
+      92
+    ],
+    "doc11_spelling_correction": [
+      157
+    ],
+    "doc13_soundex": [
+      152
+    ]
+  },
+  "edges": {
+    "doc24_robotics_vision": [
+      78
+    ]
+  },
+  "edit": {
+    "doc11_spelling_correction": [
+      60,
+      151
+    ],
+    "doc12_ngrams": [
+      130
+    ],
+    "doc13_soundex": [
+      123
+    ]
+  },
+  "effective": {
+    "doc18_neural_networks": [
+      57
+    ]
+  },
+  "efficient": {
+    "doc10_wildcard_queries": [
+      119
+    ],
+    "doc20_databases": [
+      7
+    ]
+  },
+  "efficiently": {
+    "doc15_web_mining": [
+      150
+    ]
+  },
+  "eight": {
+    "doc08_phrase_search": [
+      76
+    ]
+  },
+  "either": {
+    "doc07_boolean_queries": [
+      32
+    ],
+    "doc12_ngrams": [
+      87
+    ]
+  },
+  "email": {
+    "doc19_computer_networks": [
+      29
+    ]
+  },
+  "embeddings": {
+    "doc24_robotics_vision": [
+      108
+    ]
+  },
+  "encodes": {
+    "doc13_soundex": [
+      1
+    ]
+  },
+  "encrypt": {
+    "doc23_cryptography": [
+      102
+    ]
+  },
+  "encrypted": {
+    "doc22_cybersecurity": [
+      70
+    ]
+  },
+  "encryption": {
+    "doc22_cybersecurity": [
+      25
+    ],
+    "doc23_cryptography": [
+      13,
+      19,
+      23
+    ]
+  },
+  "end": {
+    "doc10_wildcard_queries": [
+      48
+    ],
+    "doc12_ngrams": [
+      43
+    ]
+  },
+  "engine": {
+    "doc01_search_engines": [
+      168
+    ],
+    "doc08_phrase_search": [
+      98
+    ],
+    "doc10_wildcard_queries": [
+      101
+    ],
+    "doc11_spelling_correction": [
+      47
+    ],
+    "doc12_ngrams": [
+      112
+    ],
+    "doc13_soundex": [
+      12
+    ],
+    "doc14_synonyms": [
+      68
+    ],
+    "doc15_web_mining": [
+      126
+    ],
+    "doc18_neural_networks": [
+      105
+    ],
+    "doc21_cloud_computing": [
+      90
+    ]
+  },
+  "engines": {
+    "doc01_search_engines": [
+      1
+    ],
+    "doc08_phrase_search": [
+      157
+    ],
+    "doc19_computer_networks": [
+      83
+    ],
+    "doc20_databases": [
+      45
+    ]
+  },
+  "english": {
+    "doc13_soundex": [
+      7
+    ]
+  },
+  "enough": {
+    "doc04_page_ranking": [
+      43
+    ],
+    "doc10_wildcard_queries": [
+      97
+    ]
+  },
+  "entered": {
+    "doc08_phrase_search": [
+      173
+    ],
+    "doc14_synonyms": [
+      76
+    ]
+  },
+  "environment": {
+    "doc24_robotics_vision": [
+      30
+    ]
+  },
+  "environments": {
+    "doc21_cloud_computing": [
+      54
+    ]
+  },
+  "especially": {
+    "doc06_tf_idf": [
+      47
+    ],
+    "doc13_soundex": [
+      71
+    ]
+  },
+  "estimates": {
+    "doc04_page_ranking": [
+      2
+    ]
+  },
+  "evaluated": {
+    "doc16_association_rules": [
+      99
+    ]
+  },
+  "evaluation": {
+    "doc18_neural_networks": [
+      80
+    ]
+  },
+  "even": {
+    "doc12_ngrams": [
+      54
+    ],
+    "doc13_soundex": [
+      22
+    ]
+  },
+  "every": {
+    "doc01_search_engines": [
+      59
+    ],
+    "doc02_inverted_index": [
+      47
+    ],
+    "doc03_web_crawling": [
+      70
+    ],
+    "doc06_tf_idf": [
+      38
+    ],
+    "doc08_phrase_search": [
+      60,
+      63
+    ],
+    "doc09_proximity_search": [
+      55
+    ],
+    "doc10_wildcard_queries": [
+      61
+    ],
+    "doc13_soundex": [
+      142
+    ],
+    "doc14_synonyms": [
+      113
+    ],
+    "doc21_cloud_computing": [
+      13
+    ],
+    "doc25_big_data": [
+      137
+    ]
+  },
+  "evidence": {
+    "doc06_tf_idf": [
+      42
+    ],
+    "doc15_web_mining": [
+      149
+    ]
+  },
+  "exact": {
+    "doc05_text_preprocessing": [
+      90
+    ],
+    "doc08_phrase_search": [
+      144
+    ],
+    "doc09_proximity_search": [
+      12,
+      116
+    ],
+    "doc10_wildcard_queries": [
+      12,
+      30
+    ],
+    "doc14_synonyms": [
+      37
+    ]
+  },
+  "examines": {
+    "doc15_web_mining": [
+      76
+    ]
+  },
+  "example": {
+    "doc02_inverted_index": [
+      13
+    ],
+    "doc06_tf_idf": [
+      32
+    ],
+    "doc12_ngrams": [
+      45
+    ]
+  },
+  "examples": {
+    "doc17_clustering": [
+      9
+    ],
+    "doc18_neural_networks": [
+      82
+    ]
+  },
+  "exchange": {
+    "doc19_computer_networks": [
+      8
+    ],
+    "doc23_cryptography": [
+      35
+    ]
+  },
+  "exclude": {
+    "doc07_boolean_queries": [
+      120
+    ]
+  },
+  "excluding": {
+    "doc07_boolean_queries": [
+      95
+    ]
+  },
+  "expanded": {
+    "doc10_wildcard_queries": [
+      82,
+      156
+    ],
+    "doc14_synonyms": [
+      81
+    ]
+  },
+  "expansion": {
+    "doc10_wildcard_queries": [
+      118,
+      166
+    ],
+    "doc14_synonyms": [
+      1,
+      98,
+      101,
+      140
+    ]
+  },
+  "expected": {
+    "doc16_association_rules": [
+      124
+    ]
+  },
+  "experience": {
+    "doc19_computer_networks": [
+      126
+    ]
+  },
+  "explain": {
+    "doc11_spelling_correction": [
+      159
+    ],
+    "doc18_neural_networks": [
+      111
+    ]
+  },
+  "explains": {
+    "doc03_web_crawling": [
+      164
+    ]
+  },
+  "explicit": {
+    "doc14_synonyms": [
+      59
+    ]
+  },
+  "exploit": {
+    "doc22_cybersecurity": [
+      90
+    ]
+  },
+  "exploration": {
+    "doc17_clustering": [
+      125
+    ]
+  },
+  "exposes": {
+    "doc11_spelling_correction": [
+      126
+    ]
+  },
+  "exposure": {
+    "doc22_cybersecurity": [
+      74
+    ]
+  },
+  "express": {
+    "doc09_proximity_search": [
+      39
+    ]
+  },
+  "expressed": {
+    "doc14_synonyms": [
+      47
+    ]
+  },
+  "expression": {
+    "doc10_wildcard_queries": [
+      67
+    ]
+  },
+  "expressions": {
+    "doc07_boolean_queries": [
+      102
+    ]
+  },
+  "extra": {
+    "doc09_proximity_search": [
+      46
+    ]
+  },
+  "extracts": {
+    "doc01_search_engines": [
+      30
+    ],
+    "doc03_web_crawling": [
+      19
+    ],
+    "doc15_web_mining": [
+      47
+    ],
+    "doc24_robotics_vision": [
+      45
+    ]
+  },
+  "face": {
+    "doc22_cybersecurity": [
+      34
+    ]
+  },
+  "failure": {
+    "doc19_computer_networks": [
+      114
+    ]
+  },
+  "failures": {
+    "doc21_cloud_computing": [
+      82
+    ],
+    "doc25_big_data": [
+      83
+    ]
+  },
+  "far": {
+    "doc09_proximity_search": [
+      128
+    ]
+  },
+  "fast": {
+    "doc02_inverted_index": [
+      29
+    ],
+    "doc10_wildcard_queries": [
+      96
+    ],
+    "doc25_big_data": [
+      8
+    ]
+  },
+  "faster": {
+    "doc20_databases": [
+      72
+    ]
+  },
+  "feature": {
+    "doc13_soundex": [
+      156
+    ],
+    "doc17_clustering": [
+      83
+    ]
+  },
+  "features": {
+    "doc05_text_preprocessing": [
+      167
+    ],
+    "doc24_robotics_vision": [
+      77
+    ]
+  },
+  "field": {
+    "doc04_page_ranking": [
+      97
+    ]
+  },
+  "fifteen": {
+    "doc02_inverted_index": [
+      156
+    ]
+  },
+  "files": {
+    "doc02_inverted_index": [
+      158
+    ],
+    "doc23_cryptography": [
+      109
+    ]
+  },
+  "filter": {
+    "doc13_soundex": [
+      68
+    ],
+    "doc20_databases": [
+      32
+    ]
+  },
+  "final": {
+    "doc18_neural_networks": [
+      135
+    ]
+  },
+  "find": {
+    "doc10_wildcard_queries": [
+      78
+    ],
+    "doc13_soundex": [
+      17
+    ],
+    "doc23_cryptography": [
+      59
+    ]
+  },
+  "finding": {
+    "doc15_web_mining": [
+      101
+    ]
+  },
+  "finds": {
+    "doc08_phrase_search": [
+      100
+    ],
+    "doc09_proximity_search": [
+      2
+    ]
+  },
+  "fingerprint": {
+    "doc23_cryptography": [
+      65
+    ]
+  },
+  "fingerprints": {
+    "doc23_cryptography": [
+      44
+    ]
+  },
+  "firewalls": {
+    "doc22_cybersecurity": [
+      67
+    ]
+  },
+  "first": {
+    "doc01_search_engines": [
+      112
+    ],
+    "doc07_boolean_queries": [
+      127
+    ],
+    "doc08_phrase_search": [
+      99
+    ],
+    "doc10_wildcard_queries": [
+      59
+    ],
+    "doc13_soundex": [
+      31
+    ]
+  },
+  "fixed": {
+    "doc23_cryptography": [
+      42
+    ]
+  },
+  "flat": {
+    "doc17_clustering": [
+      108
+    ]
+  },
+  "flexible": {
+    "doc20_databases": [
+      104
+    ]
+  },
+  "focused": {
+    "doc06_tf_idf": [
+      58
+    ],
+    "doc14_synonyms": [
+      127
+    ]
+  },
+  "focuses": {
+    "doc15_web_mining": [
+      99,
+      111
+    ]
+  },
+  "follow": {
+    "doc09_proximity_search": [
+      85
+    ]
+  },
+  "followed": {
+    "doc02_inverted_index": [
+      141
+    ],
+    "doc05_text_preprocessing": [
+      19
+    ],
+    "doc08_phrase_search": [
+      15
+    ]
+  },
+  "following": {
+    "doc03_web_crawling": [
+      6
+    ],
+    "doc08_phrase_search": [
+      88
+    ],
+    "doc12_ngrams": [
+      149
+    ]
+  },
+  "for": {
+    "doc02_inverted_index": [
+      12,
+      73,
+      80,
+      110,
+      169
+    ],
+    "doc04_page_ranking": [
+      118
+    ],
+    "doc05_text_preprocessing": [
+      5,
+      111
+    ],
+    "doc06_tf_idf": [
+      31
+    ],
+    "doc07_boolean_queries": [
+      10,
+      84
+    ],
+    "doc08_phrase_search": [
+      59,
+      83
+    ],
+    "doc09_proximity_search": [
+      64,
+      70
+    ],
+    "doc10_wildcard_queries": [
+      169
+    ],
+    "doc11_spelling_correction": [
+      7,
+      78,
+      140
+    ],
+    "doc12_ngrams": [
+      21,
+      44,
+      104,
+      146
+    ],
+    "doc13_soundex": [
+      73,
+      90,
+      141
+    ],
+    "doc14_synonyms": [
+      7,
+      12,
+      17,
+      31,
+      95,
+      125
+    ],
+    "doc16_association_rules": [
+      48
+    ],
+    "doc18_neural_networks": [
+      58,
+      66,
+      93,
+      127,
+      134
+    ],
+    "doc20_databases": [
+      71
+    ],
+    "doc23_cryptography": [
+      18
+    ],
+    "doc24_robotics_vision": [
+      128
+    ],
+    "doc25_big_data": [
+      11,
+      74
+    ]
+  },
+  "form": {
+    "doc10_wildcard_queries": [
+      32
+    ],
+    "doc16_association_rules": [
+      17
+    ]
+  },
+  "format": {
+    "doc09_proximity_search": [
+      151
+    ]
+  },
+  "forms": {
+    "doc05_text_preprocessing": [
+      28
+    ]
+  },
+  "formula": {
+    "doc04_page_ranking": [
+      109
+    ]
+  },
+  "forward": {
+    "doc19_computer_networks": [
+      76
+    ]
+  },
+  "found": {
+    "doc01_search_engines": [
+      40
+    ]
+  },
+  "frames": {
+    "doc19_computer_networks": [
+      77
+    ]
+  },
+  "frequency": {
+    "doc02_inverted_index": [
+      85,
+      94
+    ],
+    "doc04_page_ranking": [
+      90,
+      93
+    ],
+    "doc06_tf_idf": [
+      26,
+      61,
+      69,
+      87,
+      97,
+      106
+    ]
+  },
+  "frequent": {
+    "doc03_web_crawling": [
+      92
+    ],
+    "doc05_text_preprocessing": [
+      51
+    ],
+    "doc16_association_rules": [
+      49,
+      66
+    ]
+  },
+  "frequently": {
+    "doc16_association_rules": [
+      26
+    ]
+  },
+  "freshness": {
+    "doc03_web_crawling": [
+      82
+    ]
+  },
+  "from": {
+    "doc01_search_engines": [
+      123
+    ],
+    "doc02_inverted_index": [
+      36,
+      155
+    ],
+    "doc05_text_preprocessing": [
+      64,
+      76,
+      104
+    ],
+    "doc06_tf_idf": [
+      100,
+      153
+    ],
+    "doc07_boolean_queries": [
+      75,
+      80
+    ],
+    "doc11_spelling_correction": [
+      41
+    ],
+    "doc13_soundex": [
+      122
+    ],
+    "doc15_web_mining": [
+      5,
+      49
+    ],
+    "doc19_computer_networks": [
+      106
+    ],
+    "doc22_cybersecurity": [
+      7
+    ],
+    "doc24_robotics_vision": [
+      47
+    ],
+    "doc25_big_data": [
+      38
+    ]
+  },
+  "full": {
+    "doc03_web_crawling": [
+      156
+    ],
+    "doc05_text_preprocessing": [
+      106
+    ],
+    "doc07_boolean_queries": [
+      77
+    ]
+  },
+  "function": {
+    "doc12_ngrams": [
+      138
+    ],
+    "doc17_clustering": [
+      86
+    ],
+    "doc18_neural_networks": [
+      74
+    ]
+  },
+  "functions": {
+    "doc21_cloud_computing": [
+      27
+    ],
+    "doc23_cryptography": [
+      40
+    ]
+  },
+  "gap": {
+    "doc09_proximity_search": [
+      160
+    ]
+  },
+  "generate": {
+    "doc12_ngrams": [
+      19
+    ]
+  },
+  "generated": {
+    "doc20_databases": [
+      122
+    ]
+  },
+  "generation": {
+    "doc18_neural_networks": [
+      130
+    ]
+  },
+  "geometry": {
+    "doc24_robotics_vision": [
+      79
+    ]
+  },
+  "gives": {
+    "doc04_page_ranking": [
+      122,
+      133
+    ],
+    "doc06_tf_idf": [
+      2
+    ]
+  },
+  "goal": {
+    "doc17_clustering": [
+      11
+    ],
+    "doc24_robotics_vision": [
+      41
+    ]
+  },
+  "goals": {
+    "doc22_cybersecurity": [
+      14
+    ]
+  },
+  "good": {
+    "doc01_search_engines": [
+      113
+    ]
+  },
+  "gram": {
+    "doc10_wildcard_queries": [
+      109
+    ],
+    "doc11_spelling_correction": [
+      155
+    ],
+    "doc12_ngrams": [
+      68,
+      137
+    ]
+  },
+  "grammatical": {
+    "doc05_text_preprocessing": [
+      52
+    ]
+  },
+  "grams": {
+    "doc11_spelling_correction": [
+      83,
+      104
+    ],
+    "doc12_ngrams": [
+      2,
+      78,
+      85,
+      100
+    ]
+  },
+  "graph": {
+    "doc15_web_mining": [
+      66
+    ]
+  },
+  "graphical": {
+    "doc06_tf_idf": [
+      167
+    ],
+    "doc09_proximity_search": [
+      143
+    ]
+  },
+  "graphs": {
+    "doc20_databases": [
+      97,
+      118
+    ],
+    "doc25_big_data": [
+      100
+    ]
+  },
+  "ground": {
+    "doc09_proximity_search": [
+      111
+    ]
+  },
+  "group": {
+    "doc17_clustering": [
+      113
+    ]
+  },
+  "groups": {
+    "doc13_soundex": [
+      39
+    ],
+    "doc17_clustering": [
+      1,
+      73,
+      91
+    ]
+  },
+  "guaranteed": {
+    "doc13_soundex": [
+      55
+    ]
+  },
+  "gui": {
+    "doc08_phrase_search": [
+      161
+    ],
+    "doc10_wildcard_queries": [
+      149
+    ],
+    "doc14_synonyms": [
+      137
+    ]
+  },
+  "handling": {
+    "doc19_computer_networks": [
+      115
+    ],
+    "doc22_cybersecurity": [
+      106
+    ]
+  },
+  "hardware": {
+    "doc21_cloud_computing": [
+      75
+    ]
+  },
+  "harmful": {
+    "doc22_cybersecurity": [
+      11
+    ]
+  },
+  "has": {
+    "doc07_boolean_queries": [
+      108
+    ],
+    "doc16_association_rules": [
+      15
+    ],
+    "doc18_neural_networks": [
+      15
+    ]
+  },
+  "hash": {
+    "doc23_cryptography": [
+      39,
+      49
+    ]
+  },
+  "hashes": {
+    "doc23_cryptography": [
+      73
+    ]
+  },
+  "have": {
+    "doc05_text_preprocessing": [
+      142
+    ],
+    "doc11_spelling_correction": [
+      69
+    ],
+    "doc13_soundex": [
+      57
+    ],
+    "doc14_synonyms": [
+      108
+    ]
+  },
+  "headings": {
+    "doc04_page_ranking": [
+      94
+    ]
+  },
+  "help": {
+    "doc01_search_engines": [
+      2
+    ],
+    "doc12_ngrams": [
+      11
+    ],
+    "doc21_cloud_computing": [
+      79
+    ],
+    "doc22_cybersecurity": [
+      112
+    ],
+    "doc24_robotics_vision": [
+      36
+    ],
+    "doc25_big_data": [
+      34
+    ]
+  },
+  "helps": {
+    "doc24_robotics_vision": [
+      111
+    ]
+  },
+  "hidden": {
+    "doc18_neural_networks": [
+      52
+    ]
+  },
+  "hierarchical": {
+    "doc17_clustering": [
+      66
+    ]
+  },
+  "high": {
+    "doc06_tf_idf": [
+      3
+    ],
+    "doc16_association_rules": [
+      103
+    ]
+  },
+  "higher": {
+    "doc12_ngrams": [
+      90
+    ]
+  },
+  "hosts": {
+    "doc19_computer_networks": [
+      45
+    ]
+  },
+  "how": {
+    "doc02_inverted_index": [
+      87,
+      96
+    ],
+    "doc03_web_crawling": [
+      36,
+      42
+    ],
+    "doc06_tf_idf": [
+      89
+    ],
+    "doc16_association_rules": [
+      25,
+      34
+    ]
+  },
+  "however": {
+    "doc05_text_preprocessing": [
+      78
+    ]
+  },
+  "hubs": {
+    "doc15_web_mining": [
+      72
+    ]
+  },
+  "huge": {
+    "doc12_ngrams": [
+      119
+    ]
+  },
+  "hyperlinks": {
+    "doc03_web_crawling": [
+      7
+    ],
+    "doc04_page_ranking": [
+      64
+    ]
+  },
+  "idea": {
+    "doc09_proximity_search": [
+      42
+    ]
+  },
+  "ideas": {
+    "doc01_search_engines": [
+      152
+    ],
+    "doc15_web_mining": [
+      33
+    ],
+    "doc24_robotics_vision": [
+      92
+    ],
+    "doc25_big_data": [
+      132
+    ]
+  },
+  "identifiers": {
+    "doc02_inverted_index": [
+      57
+    ],
+    "doc07_boolean_queries": [
+      159
+    ],
+    "doc20_databases": [
+      63
+    ]
+  },
+  "identifies": {
+    "doc10_wildcard_queries": [
+      60
+    ],
+    "doc19_computer_networks": [
+      44
+    ]
+  },
+  "identify": {
+    "doc15_web_mining": [
+      69
+    ]
+  },
+  "idf": {
+    "doc02_inverted_index": [
+      112
+    ],
+    "doc04_page_ranking": [
+      114,
+      132
+    ],
+    "doc06_tf_idf": [
+      1,
+      112
+    ],
+    "doc18_neural_networks": [
+      104
+    ]
+  },
+  "if": {
+    "doc02_inverted_index": [
+      58
+    ],
+    "doc08_phrase_search": [
+      65
+    ]
+  },
+  "image": {
+    "doc24_robotics_vision": [
+      55,
+      85
+    ]
+  },
+  "images": {
+    "doc15_web_mining": [
+      51
+    ],
+    "doc18_neural_networks": [
+      59
+    ],
+    "doc24_robotics_vision": [
+      48,
+      125
+    ]
+  },
+  "immediately": {
+    "doc08_phrase_search": [
+      14
+    ]
+  },
+  "implementation": {
+    "doc05_text_preprocessing": [
+      150
+    ]
+  },
+  "implemented": {
+    "doc07_boolean_queries": [
+      51,
+      62,
+      69
+    ]
+  },
+  "implies": {
+    "doc16_association_rules": [
+      21
+    ]
+  },
+  "importance": {
+    "doc03_web_crawling": [
+      81
+    ],
+    "doc04_page_ranking": [
+      4,
+      62,
+      76
+    ]
+  },
+  "important": {
+    "doc01_search_engines": [
+      132
+    ],
+    "doc07_boolean_queries": [
+      48
+    ],
+    "doc19_computer_networks": [
+      66
+    ],
+    "doc20_databases": [
+      39
+    ]
+  },
+  "improve": {
+    "doc10_wildcard_queries": [
+      122
+    ],
+    "doc14_synonyms": [
+      3
+    ],
+    "doc15_web_mining": [
+      132
+    ],
+    "doc17_clustering": [
+      124
+    ]
+  },
+  "in": {
+    "doc01_search_engines": [
+      7,
+      41,
+      80
+    ],
+    "doc02_inverted_index": [
+      145
+    ],
+    "doc03_web_crawling": [
+      26,
+      142,
+      172
+    ],
+    "doc04_page_ranking": [
+      129
+    ],
+    "doc06_tf_idf": [
+      10,
+      36,
+      118,
+      165,
+      172
+    ],
+    "doc07_boolean_queries": [
+      130
+    ],
+    "doc08_phrase_search": [
+      18,
+      32,
+      43,
+      62,
+      154,
+      158
+    ],
+    "doc09_proximity_search": [
+      74
+    ],
+    "doc10_wildcard_queries": [
+      50,
+      84
+    ],
+    "doc11_spelling_correction": [
+      34
+    ],
+    "doc12_ngrams": [
+      86,
+      132
+    ],
+    "doc13_soundex": [
+      103
+    ],
+    "doc14_synonyms": [
+      52,
+      79
+    ],
+    "doc16_association_rules": [
+      73,
+      93
+    ],
+    "doc17_clustering": [
+      17
+    ],
+    "doc20_databases": [
+      40,
+      124
+    ],
+    "doc21_cloud_computing": [
+      130
+    ],
+    "doc23_cryptography": [
+      104
+    ],
+    "doc24_robotics_vision": [
+      13
+    ],
+    "doc25_big_data": [
+      126
+    ]
+  },
+  "incident": {
+    "doc22_cybersecurity": [
+      29
+    ]
+  },
+  "include": {
+    "doc14_synonyms": [
+      21
+    ],
+    "doc22_cybersecurity": [
+      22
+    ],
+    "doc24_robotics_vision": [
+      52
+    ]
+  },
+  "includes": {
+    "doc12_ngrams": [
+      30
+    ]
+  },
+  "incoming": {
+    "doc04_page_ranking": [
+      83
+    ]
+  },
+  "independent": {
+    "doc16_association_rules": [
+      125
+    ]
+  },
+  "index": {
+    "doc01_search_engines": [
+      82,
+      178
+    ],
+    "doc02_inverted_index": [
+      2,
+      115,
+      137,
+      164
+    ],
+    "doc05_text_preprocessing": [
+      42,
+      81
+    ],
+    "doc07_boolean_queries": [
+      13
+    ],
+    "doc08_phrase_search": [
+      25,
+      49
+    ],
+    "doc09_proximity_search": [
+      53
+    ],
+    "doc10_wildcard_queries": [
+      107,
+      110
+    ],
+    "doc15_web_mining": [
+      144
+    ],
+    "doc20_databases": [
+      48,
+      58
+    ],
+    "doc23_cryptography": [
+      108
+    ],
+    "doc24_robotics_vision": [
+      110
+    ],
+    "doc25_big_data": [
+      106
+    ]
+  },
+  "indexer": {
+    "doc03_web_crawling": [
+      128
+    ]
+  },
+  "indexes": {
+    "doc20_databases": [
+      37,
+      123
+    ],
+    "doc25_big_data": [
+      118
+    ]
+  },
+  "indexing": {
+    "doc01_search_engines": [
+      35
+    ],
+    "doc03_web_crawling": [
+      171
+    ],
+    "doc05_text_preprocessing": [
+      6,
+      102
+    ],
+    "doc21_cloud_computing": [
+      99
+    ]
+  },
+  "individual": {
+    "doc05_text_preprocessing": [
+      36
+    ]
+  },
+  "influence": {
+    "doc19_computer_networks": [
+      117
+    ]
+  },
+  "information": {
+    "doc01_search_engines": [
+      6,
+      173
+    ],
+    "doc04_page_ranking": [
+      54
+    ],
+    "doc07_boolean_queries": [
+      111
+    ],
+    "doc08_phrase_search": [
+      7,
+      12,
+      66,
+      126,
+      136
+    ],
+    "doc14_synonyms": [
+      18
+    ],
+    "doc15_web_mining": [
+      89
+    ],
+    "doc17_clustering": [
+      143
+    ],
+    "doc18_neural_networks": [
+      87
+    ],
+    "doc20_databases": [
+      4
+    ],
+    "doc22_cybersecurity": [
+      6
+    ],
+    "doc23_cryptography": [
+      2
+    ],
+    "doc24_robotics_vision": [
+      46
+    ]
+  },
+  "infrastructure": {
+    "doc21_cloud_computing": [
+      41,
+      47,
+      97
+    ]
+  },
+  "infrequent": {
+    "doc16_association_rules": [
+      61
+    ]
+  },
+  "initially": {
+    "doc07_boolean_queries": [
+      42
+    ]
+  },
+  "injection": {
+    "doc22_cybersecurity": [
+      45
+    ]
+  },
+  "input": {
+    "doc22_cybersecurity": [
+      53
+    ]
+  },
+  "inputs": {
+    "doc18_neural_networks": [
+      24
+    ]
+  },
+  "insertions": {
+    "doc11_spelling_correction": [
+      18
+    ]
+  },
+  "inside": {
+    "doc02_inverted_index": [
+      101
+    ],
+    "doc19_computer_networks": [
+      78
+    ]
+  },
+  "inspect": {
+    "doc18_neural_networks": [
+      109
+    ]
+  },
+  "inspected": {
+    "doc25_big_data": [
+      141
+    ]
+  },
+  "inspired": {
+    "doc18_neural_networks": [
+      6
+    ]
+  },
+  "instance": {
+    "doc07_boolean_queries": [
+      85
+    ]
+  },
+  "instead": {
+    "doc02_inverted_index": [
+      44
+    ],
+    "doc11_spelling_correction": [
+      124
+    ],
+    "doc13_soundex": [
+      61
+    ],
+    "doc17_clustering": [
+      68,
+      103
+    ],
+    "doc21_cloud_computing": [
+      8
+    ]
+  },
+  "integrity": {
+    "doc22_cybersecurity": [
+      17
+    ]
+  },
+  "intended": {
+    "doc11_spelling_correction": [
+      43
+    ]
+  },
+  "intentionally": {
+    "doc14_synonyms": [
+      56
+    ]
+  },
+  "interaction": {
+    "doc15_web_mining": [
+      79
+    ],
+    "doc25_big_data": [
+      104
+    ]
+  },
+  "interface": {
+    "doc01_search_engines": [
+      129
+    ],
+    "doc06_tf_idf": [
+      168
+    ],
+    "doc09_proximity_search": [
+      144
+    ]
+  },
+  "intermediate": {
+    "doc25_big_data": [
+      64
+    ]
+  },
+  "internet": {
+    "doc14_synonyms": [
+      74
+    ],
+    "doc19_computer_networks": [
+      14
+    ]
+  },
+  "intersect": {
+    "doc02_inverted_index": [
+      68
+    ]
+  },
+  "intersection": {
+    "doc07_boolean_queries": [
+      55
+    ]
+  },
+  "into": {
+    "doc05_text_preprocessing": [
+      35
+    ],
+    "doc11_spelling_correction": [
+      27
+    ],
+    "doc12_ngrams": [
+      6
+    ],
+    "doc13_soundex": [
+      37
+    ],
+    "doc17_clustering": [
+      101
+    ],
+    "doc18_neural_networks": [
+      25
+    ],
+    "doc19_computer_networks": [
+      19
+    ],
+    "doc20_databases": [
+      21
+    ],
+    "doc25_big_data": [
+      54
+    ]
+  },
+  "introducing": {
+    "doc05_text_preprocessing": [
+      163
+    ]
+  },
+  "inverse": {
+    "doc04_page_ranking": [
+      91
+    ],
+    "doc06_tf_idf": [
+      24,
+      95
+    ]
+  },
+  "inverted": {
+    "doc02_inverted_index": [
+      1,
+      118,
+      136
+    ],
+    "doc08_phrase_search": [
+      24
+    ],
+    "doc15_web_mining": [
+      143
+    ],
+    "doc20_databases": [
+      57
+    ]
+  },
+  "ip": {
+    "doc19_computer_networks": [
+      42
+    ]
+  },
+  "is": {
+    "doc01_search_engines": [
+      46,
+      130,
+      161
+    ],
+    "doc02_inverted_index": [
+      116
+    ],
+    "doc03_web_crawling": [
+      105,
+      158
+    ],
+    "doc04_page_ranking": [
+      41
+    ],
+    "doc05_text_preprocessing": [
+      59,
+      114,
+      133
+    ],
+    "doc06_tf_idf": [
+      46,
+      98,
+      124
+    ],
+    "doc07_boolean_queries": [
+      46,
+      50,
+      61,
+      68,
+      151
+    ],
+    "doc08_phrase_search": [
+      13,
+      79,
+      114
+    ],
+    "doc09_proximity_search": [
+      35
+    ],
+    "doc10_wildcard_queries": [
+      91
+    ],
+    "doc11_spelling_correction": [
+      36,
+      76,
+      138
+    ],
+    "doc12_ngrams": [
+      58,
+      139
+    ],
+    "doc13_soundex": [
+      70,
+      128,
+      135,
+      138
+    ],
+    "doc14_synonyms": [
+      55,
+      123
+    ],
+    "doc16_association_rules": [
+      42,
+      112
+    ],
+    "doc17_clustering": [
+      12,
+      43
+    ],
+    "doc18_neural_networks": [
+      106
+    ],
+    "doc19_computer_networks": [
+      64
+    ],
+    "doc25_big_data": [
+      46
+    ]
+  },
+  "isolate": {
+    "doc21_cloud_computing": [
+      66
+    ]
+  },
+  "it": {
+    "doc01_search_engines": [
+      83,
+      169
+    ],
+    "doc02_inverted_index": [
+      120,
+      147,
+      159
+    ],
+    "doc03_web_crawling": [
+      8,
+      75
+    ],
+    "doc07_boolean_queries": [
+      39
+    ],
+    "doc08_phrase_search": [
+      36
+    ],
+    "doc09_proximity_search": [
+      34
+    ],
+    "doc10_wildcard_queries": [
+      68
+    ],
+    "doc11_spelling_correction": [
+      115,
+      125
+    ],
+    "doc13_soundex": [
+      69,
+      147
+    ],
+    "doc14_synonyms": [
+      60,
+      130
+    ],
+    "doc16_association_rules": [
+      55
+    ],
+    "doc17_clustering": [
+      29,
+      48
+    ],
+    "doc23_cryptography": [
+      5,
+      51,
+      120
+    ]
+  },
+  "item": {
+    "doc16_association_rules": [
+      28,
+      50
+    ],
+    "doc17_clustering": [
+      56
+    ]
+  },
+  "items": {
+    "doc16_association_rules": [
+      6
+    ],
+    "doc17_clustering": [
+      4
+    ]
+  },
+  "its": {
+    "doc02_inverted_index": [
+      41
+    ],
+    "doc11_spelling_correction": [
+      53
+    ],
+    "doc14_synonyms": [
+      84
+    ],
+    "doc17_clustering": [
+      58
+    ],
+    "doc18_neural_networks": [
+      23
+    ],
+    "doc21_cloud_computing": [
+      121
+    ],
+    "doc24_robotics_vision": [
+      29
+    ]
+  },
+  "jaccard": {
+    "doc12_ngrams": [
+      71
+    ]
+  },
+  "jump": {
+    "doc02_inverted_index": [
+      34
+    ]
+  },
+  "k": {
+    "doc10_wildcard_queries": [
+      108
+    ],
+    "doc17_clustering": [
+      41
+    ]
+  },
+  "keep": {
+    "doc05_text_preprocessing": [
+      83
+    ]
+  },
+  "keeps": {
+    "doc05_text_preprocessing": [
+      148
+    ],
+    "doc07_boolean_queries": [
+      90
+    ],
+    "doc22_cybersecurity": [
+      61
+    ]
+  },
+  "key": {
+    "doc20_databases": [
+      50,
+      93
+    ],
+    "doc23_cryptography": [
+      17,
+      27,
+      31,
+      34,
+      70,
+      126
+    ],
+    "doc25_big_data": [
+      65,
+      77
+    ]
+  },
+  "keys": {
+    "doc20_databases": [
+      25
+    ],
+    "doc23_cryptography": [
+      11
+    ]
+  },
+  "keywords": {
+    "doc22_cybersecurity": [
+      100
+    ]
+  },
+  "know": {
+    "doc10_wildcard_queries": [
+      28
+    ]
+  },
+  "knowledge": {
+    "doc15_web_mining": [
+      48
+    ],
+    "doc16_association_rules": [
+      136
+    ]
+  },
+  "known": {
+    "doc11_spelling_correction": [
+      54
+    ],
+    "doc18_neural_networks": [
+      42
+    ]
+  },
+  "labelled": {
+    "doc17_clustering": [
+      7
+    ],
+    "doc24_robotics_vision": [
+      71
+    ]
+  },
+  "labels": {
+    "doc17_clustering": [
+      128
+    ]
+  },
+  "language": {
+    "doc13_soundex": [
+      143
+    ],
+    "doc18_neural_networks": [
+      67
+    ]
+  },
+  "large": {
+    "doc01_search_engines": [
+      10
+    ],
+    "doc10_wildcard_queries": [
+      99,
+      136
+    ],
+    "doc21_cloud_computing": [
+      88
+    ],
+    "doc24_robotics_vision": [
+      70
+    ],
+    "doc25_big_data": [
+      7
+    ]
+  },
+  "larger": {
+    "doc16_association_rules": [
+      67
+    ],
+    "doc21_cloud_computing": [
+      131
+    ]
+  },
+  "latency": {
+    "doc19_computer_networks": [
+      110
+    ]
+  },
+  "later": {
+    "doc02_inverted_index": [
+      108
+    ],
+    "doc08_phrase_search": [
+      133
+    ],
+    "doc13_soundex": [
+      35
+    ]
+  },
+  "layer": {
+    "doc18_neural_networks": [
+      21
+    ]
+  },
+  "layers": {
+    "doc18_neural_networks": [
+      8,
+      53
+    ],
+    "doc19_computer_networks": [
+      20,
+      32
+    ]
+  },
+  "learn": {
+    "doc18_neural_networks": [
+      117
+    ]
+  },
+  "learned": {
+    "doc18_neural_networks": [
+      132
+    ],
+    "doc24_robotics_vision": [
+      107
+    ]
+  },
+  "learning": {
+    "doc10_wildcard_queries": [
+      170
+    ],
+    "doc11_spelling_correction": [
+      142
+    ],
+    "doc17_clustering": [
+      121
+    ],
+    "doc18_neural_networks": [
+      4,
+      45,
+      86
+    ],
+    "doc21_cloud_computing": [
+      106
+    ]
+  },
+  "least": {
+    "doc22_cybersecurity": [
+      58
+    ]
+  },
+  "left": {
+    "doc09_proximity_search": [
+      66
+    ]
+  },
+  "lengths": {
+    "doc06_tf_idf": [
+      147
+    ]
+  },
+  "less": {
+    "doc03_web_crawling": [
+      135
+    ]
+  },
+  "letter": {
+    "doc11_spelling_correction": [
+      32,
+      95
+    ],
+    "doc12_ngrams": [
+      57
+    ],
+    "doc13_soundex": [
+      32
+    ]
+  },
+  "letters": {
+    "doc10_wildcard_queries": [
+      39
+    ],
+    "doc12_ngrams": [
+      34
+    ]
+  },
+  "level": {
+    "doc16_association_rules": [
+      52,
+      54
+    ]
+  },
+  "levenshtein": {
+    "doc11_spelling_correction": [
+      11
+    ],
+    "doc12_ngrams": [
+      153
+    ]
+  },
+  "lexical": {
+    "doc18_neural_networks": [
+      125
+    ]
+  },
+  "lidar": {
+    "doc24_robotics_vision": [
+      22
+    ]
+  },
+  "lift": {
+    "doc16_association_rules": [
+      116,
+      133
+    ]
+  },
+  "lightweight": {
+    "doc19_computer_networks": [
+      60
+    ]
+  },
+  "like": {
+    "doc21_cloud_computing": [
+      96
+    ]
+  },
+  "likely": {
+    "doc12_ngrams": [
+      126
+    ],
+    "doc24_robotics_vision": [
+      113
+    ]
+  },
+  "limit": {
+    "doc12_ngrams": [
+      117
+    ]
+  },
+  "limits": {
+    "doc22_cybersecurity": [
+      103
+    ]
+  },
+  "link": {
+    "doc04_page_ranking": [
+      11,
+      16,
+      55
+    ],
+    "doc20_databases": [
+      117
+    ],
+    "doc25_big_data": [
+      99
+    ]
+  },
+  "linked": {
+    "doc04_page_ranking": [
+      67
+    ]
+  },
+  "links": {
+    "doc01_search_engines": [
+      124
+    ],
+    "doc03_web_crawling": [
+      21,
+      25
+    ],
+    "doc04_page_ranking": [
+      84
+    ],
+    "doc15_web_mining": [
+      8,
+      20,
+      61
+    ],
+    "doc19_computer_networks": [
+      41
+    ],
+    "doc22_cybersecurity": [
+      97
+    ]
+  },
+  "list": {
+    "doc02_inverted_index": [
+      43,
+      52
+    ],
+    "doc05_text_preprocessing": [
+      161
+    ],
+    "doc07_boolean_queries": [
+      74,
+      155
+    ],
+    "doc08_phrase_search": [
+      56
+    ],
+    "doc11_spelling_correction": [
+      114
+    ],
+    "doc13_soundex": [
+      96
+    ],
+    "doc17_clustering": [
+      109
+    ]
+  },
+  "listing": {
+    "doc14_synonyms": [
+      143
+    ]
+  },
+  "lists": {
+    "doc02_inverted_index": [
+      72
+    ],
+    "doc07_boolean_queries": [
+      59
+    ],
+    "doc08_phrase_search": [
+      111
+    ],
+    "doc10_wildcard_queries": [
+      76
+    ],
+    "doc14_synonyms": [
+      94
+    ]
+  },
+  "little": {
+    "doc06_tf_idf": [
+      41
+    ]
+  },
+  "local": {
+    "doc01_search_engines": [
+      156
+    ],
+    "doc03_web_crawling": [
+      144
+    ],
+    "doc08_phrase_search": [
+      160
+    ],
+    "doc19_computer_networks": [
+      36,
+      80
+    ],
+    "doc21_cloud_computing": [
+      113
+    ]
+  },
+  "locality": {
+    "doc25_big_data": [
+      85
+    ]
+  },
+  "locate": {
+    "doc01_search_engines": [
+      4
+    ],
+    "doc15_web_mining": [
+      146
+    ],
+    "doc24_robotics_vision": [
+      112
+    ]
+  },
+  "location": {
+    "doc09_proximity_search": [
+      58
+    ]
+  },
+  "locations": {
+    "doc02_inverted_index": [
+      168
+    ],
+    "doc08_phrase_search": [
+      58
+    ],
+    "doc09_proximity_search": [
+      63,
+      69
+    ],
+    "doc20_databases": [
+      54
+    ]
+  },
+  "log": {
+    "doc21_cloud_computing": [
+      102
+    ]
+  },
+  "logarithmic": {
+    "doc06_tf_idf": [
+      83
+    ]
+  },
+  "logging": {
+    "doc22_cybersecurity": [
+      101
+    ]
+  },
+  "logs": {
+    "doc15_web_mining": [
+      26,
+      77
+    ],
+    "doc20_databases": [
+      120
+    ],
+    "doc25_big_data": [
+      41,
+      105
+    ]
+  },
+  "long": {
+    "doc06_tf_idf": [
+      151
+    ],
+    "doc17_clustering": [
+      107
+    ]
+  },
+  "longer": {
+    "doc08_phrase_search": [
+      85
+    ]
+  },
+  "looks": {
+    "doc01_search_engines": [
+      77
+    ]
+  },
+  "loss": {
+    "doc18_neural_networks": [
+      73
+    ]
+  },
+  "lower": {
+    "doc06_tf_idf": [
+      23
+    ],
+    "doc11_spelling_correction": [
+      59
+    ],
+    "doc19_computer_networks": [
+      31
+    ]
+  },
+  "lowercasing": {
+    "doc05_text_preprocessing": [
+      22,
+      154
+    ]
+  },
+  "machine": {
+    "doc17_clustering": [
+      120
+    ],
+    "doc18_neural_networks": [
+      3
+    ],
+    "doc21_cloud_computing": [
+      105
+    ],
+    "doc25_big_data": [
+      16
+    ]
+  },
+  "machines": {
+    "doc21_cloud_computing": [
+      20
+    ],
+    "doc24_robotics_vision": [
+      8
+    ],
+    "doc25_big_data": [
+      112
+    ]
+  },
+  "main": {
+    "doc03_web_crawling": [
+      139
+    ]
+  },
+  "maintain": {
+    "doc22_cybersecurity": [
+      113
+    ]
+  },
+  "make": {
+    "doc05_text_preprocessing": [
+      26
+    ],
+    "doc10_wildcard_queries": [
+      116
+    ]
+  },
+  "makes": {
+    "doc02_inverted_index": [
+      27
+    ],
+    "doc11_spelling_correction": [
+      145
+    ],
+    "doc14_synonyms": [
+      131
+    ],
+    "doc23_cryptography": [
+      50
+    ]
+  },
+  "making": {
+    "doc10_wildcard_queries": [
+      164
+    ],
+    "doc15_web_mining": [
+      123
+    ]
+  },
+  "malicious": {
+    "doc22_cybersecurity": [
+      85
+    ]
+  },
+  "malware": {
+    "doc22_cybersecurity": [
+      41
+    ]
+  },
+  "manage": {
+    "doc21_cloud_computing": [
+      84
+    ],
+    "doc25_big_data": [
+      82
+    ]
+  },
+  "managed": {
+    "doc21_cloud_computing": [
+      21
+    ]
+  },
+  "management": {
+    "doc23_cryptography": [
+      127
+    ]
+  },
+  "manipulate": {
+    "doc22_cybersecurity": [
+      93
+    ]
+  },
+  "many": {
+    "doc02_inverted_index": [
+      88,
+      132
+    ],
+    "doc03_web_crawling": [
+      59
+    ],
+    "doc04_page_ranking": [
+      69,
+      102
+    ],
+    "doc06_tf_idf": [
+      75,
+      90
+    ],
+    "doc10_wildcard_queries": [
+      130
+    ],
+    "doc12_ngrams": [
+      50
+    ],
+    "doc18_neural_networks": [
+      51
+    ],
+    "doc20_databases": [
+      82
+    ],
+    "doc21_cloud_computing": [
+      70
+    ]
+  },
+  "map": {
+    "doc25_big_data": [
+      55,
+      61
+    ]
+  },
+  "mapreduce": {
+    "doc25_big_data": [
+      45
+    ]
+  },
+  "maps": {
+    "doc02_inverted_index": [
+      3
+    ],
+    "doc14_synonyms": [
+      61
+    ],
+    "doc20_databases": [
+      49,
+      59
+    ]
+  },
+  "markers": {
+    "doc12_ngrams": [
+      38
+    ]
+  },
+  "market": {
+    "doc16_association_rules": [
+      12
+    ]
+  },
+  "marks": {
+    "doc08_phrase_search": [
+      150
+    ]
+  },
+  "match": {
+    "doc07_boolean_queries": [
+      34,
+      38,
+      45
+    ],
+    "doc08_phrase_search": [
+      82,
+      135,
+      142
+    ],
+    "doc09_proximity_search": [
+      19
+    ],
+    "doc10_wildcard_queries": [
+      129,
+      163
+    ],
+    "doc14_synonyms": [
+      39
+    ]
+  },
+  "matches": {
+    "doc01_search_engines": [
+      108
+    ],
+    "doc08_phrase_search": [
+      9
+    ],
+    "doc10_wildcard_queries": [
+      2
+    ],
+    "doc17_clustering": [
+      141
+    ]
+  },
+  "matching": {
+    "doc01_search_engines": [
+      88
+    ],
+    "doc07_boolean_queries": [
+      82,
+      157
+    ],
+    "doc09_proximity_search": [
+      118
+    ],
+    "doc10_wildcard_queries": [
+      64
+    ],
+    "doc12_ngrams": [
+      109
+    ],
+    "doc14_synonyms": [
+      145
+    ]
+  },
+  "material": {
+    "doc15_web_mining": [
+      56
+    ]
+  },
+  "mathematical": {
+    "doc23_cryptography": [
+      7
+    ]
+  },
+  "maximum": {
+    "doc09_proximity_search": [
+      159
+    ]
+  },
+  "may": {
+    "doc01_search_engines": [
+      91
+    ],
+    "doc02_inverted_index": [
+      17
+    ],
+    "doc03_web_crawling": [
+      90,
+      99
+    ],
+    "doc04_page_ranking": [
+      35,
+      72
+    ],
+    "doc05_text_preprocessing": [
+      12,
+      121
+    ],
+    "doc12_ngrams": [
+      113
+    ],
+    "doc14_synonyms": [
+      9,
+      20
+    ],
+    "doc15_web_mining": [
+      117
+    ],
+    "doc17_clustering": [
+      112
+    ],
+    "doc20_databases": [
+      113
+    ],
+    "doc23_cryptography": [
+      101
+    ],
+    "doc24_robotics_vision": [
+      19
+    ]
+  },
+  "meaning": {
+    "doc13_soundex": [
+      60
+    ]
+  },
+  "meaningful": {
+    "doc09_proximity_search": [
+      100
+    ],
+    "doc10_wildcard_queries": [
+      144
+    ]
+  },
+  "meanings": {
+    "doc05_text_preprocessing": [
+      144
+    ],
+    "doc14_synonyms": [
+      110
+    ]
+  },
+  "means": {
+    "doc09_proximity_search": [
+      81
+    ],
+    "doc17_clustering": [
+      42
+    ]
+  },
+  "measures": {
+    "doc11_spelling_correction": [
+      13
+    ],
+    "doc16_association_rules": [
+      24,
+      33
+    ]
+  },
+  "mention": {
+    "doc07_boolean_queries": [
+      99
+    ]
+  },
+  "mentioning": {
+    "doc07_boolean_queries": [
+      92
+    ]
+  },
+  "menus": {
+    "doc03_web_crawling": [
+      130
+    ]
+  },
+  "merely": {
+    "doc06_tf_idf": [
+      155
+    ]
+  },
+  "merge": {
+    "doc05_text_preprocessing": [
+      139
+    ]
+  },
+  "message": {
+    "doc23_cryptography": [
+      57
+    ]
+  },
+  "messages": {
+    "doc23_cryptography": [
+      61
+    ]
+  },
+  "metadata": {
+    "doc15_web_mining": [
+      52
+    ],
+    "doc24_robotics_vision": [
+      105
+    ]
+  },
+  "method": {
+    "doc17_clustering": [
+      47
+    ],
+    "doc18_neural_networks": [
+      77
+    ]
+  },
+  "methods": {
+    "doc04_page_ranking": [
+      57,
+      87
+    ],
+    "doc09_proximity_search": [
+      22
+    ],
+    "doc24_robotics_vision": [
+      75
+    ]
+  },
+  "microphones": {
+    "doc24_robotics_vision": [
+      23
+    ]
+  },
+  "middle": {
+    "doc09_proximity_search": [
+      110
+    ],
+    "doc10_wildcard_queries": [
+      52
+    ]
+  },
+  "milk": {
+    "doc16_association_rules": [
+      22
+    ]
+  },
+  "mining": {
+    "doc07_boolean_queries": [
+      89,
+      100
+    ],
+    "doc09_proximity_search": [
+      17,
+      21,
+      80,
+      83
+    ],
+    "doc15_web_mining": [
+      1,
+      13,
+      18,
+      23,
+      32,
+      46,
+      59,
+      75,
+      93,
+      110,
+      129,
+      138
+    ],
+    "doc16_association_rules": [
+      2,
+      128
+    ],
+    "doc17_clustering": [
+      93
+    ],
+    "doc20_databases": [
+      111
+    ],
+    "doc25_big_data": [
+      92
+    ]
+  },
+  "mirrors": {
+    "doc21_cloud_computing": [
+      124
+    ]
+  },
+  "misleading": {
+    "doc16_association_rules": [
+      108
+    ]
+  },
+  "miss": {
+    "doc09_proximity_search": [
+      134
+    ],
+    "doc14_synonyms": [
+      41
+    ]
+  },
+  "missing": {
+    "doc12_ngrams": [
+      59
+    ]
+  },
+  "misspelled": {
+    "doc11_spelling_correction": [
+      9
+    ],
+    "doc13_soundex": [
+      107
+    ]
+  },
+  "misspelling": {
+    "doc11_spelling_correction": [
+      149
+    ]
+  },
+  "mode": {
+    "doc06_tf_idf": [
+      164
+    ],
+    "doc08_phrase_search": [
+      164
+    ],
+    "doc10_wildcard_queries": [
+      152
+    ]
+  },
+  "model": {
+    "doc07_boolean_queries": [
+      27
+    ],
+    "doc18_neural_networks": [
+      32
+    ],
+    "doc24_robotics_vision": [
+      120
+    ],
+    "doc25_big_data": [
+      49
+    ]
+  },
+  "models": {
+    "doc01_search_engines": [
+      149
+    ],
+    "doc18_neural_networks": [
+      5,
+      92
+    ],
+    "doc20_databases": [
+      90
+    ],
+    "doc24_robotics_vision": [
+      82
+    ]
+  },
+  "modern": {
+    "doc04_page_ranking": [
+      99
+    ],
+    "doc24_robotics_vision": [
+      61
+    ]
+  },
+  "modular": {
+    "doc21_cloud_computing": [
+      122
+    ]
+  },
+  "module": {
+    "doc01_search_engines": [
+      102
+    ],
+    "doc07_boolean_queries": [
+      129
+    ],
+    "doc11_spelling_correction": [
+      108
+    ],
+    "doc13_soundex": [
+      85
+    ]
+  },
+  "monitoring": {
+    "doc21_cloud_computing": [
+      76
+    ],
+    "doc22_cybersecurity": [
+      27
+    ]
+  },
+  "more": {
+    "doc03_web_crawling": [
+      13
+    ],
+    "doc04_page_ranking": [
+      134
+    ],
+    "doc05_text_preprocessing": [
+      164
+    ],
+    "doc06_tf_idf": [
+      159
+    ],
+    "doc07_boolean_queries": [
+      47
+    ],
+    "doc08_phrase_search": [
+      115
+    ],
+    "doc11_spelling_correction": [
+      102
+    ],
+    "doc12_ngrams": [
+      151
+    ],
+    "doc18_neural_networks": [
+      118
+    ],
+    "doc19_computer_networks": [
+      65
+    ]
+  },
+  "most": {
+    "doc09_proximity_search": [
+      31
+    ],
+    "doc24_robotics_vision": [
+      123
+    ]
+  },
+  "much": {
+    "doc08_phrase_search": [
+      132
+    ]
+  },
+  "must": {
+    "doc03_web_crawling": [
+      50
+    ],
+    "doc08_phrase_search": [
+      90
+    ],
+    "doc09_proximity_search": [
+      84
+    ],
+    "doc14_synonyms": [
+      102
+    ],
+    "doc22_cybersecurity": [
+      77
+    ],
+    "doc23_cryptography": [
+      121
+    ],
+    "doc25_big_data": [
+      80
+    ]
+  },
+  "n": {
+    "doc11_spelling_correction": [
+      82,
+      103,
+      154
+    ],
+    "doc12_ngrams": [
+      1,
+      67,
+      77,
+      84,
+      99,
+      136
+    ]
+  },
+  "names": {
+    "doc13_soundex": [
+      18,
+      74
+    ]
+  },
+  "natural": {
+    "doc17_clustering": [
+      15
+    ]
+  },
+  "navigation": {
+    "doc03_web_crawling": [
+      129
+    ],
+    "doc15_web_mining": [
+      83
+    ],
+    "doc16_association_rules": [
+      80
+    ]
+  },
+  "near": {
+    "doc09_proximity_search": [
+      6,
+      15,
+      104
+    ]
+  },
+  "nearest": {
+    "doc17_clustering": [
+      59
+    ]
+  },
+  "nearly": {
+    "doc06_tf_idf": [
+      37
+    ]
+  },
+  "need": {
+    "doc01_search_engines": [
+      134
+    ],
+    "doc07_boolean_queries": [
+      112
+    ],
+    "doc17_clustering": [
+      129,
+      144
+    ]
+  },
+  "needed": {
+    "doc11_spelling_correction": [
+      22
+    ]
+  },
+  "neighbouring": {
+    "doc12_ngrams": [
+      33
+    ]
+  },
+  "network": {
+    "doc02_inverted_index": [
+      16
+    ],
+    "doc19_computer_networks": [
+      81,
+      98,
+      109
+    ],
+    "doc21_cloud_computing": [
+      7
+    ],
+    "doc22_cybersecurity": [
+      64
+    ]
+  },
+  "networks": {
+    "doc17_clustering": [
+      116
+    ],
+    "doc18_neural_networks": [
+      1,
+      49,
+      55
+    ],
+    "doc19_computer_networks": [
+      1,
+      37,
+      73,
+      86
+    ],
+    "doc22_cybersecurity": [
+      3
+    ],
+    "doc24_robotics_vision": [
+      67
+    ]
+  },
+  "neural": {
+    "doc18_neural_networks": [
+      0,
+      48,
+      91,
+      114
+    ],
+    "doc24_robotics_vision": [
+      66
+    ]
+  },
+  "new": {
+    "doc18_neural_networks": [
+      27
+    ]
+  },
+  "news": {
+    "doc03_web_crawling": [
+      88
+    ]
+  },
+  "next": {
+    "doc08_phrase_search": [
+      94
+    ]
+  },
+  "no": {
+    "doc04_page_ranking": [
+      82
+    ]
+  },
+  "noise": {
+    "doc07_boolean_queries": [
+      125
+    ]
+  },
+  "non": {
+    "doc07_boolean_queries": [
+      37
+    ]
+  },
+  "normal": {
+    "doc02_inverted_index": [
+      129
+    ]
+  },
+  "normalization": {
+    "doc06_tf_idf": [
+      149
+    ]
+  },
+  "normalized": {
+    "doc05_text_preprocessing": [
+      84,
+      107
+    ],
+    "doc09_proximity_search": [
+      56
+    ]
+  },
+  "normalizes": {
+    "doc01_search_engines": [
+      73
+    ]
+  },
+  "normally": {
+    "doc01_search_engines": [
+      17
+    ],
+    "doc03_web_crawling": [
+      68
+    ]
+  },
+  "nosql": {
+    "doc20_databases": [
+      87
+    ]
+  },
+  "not": {
+    "doc03_web_crawling": [
+      159
+    ],
+    "doc04_page_ranking": [
+      42
+    ],
+    "doc05_text_preprocessing": [
+      72
+    ],
+    "doc07_boolean_queries": [
+      6,
+      22,
+      41,
+      67,
+      88
+    ],
+    "doc08_phrase_search": [
+      141
+    ],
+    "doc11_spelling_correction": [
+      117
+    ],
+    "doc13_soundex": [
+      54,
+      129,
+      139
+    ],
+    "doc18_neural_networks": [
+      83
+    ]
+  },
+  "notation": {
+    "doc09_proximity_search": [
+      78
+    ]
+  },
+  "number": {
+    "doc09_proximity_search": [
+      149
+    ],
+    "doc11_spelling_correction": [
+      15
+    ],
+    "doc12_ngrams": [
+      74,
+      82
+    ],
+    "doc17_clustering": [
+      51,
+      88
+    ]
+  },
+  "numeric": {
+    "doc13_soundex": [
+      38
+    ],
+    "doc18_neural_networks": [
+      17
+    ]
+  },
+  "object": {
+    "doc21_cloud_computing": [
+      23
+    ],
+    "doc24_robotics_vision": [
+      53
+    ]
+  },
+  "observe": {
+    "doc24_robotics_vision": [
+      28
+    ]
+  },
+  "observed": {
+    "doc16_association_rules": [
+      119
+    ]
+  },
+  "observing": {
+    "doc16_association_rules": [
+      90
+    ]
+  },
+  "occur": {
+    "doc06_tf_idf": [
+      8
+    ],
+    "doc08_phrase_search": [
+      31,
+      91
+    ],
+    "doc09_proximity_search": [
+      5
+    ],
+    "doc16_association_rules": [
+      8
+    ]
+  },
+  "occurrence": {
+    "doc16_association_rules": [
+      121,
+      126
+    ]
+  },
+  "occurs": {
+    "doc02_inverted_index": [
+      100,
+      148
+    ],
+    "doc04_page_ranking": [
+      128
+    ],
+    "doc08_phrase_search": [
+      67,
+      73
+    ],
+    "doc16_association_rules": [
+      30
+    ]
+  },
+  "of": {
+    "doc01_search_engines": [
+      12,
+      50,
+      58,
+      87,
+      106
+    ],
+    "doc02_inverted_index": [
+      45
+    ],
+    "doc03_web_crawling": [
+      150
+    ],
+    "doc04_page_ranking": [
+      7
+    ],
+    "doc06_tf_idf": [
+      109,
+      139
+    ],
+    "doc07_boolean_queries": [
+      56,
+      156
+    ],
+    "doc08_phrase_search": [
+      57
+    ],
+    "doc10_wildcard_queries": [
+      38,
+      53,
+      73
+    ],
+    "doc11_spelling_correction": [
+      16
+    ],
+    "doc12_ngrams": [
+      27,
+      32,
+      51,
+      75,
+      83,
+      125
+    ],
+    "doc15_web_mining": [
+      41
+    ],
+    "doc16_association_rules": [
+      5
+    ],
+    "doc17_clustering": [
+      52,
+      72,
+      76,
+      89,
+      104
+    ],
+    "doc18_neural_networks": [
+      9
+    ],
+    "doc19_computer_networks": [
+      122
+    ],
+    "doc21_cloud_computing": [
+      9,
+      127
+    ],
+    "doc22_cybersecurity": [
+      48
+    ],
+    "doc23_cryptography": [
+      45
+    ]
+  },
+  "offers": {
+    "doc09_proximity_search": [
+      108
+    ],
+    "doc13_soundex": [
+      63
+    ]
+  },
+  "often": {
+    "doc02_inverted_index": [
+      97
+    ],
+    "doc03_web_crawling": [
+      37
+    ],
+    "doc05_text_preprocessing": [
+      70
+    ],
+    "doc06_tf_idf": [
+      9,
+      80
+    ],
+    "doc10_wildcard_queries": [
+      103
+    ],
+    "doc12_ngrams": [
+      35
+    ],
+    "doc14_synonyms": [
+      27
+    ],
+    "doc15_web_mining": [
+      64
+    ],
+    "doc16_association_rules": [
+      35
+    ],
+    "doc18_neural_networks": [
+      123
+    ],
+    "doc24_robotics_vision": [
+      64
+    ]
+  },
+  "old": {
+    "doc03_web_crawling": [
+      96
+    ]
+  },
+  "omission": {
+    "doc11_spelling_correction": [
+      33
+    ]
+  },
+  "on": {
+    "doc03_web_crawling": [
+      72,
+      80
+    ],
+    "doc15_web_mining": [
+      100,
+      112
+    ],
+    "doc17_clustering": [
+      81
+    ],
+    "doc18_neural_networks": [
+      81
+    ],
+    "doc19_computer_networks": [
+      85
+    ],
+    "doc20_databases": [
+      129
+    ],
+    "doc21_cloud_computing": [
+      93,
+      117
+    ],
+    "doc24_robotics_vision": [
+      69,
+      90
+    ],
+    "doc25_big_data": [
+      14
+    ]
+  },
+  "one": {
+    "doc02_inverted_index": [
+      102
+    ],
+    "doc03_web_crawling": [
+      11
+    ],
+    "doc04_page_ranking": [
+      145
+    ],
+    "doc05_text_preprocessing": [
+      74
+    ],
+    "doc06_tf_idf": [
+      11,
+      44,
+      66
+    ],
+    "doc07_boolean_queries": [
+      72,
+      117,
+      134
+    ],
+    "doc09_proximity_search": [
+      89
+    ],
+    "doc11_spelling_correction": [
+      25,
+      31,
+      38
+    ],
+    "doc12_ngrams": [
+      56
+    ],
+    "doc21_cloud_computing": [
+      118
+    ],
+    "doc23_cryptography": [
+      15
+    ],
+    "doc25_big_data": [
+      15
+    ]
+  },
+  "only": {
+    "doc03_web_crawling": [
+      101
+    ],
+    "doc08_phrase_search": [
+      10
+    ],
+    "doc11_spelling_correction": [
+      37
+    ]
+  },
+  "operating": {
+    "doc21_cloud_computing": [
+      12
+    ]
+  },
+  "operation": {
+    "doc07_boolean_queries": [
+      136
+    ]
+  },
+  "operations": {
+    "doc23_cryptography": [
+      71
+    ],
+    "doc25_big_data": [
+      56,
+      59
+    ]
+  },
+  "operator": {
+    "doc09_proximity_search": [
+      105
+    ]
+  },
+  "operators": {
+    "doc01_search_engines": [
+      94
+    ],
+    "doc07_boolean_queries": [
+      7
+    ],
+    "doc21_cloud_computing": [
+      80
+    ]
+  },
+  "optimization": {
+    "doc18_neural_networks": [
+      76
+    ]
+  },
+  "or": {
+    "doc01_search_engines": [
+      97,
+      125
+    ],
+    "doc02_inverted_index": [
+      77,
+      82
+    ],
+    "doc03_web_crawling": [
+      12
+    ],
+    "doc04_page_ranking": [
+      5
+    ],
+    "doc05_text_preprocessing": [
+      17,
+      38
+    ],
+    "doc07_boolean_queries": [
+      4,
+      35,
+      60,
+      79,
+      145,
+      147
+    ],
+    "doc09_proximity_search": [
+      48,
+      91
+    ],
+    "doc10_wildcard_queries": [
+      49,
+      111
+    ],
+    "doc11_spelling_correction": [
+      20
+    ],
+    "doc12_ngrams": [
+      60
+    ],
+    "doc13_soundex": [
+      144
+    ],
+    "doc15_web_mining": [
+      121
+    ],
+    "doc17_clustering": [
+      39,
+      119
+    ],
+    "doc22_cybersecurity": [
+      10,
+      92
+    ],
+    "doc23_cryptography": [
+      58
+    ],
+    "doc24_robotics_vision": [
+      126
+    ],
+    "doc25_big_data": [
+      9
+    ]
+  },
+  "order": {
+    "doc04_page_ranking": [
+      163
+    ],
+    "doc06_tf_idf": [
+      174
+    ],
+    "doc08_phrase_search": [
+      46
+    ],
+    "doc09_proximity_search": [
+      97
+    ]
+  },
+  "ordered": {
+    "doc11_spelling_correction": [
+      112
+    ],
+    "doc19_computer_networks": [
+      51
+    ]
+  },
+  "ordering": {
+    "doc12_ngrams": [
+      155
+    ],
+    "doc18_neural_networks": [
+      136
+    ]
+  },
+  "orders": {
+    "doc24_robotics_vision": [
+      121
+    ]
+  },
+  "ordinary": {
+    "doc02_inverted_index": [
+      123
+    ],
+    "doc05_text_preprocessing": [
+      65
+    ],
+    "doc08_phrase_search": [
+      23
+    ]
+  },
+  "organization": {
+    "doc21_cloud_computing": [
+      16
+    ]
+  },
+  "organizations": {
+    "doc25_big_data": [
+      35
+    ]
+  },
+  "organize": {
+    "doc17_clustering": [
+      98
+    ]
+  },
+  "organizes": {
+    "doc19_computer_networks": [
+      17
+    ],
+    "doc20_databases": [
+      19
+    ]
+  },
+  "original": {
+    "doc23_cryptography": [
+      56
+    ]
+  },
+  "other": {
+    "doc09_proximity_search": [
+      8
+    ],
+    "doc15_web_mining": [
+      54
+    ]
+  },
+  "outgoing": {
+    "doc03_web_crawling": [
+      20
+    ]
+  },
+  "over": {
+    "doc21_cloud_computing": [
+      5
+    ]
+  },
+  "overlapping": {
+    "doc11_spelling_correction": [
+      94
+    ],
+    "doc12_ngrams": [
+      8
+    ]
+  },
+  "overvalue": {
+    "doc06_tf_idf": [
+      71
+    ]
+  },
+  "packets": {
+    "doc19_computer_networks": [
+      34
+    ]
+  },
+  "page": {
+    "doc01_search_engines": [
+      43,
+      60
+    ],
+    "doc03_web_crawling": [
+      71,
+      98
+    ],
+    "doc04_page_ranking": [
+      0,
+      10,
+      46,
+      66,
+      80
+    ],
+    "doc15_web_mining": [
+      15,
+      55
+    ]
+  },
+  "pagerank": {
+    "doc04_page_ranking": [
+      60
+    ]
+  },
+  "pages": {
+    "doc01_search_engines": [
+      14,
+      27
+    ],
+    "doc03_web_crawling": [
+      4,
+      18,
+      33,
+      44,
+      89,
+      121
+    ],
+    "doc04_page_ranking": [
+      71
+    ],
+    "doc15_web_mining": [
+      63
+    ],
+    "doc19_computer_networks": [
+      89
+    ],
+    "doc20_databases": [
+      116
+    ],
+    "doc22_cybersecurity": [
+      86
+    ],
+    "doc25_big_data": [
+      98
+    ]
+  },
+  "pair": {
+    "doc08_phrase_search": [
+      78
+    ]
+  },
+  "pairs": {
+    "doc12_ngrams": [
+      31
+    ],
+    "doc25_big_data": [
+      67
+    ]
+  },
+  "parallel": {
+    "doc25_big_data": [
+      32
+    ]
+  },
+  "parser": {
+    "doc01_search_engines": [
+      29
+    ]
+  },
+  "parsers": {
+    "doc22_cybersecurity": [
+      91
+    ]
+  },
+  "particular": {
+    "doc02_inverted_index": [
+      103
+    ]
+  },
+  "passed": {
+    "doc03_web_crawling": [
+      125
+    ]
+  },
+  "password": {
+    "doc22_cybersecurity": [
+      39
+    ]
+  },
+  "passwords": {
+    "doc22_cybersecurity": [
+      55
+    ]
+  },
+  "paths": {
+    "doc15_web_mining": [
+      88
+    ],
+    "doc19_computer_networks": [
+      71
+    ]
+  },
+  "pattern": {
+    "doc10_wildcard_queries": [
+      4,
+      16,
+      42
+    ],
+    "doc20_databases": [
+      132
+    ]
+  },
+  "patterns": {
+    "doc10_wildcard_queries": [
+      127
+    ],
+    "doc15_web_mining": [
+      4,
+      115
+    ],
+    "doc16_association_rules": [
+      4
+    ]
+  },
+  "people": {
+    "doc01_search_engines": [
+      3
+    ]
+  },
+  "perceive": {
+    "doc24_robotics_vision": [
+      10
+    ]
+  },
+  "perfect": {
+    "doc13_soundex": [
+      140
+    ]
+  },
+  "periods": {
+    "doc21_cloud_computing": [
+      36
+    ]
+  },
+  "permuterm": {
+    "doc10_wildcard_queries": [
+      106
+    ]
+  },
+  "personalization": {
+    "doc15_web_mining": [
+      120
+    ]
+  },
+  "phishing": {
+    "doc22_cybersecurity": [
+      38
+    ]
+  },
+  "phonetic": {
+    "doc13_soundex": [
+      66
+    ]
+  },
+  "phrase": {
+    "doc01_search_engines": [
+      95
+    ],
+    "doc02_inverted_index": [
+      170
+    ],
+    "doc05_text_preprocessing": [
+      91
+    ],
+    "doc08_phrase_search": [
+      0,
+      6,
+      81,
+      86,
+      104,
+      112,
+      145,
+      153,
+      163
+    ],
+    "doc09_proximity_search": [
+      13,
+      117,
+      131
+    ]
+  },
+  "physical": {
+    "doc21_cloud_computing": [
+      74
+    ],
+    "doc24_robotics_vision": [
+      15
+    ]
+  },
+  "pipeline": {
+    "doc01_search_engines": [
+      175
+    ]
+  },
+  "place": {
+    "doc08_phrase_search": [
+      148
+    ]
+  },
+  "placed": {
+    "doc10_wildcard_queries": [
+      45
+    ]
+  },
+  "places": {
+    "doc03_web_crawling": [
+      23
+    ]
+  },
+  "planning": {
+    "doc24_robotics_vision": [
+      31
+    ]
+  },
+  "platform": {
+    "doc21_cloud_computing": [
+      48
+    ]
+  },
+  "point": {
+    "doc02_inverted_index": [
+      18
+    ]
+  },
+  "policies": {
+    "doc03_web_crawling": [
+      30
+    ],
+    "doc22_cybersecurity": [
+      111
+    ]
+  },
+  "popular": {
+    "doc17_clustering": [
+      45
+    ]
+  },
+  "position": {
+    "doc08_phrase_search": [
+      69,
+      75,
+      95,
+      110,
+      169
+    ],
+    "doc24_robotics_vision": [
+      25
+    ]
+  },
+  "positional": {
+    "doc02_inverted_index": [
+      163
+    ],
+    "doc05_text_preprocessing": [
+      80
+    ],
+    "doc08_phrase_search": [
+      48
+    ],
+    "doc09_proximity_search": [
+      52
+    ]
+  },
+  "positions": {
+    "doc05_text_preprocessing": [
+      86,
+      112
+    ],
+    "doc08_phrase_search": [
+      4
+    ],
+    "doc09_proximity_search": [
+      33
+    ]
+  },
+  "possible": {
+    "doc10_wildcard_queries": [
+      147
+    ],
+    "doc11_spelling_correction": [
+      128
+    ],
+    "doc14_synonyms": [
+      114
+    ]
+  },
+  "posting": {
+    "doc02_inverted_index": [
+      42,
+      51
+    ],
+    "doc07_boolean_queries": [
+      58,
+      73
+    ],
+    "doc10_wildcard_queries": [
+      75
+    ]
+  },
+  "postings": {
+    "doc14_synonyms": [
+      93
+    ]
+  },
+  "practical": {
+    "doc18_neural_networks": [
+      121
+    ]
+  },
+  "precede": {
+    "doc03_web_crawling": [
+      170
+    ]
+  },
+  "precise": {
+    "doc07_boolean_queries": [
+      110
+    ],
+    "doc08_phrase_search": [
+      116
+    ]
+  },
+  "precision": {
+    "doc14_synonyms": [
+      119
+    ]
+  },
+  "predictions": {
+    "doc18_neural_networks": [
+      40
+    ]
+  },
+  "preferences": {
+    "doc17_clustering": [
+      40
+    ]
+  },
+  "prefix": {
+    "doc10_wildcard_queries": [
+      15,
+      145
+    ]
+  },
+  "prepared": {
+    "doc03_web_crawling": [
+      151
+    ]
+  },
+  "prepares": {
+    "doc05_text_preprocessing": [
+      2
+    ]
+  },
+  "preprocess": {
+    "doc01_search_engines": [
+      177
+    ]
+  },
+  "preprocessing": {
+    "doc05_text_preprocessing": [
+      1,
+      117
+    ]
+  },
+  "present": {
+    "doc16_association_rules": [
+      43
+    ]
+  },
+  "presenting": {
+    "doc17_clustering": [
+      105
+    ]
+  },
+  "preserves": {
+    "doc13_soundex": [
+      29
+    ]
+  },
+  "prevents": {
+    "doc06_tf_idf": [
+      150
+    ]
+  },
+  "previews": {
+    "doc01_search_engines": [
+      145
+    ],
+    "doc07_boolean_queries": [
+      161
+    ]
+  },
+  "previous": {
+    "doc16_association_rules": [
+      94
+    ]
+  },
+  "principle": {
+    "doc16_association_rules": [
+      58
+    ]
+  },
+  "prints": {
+    "doc06_tf_idf": [
+      169
+    ]
+  },
+  "privacy": {
+    "doc22_cybersecurity": [
+      108
+    ],
+    "doc23_cryptography": [
+      116
+    ]
+  },
+  "private": {
+    "doc23_cryptography": [
+      30,
+      69
+    ]
+  },
+  "privilege": {
+    "doc22_cybersecurity": [
+      59
+    ]
+  },
+  "problem": {
+    "doc08_phrase_search": [
+      52
+    ]
+  },
+  "procedures": {
+    "doc22_cybersecurity": [
+      31
+    ]
+  },
+  "process": {
+    "doc10_wildcard_queries": [
+      167
+    ],
+    "doc25_big_data": [
+      36
+    ]
+  },
+  "processing": {
+    "doc18_neural_networks": [
+      11
+    ],
+    "doc25_big_data": [
+      13
+    ]
+  },
+  "processor": {
+    "doc01_search_engines": [
+      72
+    ]
+  },
+  "produce": {
+    "doc03_web_crawling": [
+      114
+    ],
+    "doc10_wildcard_queries": [
+      134
+    ],
+    "doc16_association_rules": [
+      64
+    ]
+  },
+  "produces": {
+    "doc25_big_data": [
+      63,
+      93
+    ]
+  },
+  "producing": {
+    "doc04_page_ranking": [
+      158
+    ],
+    "doc13_soundex": [
+      40
+    ]
+  },
+  "product": {
+    "doc06_tf_idf": [
+      108,
+      138
+    ]
+  },
+  "products": {
+    "doc16_association_rules": [
+      88
+    ]
+  },
+  "programming": {
+    "doc25_big_data": [
+      48
+    ]
+  },
+  "project": {
+    "doc01_search_engines": [
+      148
+    ],
+    "doc02_inverted_index": [
+      150
+    ],
+    "doc04_page_ranking": [
+      111
+    ],
+    "doc05_text_preprocessing": [
+      98,
+      147
+    ],
+    "doc07_boolean_queries": [
+      132
+    ],
+    "doc09_proximity_search": [
+      76
+    ],
+    "doc11_spelling_correction": [
+      143
+    ],
+    "doc12_ngrams": [
+      134
+    ],
+    "doc14_synonyms": [
+      54
+    ]
+  },
+  "pronunciation": {
+    "doc13_soundex": [
+      8,
+      79,
+      134
+    ]
+  },
+  "protect": {
+    "doc22_cybersecurity": [
+      78
+    ],
+    "doc23_cryptography": [
+      91,
+      106
+    ]
+  },
+  "protects": {
+    "doc22_cybersecurity": [
+      1
+    ],
+    "doc23_cryptography": [
+      1
+    ]
+  },
+  "protocol": {
+    "doc19_computer_networks": [
+      15
+    ]
+  },
+  "protocols": {
+    "doc19_computer_networks": [
+      12
+    ],
+    "doc23_cryptography": [
+      86
+    ]
+  },
+  "prove": {
+    "doc08_phrase_search": [
+      38
+    ],
+    "doc23_cryptography": [
+      75
+    ]
+  },
+  "provide": {
+    "doc11_spelling_correction": [
+      84
+    ],
+    "doc20_databases": [
+      6,
+      77
+    ]
+  },
+  "provides": {
+    "doc06_tf_idf": [
+      40
+    ],
+    "doc19_computer_networks": [
+      49,
+      59
+    ],
+    "doc21_cloud_computing": [
+      45,
+      52,
+      60
+    ]
+  },
+  "providing": {
+    "doc04_page_ranking": [
+      52
+    ]
+  },
+  "proximity": {
+    "doc02_inverted_index": [
+      172
+    ],
+    "doc09_proximity_search": [
+      0,
+      60,
+      106
+    ]
+  },
+  "public": {
+    "doc01_search_engines": [
+      166
+    ],
+    "doc08_phrase_search": [
+      155
+    ],
+    "doc23_cryptography": [
+      26
+    ]
+  },
+  "punctuation": {
+    "doc05_text_preprocessing": [
+      21,
+      24
+    ]
+  },
+  "quality": {
+    "doc01_search_engines": [
+      119
+    ],
+    "doc17_clustering": [
+      75
+    ]
+  },
+  "queries": {
+    "doc10_wildcard_queries": [
+      121
+    ],
+    "doc20_databases": [
+      27,
+      73
+    ],
+    "doc22_cybersecurity": [
+      84
+    ],
+    "doc25_big_data": [
+      102
+    ]
+  },
+  "query": {
+    "doc01_search_engines": [
+      62,
+      69,
+      71
+    ],
+    "doc02_inverted_index": [
+      38,
+      60,
+      76,
+      83
+    ],
+    "doc04_page_ranking": [
+      24,
+      33,
+      126,
+      151
+    ],
+    "doc06_tf_idf": [
+      123,
+      141
+    ],
+    "doc07_boolean_queries": [
+      20
+    ],
+    "doc08_phrase_search": [
+      121
+    ],
+    "doc11_spelling_correction": [
+      10,
+      123
+    ],
+    "doc12_ngrams": [
+      22
+    ],
+    "doc13_soundex": [
+      108
+    ],
+    "doc14_synonyms": [
+      6,
+      16,
+      82
+    ],
+    "doc15_web_mining": [
+      109
+    ],
+    "doc18_neural_networks": [
+      96
+    ],
+    "doc21_cloud_computing": [
+      100
+    ],
+    "doc24_robotics_vision": [
+      132
+    ],
+    "doc25_big_data": [
+      114
+    ]
+  },
+  "queue": {
+    "doc03_web_crawling": [
+      28
+    ]
+  },
+  "quickly": {
+    "doc24_robotics_vision": [
+      115
+    ],
+    "doc25_big_data": [
+      122
+    ]
+  },
+  "quotation": {
+    "doc08_phrase_search": [
+      149
+    ]
+  },
+  "rank": {
+    "doc01_search_engines": [
+      180
+    ]
+  },
+  "ranked": {
+    "doc06_tf_idf": [
+      162
+    ],
+    "doc19_computer_networks": [
+      104
+    ]
+  },
+  "ranker": {
+    "doc18_neural_networks": [
+      115
+    ]
+  },
+  "ranking": {
+    "doc01_search_engines": [
+      101,
+      114
+    ],
+    "doc02_inverted_index": [
+      113
+    ],
+    "doc04_page_ranking": [
+      1,
+      22,
+      120
+    ],
+    "doc07_boolean_queries": [
+      148
+    ],
+    "doc15_web_mining": [
+      133
+    ],
+    "doc18_neural_networks": [
+      95,
+      133
+    ],
+    "doc22_cybersecurity": [
+      94
+    ],
+    "doc24_robotics_vision": [
+      119
+    ]
+  },
+  "rare": {
+    "doc06_tf_idf": [
+      51
+    ]
+  },
+  "rarely": {
+    "doc03_web_crawling": [
+      102
+    ],
+    "doc06_tf_idf": [
+      14
+    ]
+  },
+  "rate": {
+    "doc22_cybersecurity": [
+      102
+    ]
+  },
+  "rather": {
+    "doc01_search_engines": [
+      53
+    ],
+    "doc04_page_ranking": [
+      104
+    ],
+    "doc10_wildcard_queries": [
+      8
+    ]
+  },
+  "raw": {
+    "doc05_text_preprocessing": [
+      3
+    ],
+    "doc06_tf_idf": [
+      68
+    ]
+  },
+  "reach": {
+    "doc24_robotics_vision": [
+      39
+    ]
+  },
+  "read": {
+    "doc20_databases": [
+      11
+    ]
+  },
+  "readable": {
+    "doc01_search_engines": [
+      31
+    ]
+  },
+  "reading": {
+    "doc02_inverted_index": [
+      46
+    ]
+  },
+  "real": {
+    "doc03_web_crawling": [
+      48
+    ]
+  },
+  "recall": {
+    "doc10_wildcard_queries": [
+      123
+    ],
+    "doc14_synonyms": [
+      4
+    ]
+  },
+  "receive": {
+    "doc04_page_ranking": [
+      73
+    ]
+  },
+  "receives": {
+    "doc06_tf_idf": [
+      21
+    ],
+    "doc19_computer_networks": [
+      103
+    ]
+  },
+  "recommend": {
+    "doc16_association_rules": [
+      86
+    ]
+  },
+  "recommendation": {
+    "doc04_page_ranking": [
+      19
+    ],
+    "doc16_association_rules": [
+      74
+    ]
+  },
+  "recommendations": {
+    "doc15_web_mining": [
+      84,
+      135
+    ]
+  },
+  "record": {
+    "doc20_databases": [
+      53
+    ]
+  },
+  "records": {
+    "doc01_search_engines": [
+      37
+    ],
+    "doc02_inverted_index": [
+      86,
+      95
+    ],
+    "doc20_databases": [
+      15
+    ]
+  },
+  "recover": {
+    "doc23_cryptography": [
+      54
+    ]
+  },
+  "recovery": {
+    "doc20_databases": [
+      80
+    ]
+  },
+  "reduce": {
+    "doc05_text_preprocessing": [
+      122
+    ],
+    "doc14_synonyms": [
+      118
+    ],
+    "doc18_neural_networks": [
+      36
+    ],
+    "doc22_cybersecurity": [
+      73
+    ],
+    "doc25_big_data": [
+      58,
+      70
+    ]
+  },
+  "reference": {
+    "doc03_web_crawling": [
+      97
+    ]
+  },
+  "refers": {
+    "doc18_neural_networks": [
+      46
+    ]
+  },
+  "related": {
+    "doc14_synonyms": [
+      85,
+      115
+    ],
+    "doc15_web_mining": [
+      95
+    ],
+    "doc16_association_rules": [
+      87
+    ]
+  },
+  "relational": {
+    "doc20_databases": [
+      17
+    ]
+  },
+  "relationship": {
+    "doc02_inverted_index": [
+      127
+    ],
+    "doc11_spelling_correction": [
+      147
+    ]
+  },
+  "relationships": {
+    "doc14_synonyms": [
+      134
+    ],
+    "doc18_neural_networks": [
+      120
+    ]
+  },
+  "relevance": {
+    "doc01_search_engines": [
+      117
+    ],
+    "doc03_web_crawling": [
+      84
+    ],
+    "doc04_page_ranking": [
+      6
+    ]
+  },
+  "relevant": {
+    "doc04_page_ranking": [
+      37
+    ],
+    "doc06_tf_idf": [
+      48
+    ],
+    "doc09_proximity_search": [
+      136
+    ],
+    "doc14_synonyms": [
+      45
+    ],
+    "doc15_web_mining": [
+      147
+    ],
+    "doc24_robotics_vision": [
+      124
+    ]
+  },
+  "reliability": {
+    "doc19_computer_networks": [
+      68,
+      121
+    ]
+  },
+  "reliable": {
+    "doc18_neural_networks": [
+      128
+    ],
+    "doc19_computer_networks": [
+      50
+    ]
+  },
+  "relies": {
+    "doc24_robotics_vision": [
+      89
+    ]
+  },
+  "remains": {
+    "doc09_proximity_search": [
+      99
+    ],
+    "doc13_soundex": [
+      148
+    ],
+    "doc14_synonyms": [
+      78
+    ]
+  },
+  "remote": {
+    "doc19_computer_networks": [
+      107
+    ]
+  },
+  "removed": {
+    "doc05_text_preprocessing": [
+      63
+    ]
+  },
+  "removes": {
+    "doc07_boolean_queries": [
+      23
+    ]
+  },
+  "repeat": {
+    "doc04_page_ranking": [
+      49
+    ]
+  },
+  "repeated": {
+    "doc06_tf_idf": [
+      74
+    ],
+    "doc22_cybersecurity": [
+      99
+    ]
+  },
+  "repeatedly": {
+    "doc04_page_ranking": [
+      34
+    ],
+    "doc17_clustering": [
+      62
+    ]
+  },
+  "repetition": {
+    "doc04_page_ranking": [
+      39
+    ]
+  },
+  "repetitive": {
+    "doc03_web_crawling": [
+      115
+    ]
+  },
+  "replicate": {
+    "doc25_big_data": [
+      117
+    ]
+  },
+  "replication": {
+    "doc25_big_data": [
+      86
+    ]
+  },
+  "representation": {
+    "doc01_search_engines": [
+      49
+    ],
+    "doc12_ngrams": [
+      26
+    ],
+    "doc17_clustering": [
+      84
+    ],
+    "doc18_neural_networks": [
+      28,
+      100
+    ]
+  },
+  "represented": {
+    "doc06_tf_idf": [
+      125
+    ],
+    "doc24_robotics_vision": [
+      100
+    ]
+  },
+  "representing": {
+    "doc11_spelling_correction": [
+      89
+    ]
+  },
+  "represents": {
+    "doc10_wildcard_queries": [
+      35
+    ]
+  },
+  "requested": {
+    "doc08_phrase_search": [
+      45
+    ],
+    "doc09_proximity_search": [
+      158
+    ],
+    "doc17_clustering": [
+      90
+    ]
+  },
+  "requests": {
+    "doc03_web_crawling": [
+      60
+    ],
+    "doc19_computer_networks": [
+      99
+    ],
+    "doc25_big_data": [
+      121
+    ]
+  },
+  "require": {
+    "doc03_web_crawling": [
+      91
+    ],
+    "doc07_boolean_queries": [
+      116
+    ]
+  },
+  "required": {
+    "doc03_web_crawling": [
+      160
+    ],
+    "doc21_cloud_computing": [
+      29
+    ]
+  },
+  "requires": {
+    "doc18_neural_networks": [
+      70
+    ]
+  },
+  "requiring": {
+    "doc09_proximity_search": [
+      10
+    ],
+    "doc10_wildcard_queries": [
+      10,
+      24
+    ],
+    "doc17_clustering": [
+      6
+    ]
+  },
+  "researcher": {
+    "doc07_boolean_queries": [
+      114
+    ]
+  },
+  "resources": {
+    "doc03_web_crawling": [
+      87
+    ],
+    "doc21_cloud_computing": [
+      4,
+      30
+    ]
+  },
+  "respect": {
+    "doc03_web_crawling": [
+      52
+    ]
+  },
+  "respected": {
+    "doc04_page_ranking": [
+      70
+    ]
+  },
+  "response": {
+    "doc22_cybersecurity": [
+      30
+    ]
+  },
+  "responsibilities": {
+    "doc21_cloud_computing": [
+      128
+    ]
+  },
+  "result": {
+    "doc01_search_engines": [
+      45,
+      140
+    ],
+    "doc06_tf_idf": [
+      45
+    ],
+    "doc07_boolean_queries": [
+      150
+    ],
+    "doc10_wildcard_queries": [
+      137
+    ],
+    "doc17_clustering": [
+      79
+    ]
+  },
+  "results": {
+    "doc01_search_engines": [
+      183
+    ],
+    "doc03_web_crawling": [
+      117
+    ],
+    "doc04_page_ranking": [
+      165
+    ],
+    "doc14_synonyms": [
+      153
+    ],
+    "doc15_web_mining": [
+      130
+    ],
+    "doc17_clustering": [
+      100,
+      114
+    ],
+    "doc19_computer_networks": [
+      92,
+      105
+    ]
+  },
+  "retail": {
+    "doc16_association_rules": [
+      76
+    ]
+  },
+  "retention": {
+    "doc22_cybersecurity": [
+      110
+    ]
+  },
+  "retransmission": {
+    "doc19_computer_networks": [
+      56
+    ]
+  },
+  "retrieval": {
+    "doc01_search_engines": [
+      174
+    ],
+    "doc02_inverted_index": [
+      173
+    ],
+    "doc05_text_preprocessing": [
+      67,
+      166
+    ],
+    "doc06_tf_idf": [
+      78
+    ],
+    "doc07_boolean_queries": [
+      1,
+      144
+    ],
+    "doc08_phrase_search": [
+      8,
+      17,
+      72,
+      113,
+      131,
+      138
+    ],
+    "doc09_proximity_search": [
+      107
+    ],
+    "doc10_wildcard_queries": [
+      57
+    ],
+    "doc11_spelling_correction": [
+      35,
+      107
+    ],
+    "doc12_ngrams": [
+      13,
+      106
+    ],
+    "doc13_soundex": [
+      155
+    ],
+    "doc14_synonyms": [
+      19,
+      25
+    ],
+    "doc15_web_mining": [
+      90,
+      98
+    ],
+    "doc18_neural_networks": [
+      88,
+      126
+    ],
+    "doc22_cybersecurity": [
+      116
+    ],
+    "doc23_cryptography": [
+      99
+    ],
+    "doc24_robotics_vision": [
+      91
+    ]
+  },
+  "retrieve": {
+    "doc10_wildcard_queries": [
+      18
+    ]
+  },
+  "return": {
+    "doc09_proximity_search": [
+      121
+    ]
+  },
+  "returns": {
+    "doc07_boolean_queries": [
+      14
+    ],
+    "doc11_spelling_correction": [
+      109
+    ]
+  },
+  "reverses": {
+    "doc02_inverted_index": [
+      121
+    ]
+  },
+  "revisited": {
+    "doc03_web_crawling": [
+      40
+    ]
+  },
+  "revisits": {
+    "doc03_web_crawling": [
+      93
+    ]
+  },
+  "rewrite": {
+    "doc11_spelling_correction": [
+      119
+    ]
+  },
+  "right": {
+    "doc09_proximity_search": [
+      72
+    ]
+  },
+  "robot": {
+    "doc24_robotics_vision": [
+      18,
+      38
+    ]
+  },
+  "robotics": {
+    "doc24_robotics_vision": [
+      0
+    ]
+  },
+  "robots": {
+    "doc03_web_crawling": [
+      53
+    ]
+  },
+  "root": {
+    "doc05_text_preprocessing": [
+      130
+    ]
+  },
+  "routers": {
+    "doc19_computer_networks": [
+      47,
+      69
+    ]
+  },
+  "rows": {
+    "doc20_databases": [
+      29
+    ]
+  },
+  "rule": {
+    "doc08_phrase_search": [
+      170
+    ],
+    "doc16_association_rules": [
+      1,
+      14
+    ]
+  },
+  "rules": {
+    "doc01_search_engines": [
+      96
+    ],
+    "doc03_web_crawling": [
+      54
+    ],
+    "doc16_association_rules": [
+      70,
+      96
+    ]
+  },
+  "runs": {
+    "doc21_cloud_computing": [
+      92,
+      116
+    ]
+  },
+  "s": {
+    "doc06_tf_idf": [
+      116
+    ],
+    "doc10_wildcard_queries": [
+      150
+    ],
+    "doc11_spelling_correction": [
+      122
+    ],
+    "doc13_soundex": [
+      46
+    ],
+    "doc15_web_mining": [
+      107
+    ],
+    "doc24_robotics_vision": [
+      131
+    ]
+  },
+  "safe": {
+    "doc22_cybersecurity": [
+      104
+    ]
+  },
+  "safely": {
+    "doc22_cybersecurity": [
+      56
+    ],
+    "doc24_robotics_vision": [
+      42
+    ]
+  },
+  "safer": {
+    "doc11_spelling_correction": [
+      139
+    ]
+  },
+  "same": {
+    "doc01_search_engines": [
+      172
+    ],
+    "doc03_web_crawling": [
+      63
+    ],
+    "doc05_text_preprocessing": [
+      10
+    ],
+    "doc06_tf_idf": [
+      131
+    ],
+    "doc08_phrase_search": [
+      20,
+      167
+    ],
+    "doc09_proximity_search": [
+      41
+    ],
+    "doc11_spelling_correction": [
+      71
+    ],
+    "doc13_soundex": [
+      50,
+      59,
+      101
+    ],
+    "doc14_synonyms": [
+      33
+    ],
+    "doc23_cryptography": [
+      64
+    ],
+    "doc25_big_data": [
+      76,
+      131
+    ]
+  },
+  "sarch": {
+    "doc13_soundex": [
+      109
+    ]
+  },
+  "satisfying": {
+    "doc09_proximity_search": [
+      156
+    ]
+  },
+  "scale": {
+    "doc03_web_crawling": [
+      175
+    ],
+    "doc15_web_mining": [
+      37
+    ],
+    "doc20_databases": [
+      134
+    ],
+    "doc21_cloud_computing": [
+      32,
+      38
+    ],
+    "doc24_robotics_vision": [
+      84
+    ],
+    "doc25_big_data": [
+      135
+    ]
+  },
+  "scan": {
+    "doc01_search_engines": [
+      57
+    ]
+  },
+  "scanning": {
+    "doc10_wildcard_queries": [
+      88
+    ]
+  },
+  "scene": {
+    "doc24_robotics_vision": [
+      59
+    ]
+  },
+  "schedule": {
+    "doc03_web_crawling": [
+      78
+    ]
+  },
+  "schemas": {
+    "doc20_databases": [
+      105
+    ]
+  },
+  "score": {
+    "doc04_page_ranking": [
+      160
+    ],
+    "doc12_ngrams": [
+      91
+    ]
+  },
+  "scores": {
+    "doc06_tf_idf": [
+      171
+    ]
+  },
+  "scripting": {
+    "doc22_cybersecurity": [
+      44
+    ]
+  },
+  "scripts": {
+    "doc03_web_crawling": [
+      133
+    ]
+  },
+  "search": {
+    "doc01_search_engines": [
+      0,
+      137,
+      167,
+      179
+    ],
+    "doc02_inverted_index": [
+      28,
+      65
+    ],
+    "doc03_web_crawling": [
+      116
+    ],
+    "doc05_text_preprocessing": [
+      8,
+      15,
+      16,
+      18
+    ],
+    "doc06_tf_idf": [
+      163
+    ],
+    "doc07_boolean_queries": [
+      9,
+      86,
+      93,
+      142
+    ],
+    "doc08_phrase_search": [
+      1,
+      97,
+      156
+    ],
+    "doc09_proximity_search": [
+      1,
+      132
+    ],
+    "doc10_wildcard_queries": [
+      1,
+      100
+    ],
+    "doc11_spelling_correction": [
+      46
+    ],
+    "doc12_ngrams": [
+      111
+    ],
+    "doc13_soundex": [
+      11,
+      84,
+      115
+    ],
+    "doc14_synonyms": [
+      11,
+      22,
+      70
+    ],
+    "doc15_web_mining": [
+      125
+    ],
+    "doc17_clustering": [
+      99
+    ],
+    "doc19_computer_networks": [
+      82,
+      125
+    ],
+    "doc20_databases": [
+      44
+    ],
+    "doc21_cloud_computing": [
+      89
+    ],
+    "doc22_cybersecurity": [
+      75
+    ],
+    "doc24_robotics_vision": [
+      88,
+      96
+    ],
+    "doc25_big_data": [
+      101
+    ]
+  },
+  "searchable": {
+    "doc01_search_engines": [
+      48
+    ]
+  },
+  "searches": {
+    "doc16_association_rules": [
+      47
+    ]
+  },
+  "secondary": {
+    "doc12_ngrams": [
+      144
+    ]
+  },
+  "secret": {
+    "doc23_cryptography": [
+      10
+    ]
+  },
+  "secure": {
+    "doc22_cybersecurity": [
+      50
+    ],
+    "doc23_cryptography": [
+      33,
+      48,
+      129
+    ]
+  },
+  "security": {
+    "doc17_clustering": [
+      118
+    ],
+    "doc22_cybersecurity": [
+      20,
+      65
+    ],
+    "doc23_cryptography": [
+      84
+    ]
+  },
+  "seed": {
+    "doc03_web_crawling": [
+      14
+    ]
+  },
+  "segmentation": {
+    "doc22_cybersecurity": [
+      68
+    ]
+  },
+  "select": {
+    "doc20_databases": [
+      28
+    ]
+  },
+  "selecting": {
+    "doc08_phrase_search": [
+      162
+    ]
+  },
+  "semantic": {
+    "doc18_neural_networks": [
+      94
+    ]
+  },
+  "sending": {
+    "doc03_web_crawling": [
+      57
+    ]
+  },
+  "sensors": {
+    "doc24_robotics_vision": [
+      2,
+      26
+    ],
+    "doc25_big_data": [
+      40
+    ]
+  },
+  "sentence": {
+    "doc09_proximity_search": [
+      137
+    ]
+  },
+  "separate": {
+    "doc21_cloud_computing": [
+      110
+    ]
+  },
+  "separated": {
+    "doc09_proximity_search": [
+      28
+    ]
+  },
+  "separates": {
+    "doc05_text_preprocessing": [
+      100
+    ]
+  },
+  "separation": {
+    "doc21_cloud_computing": [
+      126
+    ]
+  },
+  "sequence": {
+    "doc05_text_preprocessing": [
+      109
+    ],
+    "doc10_wildcard_queries": [
+      37
+    ],
+    "doc13_soundex": [
+      127
+    ]
+  },
+  "sequences": {
+    "doc11_spelling_correction": [
+      96
+    ],
+    "doc12_ngrams": [
+      9
+    ]
+  },
+  "serve": {
+    "doc19_computer_networks": [
+      91
+    ]
+  },
+  "server": {
+    "doc21_cloud_computing": [
+      14
+    ],
+    "doc23_cryptography": [
+      98
+    ]
+  },
+  "serverless": {
+    "doc21_cloud_computing": [
+      26
+    ]
+  },
+  "servers": {
+    "doc19_computer_networks": [
+      108
+    ],
+    "doc25_big_data": [
+      115
+    ]
+  },
+  "service": {
+    "doc21_cloud_computing": [
+      44,
+      51,
+      59
+    ],
+    "doc22_cybersecurity": [
+      49,
+      117
+    ]
+  },
+  "services": {
+    "doc19_computer_networks": [
+      23
+    ],
+    "doc21_cloud_computing": [
+      71,
+      111
+    ]
+  },
+  "serving": {
+    "doc21_cloud_computing": [
+      101
+    ]
+  },
+  "set": {
+    "doc01_search_engines": [
+      86
+    ],
+    "doc07_boolean_queries": [
+      83
+    ],
+    "doc10_wildcard_queries": [
+      138
+    ],
+    "doc12_ngrams": [
+      88,
+      124
+    ],
+    "doc16_association_rules": [
+      29,
+      68
+    ]
+  },
+  "sets": {
+    "doc12_ngrams": [
+      69
+    ],
+    "doc16_association_rules": [
+      51
+    ]
+  },
+  "seven": {
+    "doc02_inverted_index": [
+      24
+    ],
+    "doc08_phrase_search": [
+      70
+    ]
+  },
+  "several": {
+    "doc11_spelling_correction": [
+      66
+    ],
+    "doc14_synonyms": [
+      109
+    ]
+  },
+  "share": {
+    "doc11_spelling_correction": [
+      101
+    ],
+    "doc12_ngrams": [
+      49
+    ],
+    "doc21_cloud_computing": [
+      73
+    ]
+  },
+  "shared": {
+    "doc05_text_preprocessing": [
+      129
+    ],
+    "doc12_ngrams": [
+      76
+    ],
+    "doc19_computer_networks": [
+      11
+    ],
+    "doc23_cryptography": [
+      16
+    ]
+  },
+  "shares": {
+    "doc13_soundex": [
+      110
+    ]
+  },
+  "short": {
+    "doc01_search_engines": [
+      143
+    ],
+    "doc11_spelling_correction": [
+      93,
+      111
+    ],
+    "doc12_ngrams": [
+      7
+    ],
+    "doc13_soundex": [
+      42
+    ]
+  },
+  "should": {
+    "doc01_search_engines": [
+      109
+    ],
+    "doc05_text_preprocessing": [
+      82
+    ],
+    "doc08_phrase_search": [
+      134,
+      140
+    ],
+    "doc10_wildcard_queries": [
+      140
+    ],
+    "doc16_association_rules": [
+      97
+    ]
+  },
+  "shown": {
+    "doc01_search_engines": [
+      111
+    ]
+  },
+  "shows": {
+    "doc09_proximity_search": [
+      153
+    ],
+    "doc14_synonyms": [
+      138
+    ]
+  },
+  "signal": {
+    "doc04_page_ranking": [
+      77
+    ],
+    "doc11_spelling_correction": [
+      75,
+      87
+    ]
+  },
+  "signals": {
+    "doc01_search_engines": [
+      122
+    ],
+    "doc04_page_ranking": [
+      103
+    ]
+  },
+  "signatures": {
+    "doc23_cryptography": [
+      38,
+      67
+    ]
+  },
+  "silently": {
+    "doc11_spelling_correction": [
+      118
+    ]
+  },
+  "similar": {
+    "doc11_spelling_correction": [
+      97
+    ],
+    "doc12_ngrams": [
+      16,
+      47,
+      98
+    ],
+    "doc13_soundex": [
+      133
+    ],
+    "doc17_clustering": [
+      2
+    ],
+    "doc24_robotics_vision": [
+      93
+    ]
+  },
+  "similarity": {
+    "doc04_page_ranking": [
+      117,
+      147
+    ],
+    "doc06_tf_idf": [
+      134
+    ],
+    "doc11_spelling_correction": [
+      156
+    ],
+    "doc12_ngrams": [
+      72
+    ]
+  },
+  "simple": {
+    "doc08_phrase_search": [
+      119
+    ],
+    "doc09_proximity_search": [
+      147
+    ],
+    "doc13_soundex": [
+      65
+    ],
+    "doc25_big_data": [
+      12
+    ]
+  },
+  "single": {
+    "doc04_page_ranking": [
+      108
+    ]
+  },
+  "site": {
+    "doc22_cybersecurity": [
+      43
+    ]
+  },
+  "size": {
+    "doc06_tf_idf": [
+      103
+    ],
+    "doc23_cryptography": [
+      43
+    ]
+  },
+  "slow": {
+    "doc01_search_engines": [
+      56
+    ]
+  },
+  "small": {
+    "doc01_search_engines": [
+      155
+    ],
+    "doc05_text_preprocessing": [
+      158
+    ],
+    "doc09_proximity_search": [
+      44
+    ],
+    "doc10_wildcard_queries": [
+      86
+    ],
+    "doc14_synonyms": [
+      57
+    ],
+    "doc25_big_data": [
+      124
+    ]
+  },
+  "smaller": {
+    "doc12_ngrams": [
+      123
+    ]
+  },
+  "so": {
+    "doc03_web_crawling": [
+      154
+    ],
+    "doc05_text_preprocessing": [
+      87
+    ],
+    "doc06_tf_idf": [
+      77
+    ],
+    "doc10_wildcard_queries": [
+      40
+    ],
+    "doc11_spelling_correction": [
+      73,
+      130
+    ],
+    "doc14_synonyms": [
+      35,
+      147
+    ],
+    "doc17_clustering": [
+      133
+    ],
+    "doc19_computer_networks": [
+      4
+    ],
+    "doc24_robotics_vision": [
+      6
+    ]
+  },
+  "software": {
+    "doc21_cloud_computing": [
+      56
+    ],
+    "doc22_cybersecurity": [
+      51
+    ]
+  },
+  "solves": {
+    "doc08_phrase_search": [
+      50
+    ]
+  },
+  "some": {
+    "doc14_synonyms": [
+      106
+    ]
+  },
+  "sometimes": {
+    "doc01_search_engines": [
+      121
+    ],
+    "doc25_big_data": [
+      25
+    ]
+  },
+  "sorted": {
+    "doc02_inverted_index": [
+      55,
+      71
+    ]
+  },
+  "sound": {
+    "doc13_soundex": [
+      20
+    ]
+  },
+  "soundex": {
+    "doc13_soundex": [
+      0,
+      15,
+      51,
+      62,
+      112,
+      137
+    ]
+  },
+  "spam": {
+    "doc22_cybersecurity": [
+      96
+    ]
+  },
+  "specialized": {
+    "doc10_wildcard_queries": [
+      113
+    ]
+  },
+  "speed": {
+    "doc19_computer_networks": [
+      63,
+      119
+    ]
+  },
+  "spelling": {
+    "doc01_search_engines": [
+      98
+    ],
+    "doc11_spelling_correction": [
+      0
+    ],
+    "doc12_ngrams": [
+      147
+    ],
+    "doc13_soundex": [
+      25,
+      76
+    ]
+  },
+  "spellings": {
+    "doc11_spelling_correction": [
+      98
+    ],
+    "doc12_ngrams": [
+      17,
+      48
+    ]
+  },
+  "splits": {
+    "doc05_text_preprocessing": [
+      32
+    ]
+  },
+  "sql": {
+    "doc20_databases": [
+      26
+    ]
+  },
+  "stage": {
+    "doc03_web_crawling": [
+      167
+    ],
+    "doc25_big_data": [
+      62,
+      71
+    ]
+  },
+  "start": {
+    "doc08_phrase_search": [
+      129
+    ]
+  },
+  "statistical": {
+    "doc24_robotics_vision": [
+      81
+    ]
+  },
+  "stemmer": {
+    "doc05_text_preprocessing": [
+      120,
+      137
+    ]
+  },
+  "stemming": {
+    "doc05_text_preprocessing": [
+      113
+    ]
+  },
+  "still": {
+    "doc03_web_crawling": [
+      163
+    ],
+    "doc05_text_preprocessing": [
+      93
+    ]
+  },
+  "stop": {
+    "doc05_text_preprocessing": [
+      47,
+      159
+    ]
+  },
+  "storage": {
+    "doc03_web_crawling": [
+      111
+    ],
+    "doc20_databases": [
+      67
+    ],
+    "doc21_cloud_computing": [
+      24
+    ],
+    "doc25_big_data": [
+      30
+    ]
+  },
+  "store": {
+    "doc05_text_preprocessing": [
+      44
+    ],
+    "doc16_association_rules": [
+      84
+    ],
+    "doc20_databases": [
+      2,
+      114
+    ]
+  },
+  "stored": {
+    "doc22_cybersecurity": [
+      80
+    ],
+    "doc23_cryptography": [
+      107
+    ]
+  },
+  "stores": {
+    "doc02_inverted_index": [
+      131,
+      138
+    ],
+    "doc09_proximity_search": [
+      54
+    ],
+    "doc20_databases": [
+      95
+    ],
+    "doc22_cybersecurity": [
+      54
+    ]
+  },
+  "storing": {
+    "doc08_phrase_search": [
+      54
+    ]
+  },
+  "strings": {
+    "doc12_ngrams": [
+      95
+    ]
+  },
+  "stronger": {
+    "doc04_page_ranking": [
+      75
+    ]
+  },
+  "strongly": {
+    "doc06_tf_idf": [
+      55
+    ]
+  },
+  "structurally": {
+    "doc12_ngrams": [
+      97
+    ]
+  },
+  "structure": {
+    "doc02_inverted_index": [
+      26,
+      154
+    ],
+    "doc10_wildcard_queries": [
+      114
+    ],
+    "doc15_web_mining": [
+      17,
+      58
+    ],
+    "doc17_clustering": [
+      16
+    ],
+    "doc25_big_data": [
+      138
+    ]
+  },
+  "structured": {
+    "doc20_databases": [
+      3
+    ]
+  },
+  "structures": {
+    "doc20_databases": [
+      65
+    ]
+  },
+  "studies": {
+    "doc15_web_mining": [
+      60
+    ]
+  },
+  "submits": {
+    "doc01_search_engines": [
+      67
+    ]
+  },
+  "subset": {
+    "doc16_association_rules": [
+      62
+    ]
+  },
+  "substituted": {
+    "doc12_ngrams": [
+      61
+    ]
+  },
+  "substitutions": {
+    "doc11_spelling_correction": [
+      21
+    ]
+  },
+  "subtracting": {
+    "doc07_boolean_queries": [
+      71
+    ]
+  },
+  "such": {
+    "doc04_page_ranking": [
+      58
+    ],
+    "doc05_text_preprocessing": [
+      54
+    ],
+    "doc07_boolean_queries": [
+      140
+    ],
+    "doc11_spelling_correction": [
+      85
+    ],
+    "doc13_soundex": [
+      44
+    ],
+    "doc19_computer_networks": [
+      24
+    ],
+    "doc20_databases": [
+      91
+    ],
+    "doc22_cybersecurity": [
+      36
+    ],
+    "doc23_cryptography": [
+      87
+    ]
+  },
+  "suggestion": {
+    "doc11_spelling_correction": [
+      113
+    ]
+  },
+  "suggestions": {
+    "doc01_search_engines": [
+      99
+    ],
+    "doc11_spelling_correction": [
+      65
+    ],
+    "doc12_ngrams": [
+      148
+    ]
+  },
+  "suggests": {
+    "doc11_spelling_correction": [
+      2
+    ],
+    "doc12_ngrams": [
+      92
+    ]
+  },
+  "suite": {
+    "doc19_computer_networks": [
+      16
+    ]
+  },
+  "summaries": {
+    "doc20_databases": [
+      36
+    ]
+  },
+  "support": {
+    "doc15_web_mining": [
+      118
+    ],
+    "doc16_association_rules": [
+      23,
+      131
+    ],
+    "doc20_databases": [
+      103
+    ]
+  },
+  "supports": {
+    "doc07_boolean_queries": [
+      2
+    ],
+    "doc23_cryptography": [
+      115
+    ]
+  },
+  "switches": {
+    "doc19_computer_networks": [
+      75
+    ]
+  },
+  "symmetric": {
+    "doc23_cryptography": [
+      12
+    ]
+  },
+  "synonym": {
+    "doc14_synonyms": [
+      0,
+      50,
+      100
+    ]
+  },
+  "system": {
+    "doc02_inverted_index": [
+      32,
+      66
+    ],
+    "doc03_web_crawling": [
+      176
+    ],
+    "doc10_wildcard_queries": [
+      58
+    ],
+    "doc12_ngrams": [
+      14,
+      63
+    ],
+    "doc14_synonyms": [
+      90
+    ],
+    "doc15_web_mining": [
+      139
+    ],
+    "doc17_clustering": [
+      111
+    ]
+  },
+  "systems": {
+    "doc04_page_ranking": [
+      100
+    ],
+    "doc06_tf_idf": [
+      79
+    ],
+    "doc16_association_rules": [
+      75
+    ],
+    "doc18_neural_networks": [
+      122
+    ],
+    "doc20_databases": [
+      1,
+      75,
+      127
+    ],
+    "doc21_cloud_computing": [
+      132
+    ],
+    "doc22_cybersecurity": [
+      2,
+      76
+    ],
+    "doc23_cryptography": [
+      100
+    ],
+    "doc24_robotics_vision": [
+      63
+    ],
+    "doc25_big_data": [
+      79
+    ]
+  },
+  "tables": {
+    "doc20_databases": [
+      22,
+      31
+    ]
+  },
+  "takes": {
+    "doc10_wildcard_queries": [
+      70
+    ]
+  },
+  "taking": {
+    "doc07_boolean_queries": [
+      53,
+      64
+    ]
+  },
+  "task": {
+    "doc25_big_data": [
+      53
+    ]
+  },
+  "tasks": {
+    "doc18_neural_networks": [
+      68
+    ],
+    "doc24_robotics_vision": [
+      51
+    ]
+  },
+  "tcp": {
+    "doc19_computer_networks": [
+      48
+    ]
+  },
+  "technical": {
+    "doc06_tf_idf": [
+      52
+    ]
+  },
+  "technique": {
+    "doc05_text_preprocessing": [
+      118
+    ],
+    "doc13_soundex": [
+      120
+    ]
+  },
+  "tell": {
+    "doc08_phrase_search": [
+      27
+    ]
+  },
+  "tend": {
+    "doc11_spelling_correction": [
+      99
+    ]
+  },
+  "term": {
+    "doc02_inverted_index": [
+      5,
+      11,
+      15,
+      39,
+      92,
+      93,
+      99
+    ],
+    "doc04_page_ranking": [
+      89,
+      127,
+      139
+    ],
+    "doc06_tf_idf": [
+      20,
+      30,
+      60
+    ],
+    "doc08_phrase_search": [
+      61,
+      89
+    ],
+    "doc09_proximity_search": [
+      67,
+      73
+    ],
+    "doc10_wildcard_queries": [
+      63,
+      83
+    ],
+    "doc11_spelling_correction": [
+      44
+    ],
+    "doc14_synonyms": [
+      77
+    ]
+  },
+  "terms": {
+    "doc01_search_engines": [
+      39
+    ],
+    "doc02_inverted_index": [
+      63
+    ],
+    "doc04_page_ranking": [
+      25,
+      28
+    ],
+    "doc06_tf_idf": [
+      6
+    ],
+    "doc08_phrase_search": [
+      105
+    ],
+    "doc09_proximity_search": [
+      3,
+      126
+    ],
+    "doc10_wildcard_queries": [
+      132,
+      158
+    ],
+    "doc13_soundex": [
+      98
+    ],
+    "doc14_synonyms": [
+      86,
+      99,
+      141
+    ],
+    "doc20_databases": [
+      60
+    ]
+  },
+  "text": {
+    "doc01_search_engines": [
+      32
+    ],
+    "doc02_inverted_index": [
+      157
+    ],
+    "doc03_web_crawling": [
+      141,
+      152
+    ],
+    "doc05_text_preprocessing": [
+      0,
+      4
+    ],
+    "doc15_web_mining": [
+      16
+    ],
+    "doc24_robotics_vision": [
+      95
+    ]
+  },
+  "textual": {
+    "doc01_search_engines": [
+      116
+    ],
+    "doc15_web_mining": [
+      148
+    ]
+  },
+  "tf": {
+    "doc02_inverted_index": [
+      111
+    ],
+    "doc04_page_ranking": [
+      113,
+      121
+    ],
+    "doc06_tf_idf": [
+      0,
+      84,
+      110
+    ],
+    "doc18_neural_networks": [
+      103
+    ]
+  },
+  "than": {
+    "doc01_search_engines": [
+      54
+    ],
+    "doc03_web_crawling": [
+      137
+    ],
+    "doc04_page_ranking": [
+      78,
+      105,
+      140
+    ],
+    "doc06_tf_idf": [
+      27
+    ],
+    "doc08_phrase_search": [
+      117
+    ],
+    "doc10_wildcard_queries": [
+      9
+    ],
+    "doc19_computer_networks": [
+      67
+    ]
+  },
+  "that": {
+    "doc02_inverted_index": [
+      10
+    ],
+    "doc03_web_crawling": [
+      168
+    ],
+    "doc05_text_preprocessing": [
+      40,
+      88,
+      134,
+      141
+    ],
+    "doc06_tf_idf": [
+      7,
+      43
+    ],
+    "doc07_boolean_queries": [
+      97,
+      123
+    ],
+    "doc08_phrase_search": [
+      28,
+      39,
+      77,
+      124
+    ],
+    "doc09_proximity_search": [
+      4,
+      82
+    ],
+    "doc11_spelling_correction": [
+      131
+    ],
+    "doc12_ngrams": [
+      93
+    ],
+    "doc13_soundex": [
+      19
+    ],
+    "doc14_synonyms": [
+      43
+    ],
+    "doc15_web_mining": [
+      103,
+      116
+    ],
+    "doc16_association_rules": [
+      7,
+      59
+    ],
+    "doc17_clustering": [
+      134,
+      140
+    ],
+    "doc19_computer_networks": [
+      5
+    ],
+    "doc24_robotics_vision": [
+      7,
+      35
+    ],
+    "doc25_big_data": [
+      4,
+      50
+    ]
+  },
+  "the": {
+    "doc01_search_engines": [
+      38,
+      44,
+      51,
+      70,
+      74,
+      81,
+      107,
+      128,
+      150,
+      159,
+      171
+    ],
+    "doc02_inverted_index": [
+      7,
+      14,
+      31,
+      64,
+      69,
+      98,
+      114,
+      122,
+      143,
+      149
+    ],
+    "doc03_web_crawling": [
+      62,
+      65,
+      73,
+      127,
+      138,
+      146,
+      161,
+      165
+    ],
+    "doc04_page_ranking": [
+      3,
+      32,
+      149,
+      164
+    ],
+    "doc05_text_preprocessing": [
+      9,
+      41,
+      56,
+      105,
+      131,
+      145,
+      149
+    ],
+    "doc06_tf_idf": [
+      16,
+      93,
+      101,
+      107,
+      114,
+      119,
+      122,
+      130,
+      136,
+      140,
+      161,
+      166
+    ],
+    "doc07_boolean_queries": [
+      54,
+      76,
+      126,
+      149
+    ],
+    "doc08_phrase_search": [
+      5,
+      19,
+      44,
+      93,
+      96,
+      128,
+      143,
+      159,
+      166,
+      172
+    ],
+    "doc09_proximity_search": [
+      24,
+      40,
+      51,
+      65,
+      71,
+      77,
+      96,
+      125,
+      142,
+      146,
+      157
+    ],
+    "doc10_wildcard_queries": [
+      6,
+      25,
+      29,
+      33,
+      47,
+      51,
+      56,
+      65,
+      71,
+      89,
+      148,
+      155,
+      160,
+      165
+    ],
+    "doc11_spelling_correction": [
+      14,
+      42,
+      45,
+      49,
+      70,
+      105,
+      120,
+      127,
+      132,
+      146
+    ],
+    "doc12_ngrams": [
+      40,
+      62,
+      66,
+      73,
+      81,
+      135,
+      150
+    ],
+    "doc13_soundex": [
+      27,
+      30,
+      49,
+      58,
+      83,
+      88,
+      100,
+      106,
+      125
+    ],
+    "doc14_synonyms": [
+      32,
+      49,
+      75,
+      80,
+      89,
+      132,
+      136,
+      139,
+      144
+    ],
+    "doc15_web_mining": [
+      35,
+      42
+    ],
+    "doc16_association_rules": [
+      16,
+      36,
+      40,
+      44,
+      57,
+      110,
+      118,
+      123
+    ],
+    "doc17_clustering": [
+      10,
+      27,
+      64,
+      74,
+      82,
+      138
+    ],
+    "doc18_neural_networks": [
+      31,
+      37
+    ],
+    "doc19_computer_networks": [
+      13,
+      118
+    ],
+    "doc20_databases": [
+      130
+    ],
+    "doc21_cloud_computing": [
+      112,
+      125
+    ],
+    "doc23_cryptography": [
+      55,
+      63
+    ],
+    "doc24_robotics_vision": [
+      14,
+      37,
+      122,
+      129
+    ],
+    "doc25_big_data": [
+      17,
+      60,
+      69,
+      75,
+      123,
+      130
+    ]
+  },
+  "their": {
+    "doc01_search_engines": [
+      15
+    ],
+    "doc03_web_crawling": [
+      17
+    ],
+    "doc06_tf_idf": [
+      146
+    ],
+    "doc07_boolean_queries": [
+      65
+    ],
+    "doc08_phrase_search": [
+      109
+    ],
+    "doc10_wildcard_queries": [
+      74
+    ],
+    "doc12_ngrams": [
+      52
+    ],
+    "doc13_soundex": [
+      24
+    ],
+    "doc17_clustering": [
+      37,
+      127,
+      142
+    ]
+  },
+  "them": {
+    "doc01_search_engines": [
+      78
+    ],
+    "doc02_inverted_index": [
+      79
+    ],
+    "doc09_proximity_search": [
+      95
+    ],
+    "doc12_ngrams": [
+      115
+    ]
+  },
+  "then": {
+    "doc01_search_engines": [
+      103
+    ],
+    "doc05_text_preprocessing": [
+      31
+    ],
+    "doc08_phrase_search": [
+      107
+    ],
+    "doc10_wildcard_queries": [
+      69
+    ],
+    "doc13_soundex": [
+      95
+    ],
+    "doc14_synonyms": [
+      91
+    ]
+  },
+  "therefore": {
+    "doc05_text_preprocessing": [
+      99
+    ],
+    "doc09_proximity_search": [
+      98
+    ],
+    "doc10_wildcard_queries": [
+      141
+    ],
+    "doc16_association_rules": [
+      129
+    ]
+  },
+  "these": {
+    "doc02_inverted_index": [
+      105
+    ],
+    "doc05_text_preprocessing": [
+      27
+    ],
+    "doc15_web_mining": [
+      27
+    ]
+  },
+  "they": {
+    "doc03_web_crawling": [
+      38
+    ],
+    "doc05_text_preprocessing": [
+      60,
+      69
+    ],
+    "doc06_tf_idf": [
+      157
+    ],
+    "doc08_phrase_search": [
+      40
+    ],
+    "doc10_wildcard_queries": [
+      162
+    ],
+    "doc12_ngrams": [
+      10
+    ],
+    "doc19_computer_networks": [
+      6
+    ],
+    "doc20_databases": [
+      101
+    ]
+  },
+  "this": {
+    "doc01_search_engines": [
+      146
+    ],
+    "doc02_inverted_index": [
+      25,
+      152
+    ],
+    "doc03_web_crawling": [
+      143
+    ],
+    "doc04_page_ranking": [
+      110
+    ],
+    "doc05_text_preprocessing": [
+      97
+    ],
+    "doc06_tf_idf": [
+      148
+    ],
+    "doc07_boolean_queries": [
+      26,
+      131
+    ],
+    "doc08_phrase_search": [
+      51
+    ],
+    "doc09_proximity_search": [
+      75
+    ],
+    "doc10_wildcard_queries": [
+      85
+    ],
+    "doc11_spelling_correction": [
+      136
+    ],
+    "doc12_ngrams": [
+      133
+    ],
+    "doc13_soundex": [
+      104,
+      116
+    ],
+    "doc14_synonyms": [
+      53
+    ],
+    "doc25_big_data": [
+      127
+    ]
+  },
+  "threats": {
+    "doc22_cybersecurity": [
+      35
+    ]
+  },
+  "three": {
+    "doc09_proximity_search": [
+      16,
+      32,
+      92
+    ],
+    "doc15_web_mining": [
+      28
+    ]
+  },
+  "through": {
+    "doc04_page_ranking": [
+      63
+    ],
+    "doc11_spelling_correction": [
+      92
+    ],
+    "doc19_computer_networks": [
+      53,
+      97
+    ],
+    "doc22_cybersecurity": [
+      95
+    ],
+    "doc25_big_data": [
+      96
+    ]
+  },
+  "tie": {
+    "doc11_spelling_correction": [
+      79
+    ]
+  },
+  "time": {
+    "doc01_search_engines": [
+      63
+    ],
+    "doc07_boolean_queries": [
+      139
+    ]
+  },
+  "times": {
+    "doc06_tf_idf": [
+      76
+    ]
+  },
+  "tiny": {
+    "doc01_search_engines": [
+      162
+    ]
+  },
+  "titles": {
+    "doc01_search_engines": [
+      141
+    ],
+    "doc04_page_ranking": [
+      95
+    ]
+  },
+  "tls": {
+    "doc23_cryptography": [
+      89
+    ]
+  },
+  "to": {
+    "doc02_inverted_index": [
+      6,
+      19,
+      40,
+      125
+    ],
+    "doc03_web_crawling": [
+      61,
+      126
+    ],
+    "doc04_page_ranking": [
+      136,
+      141,
+      162
+    ],
+    "doc05_text_preprocessing": [
+      127
+    ],
+    "doc06_tf_idf": [
+      5
+    ],
+    "doc08_phrase_search": [
+      171
+    ],
+    "doc10_wildcard_queries": [
+      27,
+      77,
+      93,
+      115
+    ],
+    "doc11_spelling_correction": [
+      23,
+      100,
+      158
+    ],
+    "doc12_ngrams": [
+      116,
+      121
+    ],
+    "doc13_soundex": [
+      4,
+      16,
+      56,
+      153
+    ],
+    "doc14_synonyms": [
+      63,
+      66,
+      69,
+      73
+    ],
+    "doc15_web_mining": [
+      34,
+      68,
+      81,
+      131,
+      145
+    ],
+    "doc17_clustering": [
+      13,
+      57,
+      97,
+      130
+    ],
+    "doc18_neural_networks": [
+      35,
+      47,
+      108
+    ],
+    "doc19_computer_networks": [
+      87
+    ],
+    "doc20_databases": [
+      9,
+      52,
+      61
+    ],
+    "doc21_cloud_computing": [
+      72
+    ],
+    "doc22_cybersecurity": [
+      72,
+      89
+    ],
+    "doc23_cryptography": [
+      53,
+      74,
+      80,
+      90
+    ],
+    "doc24_robotics_vision": [
+      27,
+      94
+    ],
+    "doc25_big_data": [
+      119
+    ]
+  },
+  "together": {
+    "doc08_phrase_search": [
+      42
+    ],
+    "doc16_association_rules": [
+      9
+    ]
+  },
+  "token": {
+    "doc05_text_preprocessing": [
+      108
+    ]
+  },
+  "tokenization": {
+    "doc05_text_preprocessing": [
+      30,
+      155
+    ]
+  },
+  "tokens": {
+    "doc05_text_preprocessing": [
+      39,
+      103
+    ]
+  },
+  "tolerant": {
+    "doc11_spelling_correction": [
+      106
+    ],
+    "doc13_soundex": [
+      10,
+      119
+    ]
+  },
+  "too": {
+    "doc03_web_crawling": [
+      58
+    ],
+    "doc25_big_data": [
+      6
+    ]
+  },
+  "topic": {
+    "doc03_web_crawling": [
+      83
+    ],
+    "doc17_clustering": [
+      139
+    ]
+  },
+  "topics": {
+    "doc17_clustering": [
+      102
+    ]
+  },
+  "tracking": {
+    "doc24_robotics_vision": [
+      57
+    ]
+  },
+  "trade": {
+    "doc20_databases": [
+      66
+    ]
+  },
+  "tradeoff": {
+    "doc05_text_preprocessing": [
+      132
+    ]
+  },
+  "traditional": {
+    "doc18_neural_networks": [
+      102
+    ]
+  },
+  "trails": {
+    "doc15_web_mining": [
+      80
+    ]
+  },
+  "trained": {
+    "doc24_robotics_vision": [
+      68
+    ]
+  },
+  "training": {
+    "doc17_clustering": [
+      8
+    ],
+    "doc18_neural_networks": [
+      30,
+      69
+    ],
+    "doc21_cloud_computing": [
+      107
+    ]
+  },
+  "transaction": {
+    "doc20_databases": [
+      74
+    ]
+  },
+  "transactions": {
+    "doc16_association_rules": [
+      95
+    ],
+    "doc25_big_data": [
+      39
+    ]
+  },
+  "transformer": {
+    "doc18_neural_networks": [
+      61
+    ]
+  },
+  "transforming": {
+    "doc23_cryptography": [
+      4
+    ]
+  },
+  "transforms": {
+    "doc18_neural_networks": [
+      22
+    ]
+  },
+  "transit": {
+    "doc23_cryptography": [
+      105
+    ]
+  },
+  "transparent": {
+    "doc05_text_preprocessing": [
+      151
+    ],
+    "doc12_ngrams": [
+      143
+    ]
+  },
+  "treat": {
+    "doc04_page_ranking": [
+      14
+    ]
+  },
+  "treating": {
+    "doc16_association_rules": [
+      138
+    ]
+  },
+  "treats": {
+    "doc07_boolean_queries": [
+      28
+    ]
+  },
+  "tree": {
+    "doc17_clustering": [
+      71
+    ]
+  },
+  "trust": {
+    "doc23_cryptography": [
+      118
+    ]
+  },
+  "trusting": {
+    "doc04_page_ranking": [
+      106
+    ]
+  },
+  "trustworthy": {
+    "doc22_cybersecurity": [
+      115
+    ]
+  },
+  "two": {
+    "doc02_inverted_index": [
+      21,
+      62,
+      70
+    ],
+    "doc07_boolean_queries": [
+      57
+    ],
+    "doc08_phrase_search": [
+      29
+    ],
+    "doc09_proximity_search": [
+      25,
+      90
+    ],
+    "doc12_ngrams": [
+      46,
+      94
+    ],
+    "doc23_cryptography": [
+      60
+    ]
+  },
+  "types": {
+    "doc01_search_engines": [
+      22
+    ]
+  },
+  "udp": {
+    "doc19_computer_networks": [
+      58
+    ]
+  },
+  "unauthorized": {
+    "doc22_cybersecurity": [
+      8
+    ]
+  },
+  "understand": {
+    "doc10_wildcard_queries": [
+      94
+    ],
+    "doc14_synonyms": [
+      150
+    ],
+    "doc15_web_mining": [
+      82
+    ]
+  },
+  "understandable": {
+    "doc01_search_engines": [
+      139
+    ],
+    "doc17_clustering": [
+      132
+    ]
+  },
+  "understanding": {
+    "doc18_neural_networks": [
+      97
+    ],
+    "doc24_robotics_vision": [
+      60
+    ]
+  },
+  "uneven": {
+    "doc25_big_data": [
+      88
+    ]
+  },
+  "union": {
+    "doc07_boolean_queries": [
+      66
+    ],
+    "doc10_wildcard_queries": [
+      72
+    ]
+  },
+  "units": {
+    "doc18_neural_networks": [
+      12
+    ]
+  },
+  "unknown": {
+    "doc11_spelling_correction": [
+      50
+    ]
+  },
+  "unlike": {
+    "doc09_proximity_search": [
+      101
+    ]
+  },
+  "unordered": {
+    "doc09_proximity_search": [
+      103
+    ]
+  },
+  "unseen": {
+    "doc03_web_crawling": [
+      24
+    ]
+  },
+  "unusual": {
+    "doc15_web_mining": [
+      36
+    ]
+  },
+  "unwanted": {
+    "doc07_boolean_queries": [
+      24
+    ]
+  },
+  "up": {
+    "doc01_search_engines": [
+      79
+    ],
+    "doc21_cloud_computing": [
+      33
+    ]
+  },
+  "update": {
+    "doc20_databases": [
+      12,
+      69
+    ]
+  },
+  "updated": {
+    "doc22_cybersecurity": [
+      63
+    ]
+  },
+  "updates": {
+    "doc17_clustering": [
+      63
+    ]
+  },
+  "usage": {
+    "doc15_web_mining": [
+      22,
+      74
+    ]
+  },
+  "use": {
+    "doc04_page_ranking": [
+      88
+    ],
+    "doc06_tf_idf": [
+      81
+    ],
+    "doc10_wildcard_queries": [
+      104
+    ],
+    "doc12_ngrams": [
+      114
+    ],
+    "doc13_soundex": [
+      14
+    ],
+    "doc15_web_mining": [
+      128,
+      141
+    ],
+    "doc17_clustering": [
+      95
+    ],
+    "doc18_neural_networks": [
+      90
+    ],
+    "doc19_computer_networks": [
+      22
+    ],
+    "doc20_databases": [
+      89
+    ],
+    "doc21_cloud_computing": [
+      18
+    ],
+    "doc24_robotics_vision": [
+      20,
+      65,
+      76
+    ]
+  },
+  "used": {
+    "doc04_page_ranking": [
+      161
+    ],
+    "doc05_text_preprocessing": [
+      110
+    ],
+    "doc12_ngrams": [
+      140
+    ],
+    "doc14_synonyms": [
+      104
+    ],
+    "doc18_neural_networks": [
+      65,
+      84
+    ],
+    "doc21_cloud_computing": [
+      129
+    ]
+  },
+  "useful": {
+    "doc01_search_engines": [
+      5
+    ],
+    "doc02_inverted_index": [
+      109
+    ],
+    "doc03_web_crawling": [
+      106,
+      136
+    ],
+    "doc04_page_ranking": [
+      53
+    ],
+    "doc07_boolean_queries": [
+      104
+    ],
+    "doc09_proximity_search": [
+      36
+    ],
+    "doc11_spelling_correction": [
+      77
+    ],
+    "doc12_ngrams": [
+      103
+    ],
+    "doc13_soundex": [
+      72,
+      150
+    ],
+    "doc15_web_mining": [
+      3
+    ],
+    "doc16_association_rules": [
+      72,
+      143
+    ]
+  },
+  "user": {
+    "doc01_search_engines": [
+      21,
+      66,
+      126
+    ],
+    "doc07_boolean_queries": [
+      107
+    ],
+    "doc10_wildcard_queries": [
+      26
+    ],
+    "doc11_spelling_correction": [
+      121,
+      133
+    ],
+    "doc13_soundex": [
+      92
+    ],
+    "doc15_web_mining": [
+      10,
+      87,
+      106
+    ],
+    "doc19_computer_networks": [
+      102
+    ],
+    "doc22_cybersecurity": [
+      83
+    ],
+    "doc24_robotics_vision": [
+      130
+    ]
+  },
+  "users": {
+    "doc01_search_engines": [
+      133
+    ],
+    "doc08_phrase_search": [
+      146
+    ],
+    "doc10_wildcard_queries": [
+      139
+    ],
+    "doc14_synonyms": [
+      26,
+      148
+    ],
+    "doc17_clustering": [
+      135
+    ],
+    "doc20_databases": [
+      83
+    ]
+  },
+  "uses": {
+    "doc04_page_ranking": [
+      112
+    ],
+    "doc08_phrase_search": [
+      2
+    ],
+    "doc16_association_rules": [
+      56
+    ],
+    "doc22_cybersecurity": [
+      66
+    ],
+    "doc23_cryptography": [
+      14,
+      24,
+      85
+    ]
+  },
+  "using": {
+    "doc05_text_preprocessing": [
+      153
+    ],
+    "doc06_tf_idf": [
+      129
+    ],
+    "doc12_ngrams": [
+      70
+    ],
+    "doc15_web_mining": [
+      65
+    ],
+    "doc19_computer_networks": [
+      10
+    ]
+  },
+  "usually": {
+    "doc02_inverted_index": [
+      53
+    ],
+    "doc11_spelling_correction": [
+      63
+    ]
+  },
+  "validates": {
+    "doc09_proximity_search": [
+      145
+    ],
+    "doc22_cybersecurity": [
+      52
+    ]
+  },
+  "value": {
+    "doc16_association_rules": [
+      105
+    ],
+    "doc20_databases": [
+      94
+    ],
+    "doc25_big_data": [
+      28,
+      66
+    ]
+  },
+  "values": {
+    "doc20_databases": [
+      51
+    ],
+    "doc25_big_data": [
+      73
+    ]
+  },
+  "variations": {
+    "doc09_proximity_search": [
+      45
+    ],
+    "doc13_soundex": [
+      80
+    ]
+  },
+  "varied": {
+    "doc25_big_data": [
+      10
+    ]
+  },
+  "variety": {
+    "doc15_web_mining": [
+      40
+    ],
+    "doc25_big_data": [
+      23
+    ]
+  },
+  "vector": {
+    "doc04_page_ranking": [
+      152,
+      157
+    ],
+    "doc06_tf_idf": [
+      121,
+      128
+    ]
+  },
+  "vectors": {
+    "doc06_tf_idf": [
+      144
+    ]
+  },
+  "velocity": {
+    "doc25_big_data": [
+      22
+    ]
+  },
+  "veracity": {
+    "doc25_big_data": [
+      26
+    ]
+  },
+  "very": {
+    "doc01_search_engines": [
+      9
+    ],
+    "doc04_page_ranking": [
+      143
+    ],
+    "doc05_text_preprocessing": [
+      50
+    ],
+    "doc10_wildcard_queries": [
+      125
+    ],
+    "doc16_association_rules": [
+      114
+    ]
+  },
+  "video": {
+    "doc24_robotics_vision": [
+      50,
+      87
+    ]
+  },
+  "videos": {
+    "doc24_robotics_vision": [
+      127
+    ]
+  },
+  "virtual": {
+    "doc21_cloud_computing": [
+      19,
+      46
+    ]
+  },
+  "virtualization": {
+    "doc21_cloud_computing": [
+      63
+    ]
+  },
+  "visible": {
+    "doc10_wildcard_queries": [
+      168
+    ],
+    "doc14_synonyms": [
+      135
+    ]
+  },
+  "vision": {
+    "doc24_robotics_vision": [
+      44,
+      62
+    ]
+  },
+  "visit": {
+    "doc03_web_crawling": [
+      69
+    ]
+  },
+  "visited": {
+    "doc03_web_crawling": [
+      35
+    ]
+  },
+  "visual": {
+    "doc24_robotics_vision": [
+      102
+    ]
+  },
+  "vocabulary": {
+    "doc06_tf_idf": [
+      132
+    ],
+    "doc10_wildcard_queries": [
+      7,
+      62,
+      90,
+      131,
+      157
+    ],
+    "doc11_spelling_correction": [
+      5,
+      55,
+      150
+    ],
+    "doc12_ngrams": [
+      120
+    ],
+    "doc13_soundex": [
+      97
+    ],
+    "doc14_synonyms": [
+      38
+    ]
+  },
+  "volume": {
+    "doc25_big_data": [
+      21
+    ]
+  },
+  "wastes": {
+    "doc03_web_crawling": [
+      110
+    ]
+  },
+  "ways": {
+    "doc20_databases": [
+      8
+    ]
+  },
+  "web": {
+    "doc01_search_engines": [
+      13,
+      52
+    ],
+    "doc03_web_crawling": [
+      1,
+      74,
+      174
+    ],
+    "doc04_page_ranking": [
+      9
+    ],
+    "doc14_synonyms": [
+      72
+    ],
+    "doc15_web_mining": [
+      0,
+      6,
+      43,
+      44,
+      57,
+      73,
+      92
+    ],
+    "doc16_association_rules": [
+      83
+    ],
+    "doc17_clustering": [
+      92
+    ],
+    "doc19_computer_networks": [
+      26,
+      124
+    ],
+    "doc20_databases": [
+      110
+    ],
+    "doc22_cybersecurity": [
+      32
+    ],
+    "doc23_cryptography": [
+      83
+    ],
+    "doc24_robotics_vision": [
+      83
+    ],
+    "doc25_big_data": [
+      43,
+      91
+    ]
+  },
+  "webminingsearch": {
+    "doc01_search_engines": [
+      147
+    ],
+    "doc21_cloud_computing": [
+      114
+    ]
+  },
+  "website": {
+    "doc03_web_crawling": [
+      64
+    ],
+    "doc16_association_rules": [
+      79
+    ]
+  },
+  "weight": {
+    "doc06_tf_idf": [
+      4,
+      85,
+      117
+    ],
+    "doc18_neural_networks": [
+      18
+    ]
+  },
+  "weighted": {
+    "doc04_page_ranking": [
+      150,
+      155
+    ]
+  },
+  "weights": {
+    "doc04_page_ranking": [
+      98
+    ],
+    "doc18_neural_networks": [
+      34
+    ]
+  },
+  "when": {
+    "doc01_search_engines": [
+      64
+    ],
+    "doc04_page_ranking": [
+      124
+    ],
+    "doc07_boolean_queries": [
+      105
+    ],
+    "doc08_phrase_search": [
+      11
+    ],
+    "doc09_proximity_search": [
+      23,
+      37
+    ],
+    "doc12_ngrams": [
+      55
+    ],
+    "doc13_soundex": [
+      23
+    ],
+    "doc16_association_rules": [
+      39,
+      109
+    ],
+    "doc19_computer_networks": [
+      62
+    ],
+    "doc20_databases": [
+      81
+    ],
+    "doc21_cloud_computing": [
+      28
+    ]
+  },
+  "whenever": {
+    "doc10_wildcard_queries": [
+      146
+    ]
+  },
+  "where": {
+    "doc09_proximity_search": [
+      124
+    ],
+    "doc13_soundex": [
+      75
+    ],
+    "doc25_big_data": [
+      136
+    ]
+  },
+  "which": {
+    "doc01_search_engines": [
+      105
+    ],
+    "doc02_inverted_index": [
+      146,
+      165
+    ],
+    "doc03_web_crawling": [
+      32
+    ],
+    "doc07_boolean_queries": [
+      44
+    ],
+    "doc24_robotics_vision": [
+      117
+    ]
+  },
+  "while": {
+    "doc03_web_crawling": [
+      94
+    ],
+    "doc04_page_ranking": [
+      20
+    ],
+    "doc06_tf_idf": [
+      49
+    ],
+    "doc07_boolean_queries": [
+      94
+    ],
+    "doc09_proximity_search": [
+      130
+    ],
+    "doc14_synonyms": [
+      14
+    ],
+    "doc15_web_mining": [
+      136
+    ],
+    "doc16_association_rules": [
+      31
+    ],
+    "doc17_clustering": [
+      31
+    ],
+    "doc18_neural_networks": [
+      60,
+      112
+    ],
+    "doc19_computer_networks": [
+      30,
+      57
+    ],
+    "doc20_databases": [
+      55
+    ],
+    "doc21_cloud_computing": [
+      68
+    ],
+    "doc24_robotics_vision": [
+      73
+    ],
+    "doc25_big_data": [
+      113
+    ]
+  },
+  "why": {
+    "doc14_synonyms": [
+      151
+    ]
+  },
+  "wide": {
+    "doc19_computer_networks": [
+      39
+    ],
+    "doc20_databases": [
+      99
+    ]
+  },
+  "widely": {
+    "doc18_neural_networks": [
+      64
+    ]
+  },
+  "wildcard": {
+    "doc10_wildcard_queries": [
+      0,
+      66,
+      117,
+      120,
+      151
+    ],
+    "doc12_ngrams": [
+      105
+    ]
+  },
+  "winning": {
+    "doc06_tf_idf": [
+      154
+    ]
+  },
+  "with": {
+    "doc01_search_engines": [
+      153,
+      164
+    ],
+    "doc03_web_crawling": [
+      10
+    ],
+    "doc04_page_ranking": [
+      26,
+      81,
+      153
+    ],
+    "doc07_boolean_queries": [
+      21
+    ],
+    "doc09_proximity_search": [
+      43,
+      68,
+      87
+    ],
+    "doc11_spelling_correction": [
+      52,
+      57
+    ],
+    "doc12_ngrams": [
+      36
+    ],
+    "doc13_soundex": [
+      48,
+      99,
+      114
+    ],
+    "doc16_association_rules": [
+      122
+    ],
+    "doc18_neural_networks": [
+      50,
+      131
+    ],
+    "doc23_cryptography": [
+      6,
+      62,
+      124
+    ]
+  },
+  "within": {
+    "doc06_tf_idf": [
+      65
+    ]
+  },
+  "without": {
+    "doc04_page_ranking": [
+      51
+    ],
+    "doc09_proximity_search": [
+      9
+    ],
+    "doc10_wildcard_queries": [
+      23
+    ],
+    "doc17_clustering": [
+      5
+    ]
+  },
+  "word": {
+    "doc02_inverted_index": [
+      140,
+      167
+    ],
+    "doc05_text_preprocessing": [
+      66,
+      85,
+      160
+    ],
+    "doc06_tf_idf": [
+      34,
+      53,
+      64,
+      73,
+      94,
+      115
+    ],
+    "doc08_phrase_search": [
+      3
+    ],
+    "doc09_proximity_search": [
+      57,
+      141,
+      148,
+      150
+    ],
+    "doc10_wildcard_queries": [
+      13,
+      31,
+      55
+    ],
+    "doc11_spelling_correction": [
+      6,
+      26,
+      51,
+      91
+    ],
+    "doc12_ngrams": [
+      5,
+      29
+    ],
+    "doc13_soundex": [
+      93
+    ],
+    "doc14_synonyms": [
+      116
+    ]
+  },
+  "words": {
+    "doc01_search_engines": [
+      75
+    ],
+    "doc02_inverted_index": [
+      126,
+      133
+    ],
+    "doc04_page_ranking": [
+      50
+    ],
+    "doc05_text_preprocessing": [
+      37,
+      48,
+      53,
+      140
+    ],
+    "doc06_tf_idf": [
+      160
+    ],
+    "doc07_boolean_queries": [
+      18
+    ],
+    "doc08_phrase_search": [
+      30,
+      174
+    ],
+    "doc09_proximity_search": [
+      26,
+      50,
+      93
+    ],
+    "doc13_soundex": [
+      2,
+      47
+    ],
+    "doc14_synonyms": [
+      30,
+      107
+    ],
+    "doc17_clustering": [
+      28
+    ]
+  },
+  "work": {
+    "doc01_search_engines": [
+      16
+    ],
+    "doc20_databases": [
+      70
+    ],
+    "doc25_big_data": [
+      89
+    ]
+  },
+  "workloads": {
+    "doc20_databases": [
+      108
+    ],
+    "doc21_cloud_computing": [
+      67
+    ]
+  },
+  "world": {
+    "doc24_robotics_vision": [
+      16
+    ]
+  },
+  "would": {
+    "doc03_web_crawling": [
+      169
+    ],
+    "doc10_wildcard_queries": [
+      102
+    ]
+  },
+  "yet": {
+    "doc13_soundex": [
+      146
+    ]
+  },
+  "zero": {
+    "doc09_proximity_search": [
+      88
+    ]
+  }
+}

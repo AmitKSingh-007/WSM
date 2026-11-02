@@ -1,0 +1,3347 @@
+{
+  "about": {
+    "document_frequency": 1
+  },
+  "accent": {
+    "document_frequency": 1
+  },
+  "accepts": {
+    "document_frequency": 1
+  },
+  "access": {
+    "document_frequency": 2
+  },
+  "according": {
+    "document_frequency": 1
+  },
+  "acknowledgements": {
+    "document_frequency": 1
+  },
+  "across": {
+    "document_frequency": 3
+  },
+  "act": {
+    "document_frequency": 1
+  },
+  "actions": {
+    "document_frequency": 2
+  },
+  "activity": {
+    "document_frequency": 1
+  },
+  "actuators": {
+    "document_frequency": 1
+  },
+  "added": {
+    "document_frequency": 1
+  },
+  "adding": {
+    "document_frequency": 1
+  },
+  "additional": {
+    "document_frequency": 1
+  },
+  "addresses": {
+    "document_frequency": 1
+  },
+  "addressing": {
+    "document_frequency": 1
+  },
+  "adds": {
+    "document_frequency": 1
+  },
+  "adjacent": {
+    "document_frequency": 1
+  },
+  "adjectives": {
+    "document_frequency": 1
+  },
+  "adjusts": {
+    "document_frequency": 1
+  },
+  "administrative": {
+    "document_frequency": 1
+  },
+  "advanced": {
+    "document_frequency": 1
+  },
+  "advertisements": {
+    "document_frequency": 1
+  },
+  "after": {
+    "document_frequency": 3
+  },
+  "afterward": {
+    "document_frequency": 1
+  },
+  "again": {
+    "document_frequency": 1
+  },
+  "against": {
+    "document_frequency": 1
+  },
+  "aggressive": {
+    "document_frequency": 1
+  },
+  "algorithm": {
+    "document_frequency": 2
+  },
+  "algorithms": {
+    "document_frequency": 3
+  },
+  "alike": {
+    "document_frequency": 1
+  },
+  "all": {
+    "document_frequency": 4
+  },
+  "allowing": {
+    "document_frequency": 2
+  },
+  "alone": {
+    "document_frequency": 1
+  },
+  "already": {
+    "document_frequency": 2
+  },
+  "also": {
+    "document_frequency": 8
+  },
+  "although": {
+    "document_frequency": 1
+  },
+  "analysis": {
+    "document_frequency": 4
+  },
+  "analyzes": {
+    "document_frequency": 1
+  },
+  "another": {
+    "document_frequency": 4
+  },
+  "answer": {
+    "document_frequency": 2
+  },
+  "answers": {
+    "document_frequency": 1
+  },
+  "any": {
+    "document_frequency": 1
+  },
+  "anything": {
+    "document_frequency": 1
+  },
+  "apart": {
+    "document_frequency": 1
+  },
+  "appear": {
+    "document_frequency": 3
+  },
+  "appearing": {
+    "document_frequency": 1
+  },
+  "appears": {
+    "document_frequency": 1
+  },
+  "application": {
+    "document_frequency": 3
+  },
+  "applications": {
+    "document_frequency": 4
+  },
+  "applies": {
+    "document_frequency": 2
+  },
+  "apply": {
+    "document_frequency": 2
+  },
+  "appropriate": {
+    "document_frequency": 1
+  },
+  "approximate": {
+    "document_frequency": 2
+  },
+  "approximated": {
+    "document_frequency": 1
+  },
+  "apriori": {
+    "document_frequency": 1
+  },
+  "architectures": {
+    "document_frequency": 1
+  },
+  "area": {
+    "document_frequency": 1
+  },
+  "areas": {
+    "document_frequency": 1
+  },
+  "around": {
+    "document_frequency": 1
+  },
+  "article": {
+    "document_frequency": 1
+  },
+  "artificially": {
+    "document_frequency": 1
+  },
+  "assignment": {
+    "document_frequency": 2
+  },
+  "assigns": {
+    "document_frequency": 1
+  },
+  "association": {
+    "document_frequency": 1
+  },
+  "asterisk": {
+    "document_frequency": 1
+  },
+  "asymmetric": {
+    "document_frequency": 1
+  },
+  "attacks": {
+    "document_frequency": 1
+  },
+  "attempt": {
+    "document_frequency": 1
+  },
+  "authenticate": {
+    "document_frequency": 1
+  },
+  "authentication": {
+    "document_frequency": 1
+  },
+  "authenticity": {
+    "document_frequency": 1
+  },
+  "authorities": {
+    "document_frequency": 1
+  },
+  "authorization": {
+    "document_frequency": 1
+  },
+  "authors": {
+    "document_frequency": 1
+  },
+  "automation": {
+    "document_frequency": 1
+  },
+  "automobile": {
+    "document_frequency": 1
+  },
+  "availability": {
+    "document_frequency": 1
+  },
+  "available": {
+    "document_frequency": 2
+  },
+  "avoid": {
+    "document_frequency": 1
+  },
+  "avoided": {
+    "document_frequency": 1
+  },
+  "aware": {
+    "document_frequency": 1
+  },
+  "away": {
+    "document_frequency": 1
+  },
+  "backups": {
+    "document_frequency": 1
+  },
+  "balances": {
+    "document_frequency": 1
+  },
+  "bandwidth": {
+    "document_frequency": 1
+  },
+  "based": {
+    "document_frequency": 2
+  },
+  "basket": {
+    "document_frequency": 1
+  },
+  "because": {
+    "document_frequency": 7
+  },
+  "becomes": {
+    "document_frequency": 1
+  },
+  "before": {
+    "document_frequency": 5
+  },
+  "beginning": {
+    "document_frequency": 1
+  },
+  "begins": {
+    "document_frequency": 2
+  },
+  "behaviour": {
+    "document_frequency": 4
+  },
+  "better": {
+    "document_frequency": 1
+  },
+  "between": {
+    "document_frequency": 6
+  },
+  "big": {
+    "document_frequency": 1
+  },
+  "bigram": {
+    "document_frequency": 1
+  },
+  "bigrams": {
+    "document_frequency": 1
+  },
+  "binary": {
+    "document_frequency": 1
+  },
+  "boolean": {
+    "document_frequency": 3
+  },
+  "both": {
+    "document_frequency": 3
+  },
+  "boundary": {
+    "document_frequency": 1
+  },
+  "box": {
+    "document_frequency": 1
+  },
+  "bread": {
+    "document_frequency": 1
+  },
+  "break": {
+    "document_frequency": 1
+  },
+  "breaking": {
+    "document_frequency": 1
+  },
+  "broad": {
+    "document_frequency": 1
+  },
+  "broader": {
+    "document_frequency": 1
+  },
+  "browser": {
+    "document_frequency": 1
+  },
+  "browsing": {
+    "document_frequency": 1
+  },
+  "builds": {
+    "document_frequency": 2
+  },
+  "busy": {
+    "document_frequency": 1
+  },
+  "butter": {
+    "document_frequency": 1
+  },
+  "buying": {
+    "document_frequency": 1
+  },
+  "caching": {
+    "document_frequency": 1
+  },
+  "calculate": {
+    "document_frequency": 2
+  },
+  "calculated": {
+    "document_frequency": 1
+  },
+  "calculating": {
+    "document_frequency": 1
+  },
+  "called": {
+    "document_frequency": 1
+  },
+  "cameras": {
+    "document_frequency": 1
+  },
+  "candidate": {
+    "document_frequency": 2
+  },
+  "candidates": {
+    "document_frequency": 3
+  },
+  "cannot": {
+    "document_frequency": 3
+  },
+  "captions": {
+    "document_frequency": 1
+  },
+  "car": {
+    "document_frequency": 1
+  },
+  "careful": {
+    "document_frequency": 1
+  },
+  "carefully": {
+    "document_frequency": 2
+  },
+  "center": {
+    "document_frequency": 1
+  },
+  "centers": {
+    "document_frequency": 1
+  },
+  "central": {
+    "document_frequency": 1
+  },
+  "change": {
+    "document_frequency": 2
+  },
+  "changes": {
+    "document_frequency": 2
+  },
+  "changing": {
+    "document_frequency": 1
+  },
+  "character": {
+    "document_frequency": 3
+  },
+  "characteristics": {
+    "document_frequency": 1
+  },
+  "checked": {
+    "document_frequency": 1
+  },
+  "checks": {
+    "document_frequency": 1
+  },
+  "choose": {
+    "document_frequency": 6
+  },
+  "chooses": {
+    "document_frequency": 2
+  },
+  "chosen": {
+    "document_frequency": 1
+  },
+  "classic": {
+    "document_frequency": 1
+  },
+  "classical": {
+    "document_frequency": 1
+  },
+  "classification": {
+    "document_frequency": 1
+  },
+  "cleaned": {
+    "document_frequency": 2
+  },
+  "cleanup": {
+    "document_frequency": 1
+  },
+  "clear": {
+    "document_frequency": 1
+  },
+  "click": {
+    "document_frequency": 1
+  },
+  "close": {
+    "document_frequency": 1
+  },
+  "cloud": {
+    "document_frequency": 1
+  },
+  "clustered": {
+    "document_frequency": 1
+  },
+  "clustering": {
+    "document_frequency": 1
+  },
+  "clusters": {
+    "document_frequency": 1
+  },
+  "co": {
+    "document_frequency": 1
+  },
+  "code": {
+    "document_frequency": 1
+  },
+  "collect": {
+    "document_frequency": 1
+  },
+  "collection": {
+    "document_frequency": 7
+  },
+  "collections": {
+    "document_frequency": 1
+  },
+  "columns": {
+    "document_frequency": 1
+  },
+  "combinations": {
+    "document_frequency": 1
+  },
+  "combine": {
+    "document_frequency": 5
+  },
+  "combined": {
+    "document_frequency": 1
+  },
+  "combines": {
+    "document_frequency": 4
+  },
+  "common": {
+    "document_frequency": 9
+  },
+  "commonly": {
+    "document_frequency": 2
+  },
+  "communication": {
+    "document_frequency": 2
+  },
+  "compare": {
+    "document_frequency": 2
+  },
+  "compared": {
+    "document_frequency": 2
+  },
+  "compares": {
+    "document_frequency": 4
+  },
+  "comparison": {
+    "document_frequency": 1
+  },
+  "complete": {
+    "document_frequency": 1
+  },
+  "complex": {
+    "document_frequency": 1
+  },
+  "component": {
+    "document_frequency": 1
+  },
+  "computation": {
+    "document_frequency": 4
+  },
+  "computed": {
+    "document_frequency": 1
+  },
+  "computer": {
+    "document_frequency": 4
+  },
+  "computing": {
+    "document_frequency": 3
+  },
+  "concept": {
+    "document_frequency": 3
+  },
+  "concurrently": {
+    "document_frequency": 1
+  },
+  "condition": {
+    "document_frequency": 1
+  },
+  "conditions": {
+    "document_frequency": 1
+  },
+  "confidence": {
+    "document_frequency": 1
+  },
+  "confidentiality": {
+    "document_frequency": 1
+  },
+  "connect": {
+    "document_frequency": 1
+  },
+  "connected": {
+    "document_frequency": 2
+  },
+  "connecting": {
+    "document_frequency": 1
+  },
+  "connection": {
+    "document_frequency": 1
+  },
+  "connections": {
+    "document_frequency": 1
+  },
+  "connectivity": {
+    "document_frequency": 1
+  },
+  "consequence": {
+    "document_frequency": 1
+  },
+  "consistency": {
+    "document_frequency": 1
+  },
+  "consistent": {
+    "document_frequency": 1
+  },
+  "consists": {
+    "document_frequency": 1
+  },
+  "consonants": {
+    "document_frequency": 1
+  },
+  "construction": {
+    "document_frequency": 1
+  },
+  "contain": {
+    "document_frequency": 2
+  },
+  "containers": {
+    "document_frequency": 1
+  },
+  "containing": {
+    "document_frequency": 6
+  },
+  "contains": {
+    "document_frequency": 3
+  },
+  "content": {
+    "document_frequency": 5
+  },
+  "control": {
+    "document_frequency": 1
+  },
+  "controlled": {
+    "document_frequency": 1
+  },
+  "controls": {
+    "document_frequency": 1
+  },
+  "converts": {
+    "document_frequency": 1
+  },
+  "convolutional": {
+    "document_frequency": 1
+  },
+  "copied": {
+    "document_frequency": 1
+  },
+  "corpus": {
+    "document_frequency": 4
+  },
+  "correct": {
+    "document_frequency": 1
+  },
+  "correction": {
+    "document_frequency": 2
+  },
+  "corrections": {
+    "document_frequency": 1
+  },
+  "correctly": {
+    "document_frequency": 1
+  },
+  "cosine": {
+    "document_frequency": 2
+  },
+  "counts": {
+    "document_frequency": 2
+  },
+  "crawl": {
+    "document_frequency": 1
+  },
+  "crawled": {
+    "document_frequency": 3
+  },
+  "crawler": {
+    "document_frequency": 4
+  },
+  "crawlers": {
+    "document_frequency": 1
+  },
+  "crawling": {
+    "document_frequency": 2
+  },
+  "create": {
+    "document_frequency": 2
+  },
+  "creates": {
+    "document_frequency": 2
+  },
+  "credit": {
+    "document_frequency": 1
+  },
+  "cross": {
+    "document_frequency": 1
+  },
+  "cryptography": {
+    "document_frequency": 1
+  },
+  "current": {
+    "document_frequency": 2
+  },
+  "customers": {
+    "document_frequency": 1
+  },
+  "cybersecurity": {
+    "document_frequency": 1
+  },
+  "data": {
+    "document_frequency": 10
+  },
+  "database": {
+    "document_frequency": 1
+  },
+  "databases": {
+    "document_frequency": 3
+  },
+  "datagrams": {
+    "document_frequency": 1
+  },
+  "datasets": {
+    "document_frequency": 1
+  },
+  "decide": {
+    "document_frequency": 1
+  },
+  "decides": {
+    "document_frequency": 1
+  },
+  "decision": {
+    "document_frequency": 1
+  },
+  "decryption": {
+    "document_frequency": 1
+  },
+  "deep": {
+    "document_frequency": 1
+  },
+  "delete": {
+    "document_frequency": 1
+  },
+  "deletion": {
+    "document_frequency": 1
+  },
+  "deletions": {
+    "document_frequency": 1
+  },
+  "deliver": {
+    "document_frequency": 1
+  },
+  "delivers": {
+    "document_frequency": 1
+  },
+  "delivery": {
+    "document_frequency": 1
+  },
+  "demand": {
+    "document_frequency": 1
+  },
+  "demonstrate": {
+    "document_frequency": 1
+  },
+  "demonstrates": {
+    "document_frequency": 3
+  },
+  "demonstration": {
+    "document_frequency": 1
+  },
+  "denial": {
+    "document_frequency": 1
+  },
+  "depend": {
+    "document_frequency": 1
+  },
+  "dependencies": {
+    "document_frequency": 1
+  },
+  "depending": {
+    "document_frequency": 1
+  },
+  "depends": {
+    "document_frequency": 1
+  },
+  "deployment": {
+    "document_frequency": 1
+  },
+  "descending": {
+    "document_frequency": 1
+  },
+  "describes": {
+    "document_frequency": 1
+  },
+  "descriptive": {
+    "document_frequency": 1
+  },
+  "descriptors": {
+    "document_frequency": 1
+  },
+  "design": {
+    "document_frequency": 2
+  },
+  "detect": {
+    "document_frequency": 2
+  },
+  "detection": {
+    "document_frequency": 2
+  },
+  "devices": {
+    "document_frequency": 1
+  },
+  "dictionary": {
+    "document_frequency": 1
+  },
+  "difference": {
+    "document_frequency": 1
+  },
+  "differences": {
+    "document_frequency": 1
+  },
+  "different": {
+    "document_frequency": 4
+  },
+  "differently": {
+    "document_frequency": 1
+  },
+  "differs": {
+    "document_frequency": 1
+  },
+  "difficult": {
+    "document_frequency": 1
+  },
+  "digital": {
+    "document_frequency": 1
+  },
+  "direct": {
+    "document_frequency": 1
+  },
+  "directly": {
+    "document_frequency": 3
+  },
+  "discover": {
+    "document_frequency": 1
+  },
+  "discovered": {
+    "document_frequency": 1
+  },
+  "discovering": {
+    "document_frequency": 1
+  },
+  "discovers": {
+    "document_frequency": 4
+  },
+  "display": {
+    "document_frequency": 1
+  },
+  "displayed": {
+    "document_frequency": 1
+  },
+  "displays": {
+    "document_frequency": 1
+  },
+  "distance": {
+    "document_frequency": 4
+  },
+  "distinct": {
+    "document_frequency": 1
+  },
+  "distinctive": {
+    "document_frequency": 2
+  },
+  "distinguish": {
+    "document_frequency": 2
+  },
+  "distribute": {
+    "document_frequency": 1
+  },
+  "distributed": {
+    "document_frequency": 3
+  },
+  "distribution": {
+    "document_frequency": 1
+  },
+  "divided": {
+    "document_frequency": 2
+  },
+  "divides": {
+    "document_frequency": 2
+  },
+  "do": {
+    "document_frequency": 1
+  },
+  "document": {
+    "document_frequency": 14
+  },
+  "documents": {
+    "document_frequency": 13
+  },
+  "does": {
+    "document_frequency": 2
+  },
+  "domain": {
+    "document_frequency": 1
+  },
+  "dot": {
+    "document_frequency": 1
+  },
+  "down": {
+    "document_frequency": 1
+  },
+  "downloads": {
+    "document_frequency": 2
+  },
+  "duplicate": {
+    "document_frequency": 1
+  },
+  "during": {
+    "document_frequency": 2
+  },
+  "each": {
+    "document_frequency": 8
+  },
+  "easier": {
+    "document_frequency": 1
+  },
+  "easy": {
+    "document_frequency": 3
+  },
+  "edges": {
+    "document_frequency": 1
+  },
+  "edit": {
+    "document_frequency": 3
+  },
+  "effective": {
+    "document_frequency": 1
+  },
+  "efficient": {
+    "document_frequency": 2
+  },
+  "efficiently": {
+    "document_frequency": 1
+  },
+  "eight": {
+    "document_frequency": 1
+  },
+  "either": {
+    "document_frequency": 2
+  },
+  "email": {
+    "document_frequency": 1
+  },
+  "embeddings": {
+    "document_frequency": 1
+  },
+  "encodes": {
+    "document_frequency": 1
+  },
+  "encrypt": {
+    "document_frequency": 1
+  },
+  "encrypted": {
+    "document_frequency": 1
+  },
+  "encryption": {
+    "document_frequency": 2
+  },
+  "end": {
+    "document_frequency": 2
+  },
+  "engine": {
+    "document_frequency": 10
+  },
+  "engines": {
+    "document_frequency": 4
+  },
+  "english": {
+    "document_frequency": 1
+  },
+  "enough": {
+    "document_frequency": 2
+  },
+  "entered": {
+    "document_frequency": 2
+  },
+  "environment": {
+    "document_frequency": 1
+  },
+  "environments": {
+    "document_frequency": 1
+  },
+  "especially": {
+    "document_frequency": 2
+  },
+  "estimates": {
+    "document_frequency": 1
+  },
+  "evaluated": {
+    "document_frequency": 1
+  },
+  "evaluation": {
+    "document_frequency": 1
+  },
+  "even": {
+    "document_frequency": 2
+  },
+  "every": {
+    "document_frequency": 11
+  },
+  "evidence": {
+    "document_frequency": 2
+  },
+  "exact": {
+    "document_frequency": 5
+  },
+  "examines": {
+    "document_frequency": 1
+  },
+  "example": {
+    "document_frequency": 3
+  },
+  "examples": {
+    "document_frequency": 2
+  },
+  "exchange": {
+    "document_frequency": 2
+  },
+  "exclude": {
+    "document_frequency": 1
+  },
+  "excluding": {
+    "document_frequency": 1
+  },
+  "expanded": {
+    "document_frequency": 2
+  },
+  "expansion": {
+    "document_frequency": 2
+  },
+  "expected": {
+    "document_frequency": 1
+  },
+  "experience": {
+    "document_frequency": 1
+  },
+  "explain": {
+    "document_frequency": 2
+  },
+  "explains": {
+    "document_frequency": 1
+  },
+  "explicit": {
+    "document_frequency": 1
+  },
+  "exploit": {
+    "document_frequency": 1
+  },
+  "exploration": {
+    "document_frequency": 1
+  },
+  "exposes": {
+    "document_frequency": 1
+  },
+  "exposure": {
+    "document_frequency": 1
+  },
+  "express": {
+    "document_frequency": 1
+  },
+  "expressed": {
+    "document_frequency": 1
+  },
+  "expression": {
+    "document_frequency": 1
+  },
+  "expressions": {
+    "document_frequency": 1
+  },
+  "extra": {
+    "document_frequency": 1
+  },
+  "extracts": {
+    "document_frequency": 4
+  },
+  "face": {
+    "document_frequency": 1
+  },
+  "failure": {
+    "document_frequency": 1
+  },
+  "failures": {
+    "document_frequency": 2
+  },
+  "far": {
+    "document_frequency": 1
+  },
+  "fast": {
+    "document_frequency": 3
+  },
+  "faster": {
+    "document_frequency": 1
+  },
+  "feature": {
+    "document_frequency": 2
+  },
+  "features": {
+    "document_frequency": 2
+  },
+  "field": {
+    "document_frequency": 1
+  },
+  "fifteen": {
+    "document_frequency": 1
+  },
+  "files": {
+    "document_frequency": 2
+  },
+  "filter": {
+    "document_frequency": 2
+  },
+  "final": {
+    "document_frequency": 1
+  },
+  "find": {
+    "document_frequency": 3
+  },
+  "finding": {
+    "document_frequency": 1
+  },
+  "finds": {
+    "document_frequency": 2
+  },
+  "fingerprint": {
+    "document_frequency": 1
+  },
+  "fingerprints": {
+    "document_frequency": 1
+  },
+  "firewalls": {
+    "document_frequency": 1
+  },
+  "first": {
+    "document_frequency": 5
+  },
+  "fixed": {
+    "document_frequency": 1
+  },
+  "flat": {
+    "document_frequency": 1
+  },
+  "flexible": {
+    "document_frequency": 1
+  },
+  "focused": {
+    "document_frequency": 2
+  },
+  "focuses": {
+    "document_frequency": 1
+  },
+  "follow": {
+    "document_frequency": 1
+  },
+  "followed": {
+    "document_frequency": 3
+  },
+  "following": {
+    "document_frequency": 3
+  },
+  "form": {
+    "document_frequency": 2
+  },
+  "format": {
+    "document_frequency": 1
+  },
+  "forms": {
+    "document_frequency": 1
+  },
+  "formula": {
+    "document_frequency": 1
+  },
+  "forward": {
+    "document_frequency": 1
+  },
+  "found": {
+    "document_frequency": 1
+  },
+  "frames": {
+    "document_frequency": 1
+  },
+  "frequency": {
+    "document_frequency": 3
+  },
+  "frequent": {
+    "document_frequency": 3
+  },
+  "frequently": {
+    "document_frequency": 1
+  },
+  "freshness": {
+    "document_frequency": 1
+  },
+  "full": {
+    "document_frequency": 3
+  },
+  "function": {
+    "document_frequency": 3
+  },
+  "functions": {
+    "document_frequency": 2
+  },
+  "gap": {
+    "document_frequency": 1
+  },
+  "generate": {
+    "document_frequency": 1
+  },
+  "generated": {
+    "document_frequency": 1
+  },
+  "generation": {
+    "document_frequency": 1
+  },
+  "geometry": {
+    "document_frequency": 1
+  },
+  "gives": {
+    "document_frequency": 2
+  },
+  "goal": {
+    "document_frequency": 2
+  },
+  "goals": {
+    "document_frequency": 1
+  },
+  "good": {
+    "document_frequency": 1
+  },
+  "gram": {
+    "document_frequency": 3
+  },
+  "grammatical": {
+    "document_frequency": 1
+  },
+  "grams": {
+    "document_frequency": 2
+  },
+  "graph": {
+    "document_frequency": 1
+  },
+  "graphical": {
+    "document_frequency": 2
+  },
+  "graphs": {
+    "document_frequency": 2
+  },
+  "ground": {
+    "document_frequency": 1
+  },
+  "group": {
+    "document_frequency": 1
+  },
+  "groups": {
+    "document_frequency": 2
+  },
+  "guaranteed": {
+    "document_frequency": 1
+  },
+  "gui": {
+    "document_frequency": 3
+  },
+  "handling": {
+    "document_frequency": 2
+  },
+  "hardware": {
+    "document_frequency": 1
+  },
+  "harmful": {
+    "document_frequency": 1
+  },
+  "has": {
+    "document_frequency": 3
+  },
+  "hash": {
+    "document_frequency": 1
+  },
+  "hashes": {
+    "document_frequency": 1
+  },
+  "have": {
+    "document_frequency": 4
+  },
+  "headings": {
+    "document_frequency": 1
+  },
+  "help": {
+    "document_frequency": 6
+  },
+  "helps": {
+    "document_frequency": 1
+  },
+  "hidden": {
+    "document_frequency": 1
+  },
+  "hierarchical": {
+    "document_frequency": 1
+  },
+  "high": {
+    "document_frequency": 2
+  },
+  "higher": {
+    "document_frequency": 1
+  },
+  "hosts": {
+    "document_frequency": 1
+  },
+  "however": {
+    "document_frequency": 1
+  },
+  "hubs": {
+    "document_frequency": 1
+  },
+  "huge": {
+    "document_frequency": 1
+  },
+  "hyperlinks": {
+    "document_frequency": 2
+  },
+  "idea": {
+    "document_frequency": 1
+  },
+  "ideas": {
+    "document_frequency": 4
+  },
+  "identifiers": {
+    "document_frequency": 3
+  },
+  "identifies": {
+    "document_frequency": 2
+  },
+  "identify": {
+    "document_frequency": 1
+  },
+  "idf": {
+    "document_frequency": 4
+  },
+  "if": {
+    "document_frequency": 2
+  },
+  "image": {
+    "document_frequency": 1
+  },
+  "images": {
+    "document_frequency": 3
+  },
+  "immediately": {
+    "document_frequency": 1
+  },
+  "implementation": {
+    "document_frequency": 1
+  },
+  "implemented": {
+    "document_frequency": 1
+  },
+  "implies": {
+    "document_frequency": 1
+  },
+  "importance": {
+    "document_frequency": 2
+  },
+  "important": {
+    "document_frequency": 4
+  },
+  "improve": {
+    "document_frequency": 4
+  },
+  "incident": {
+    "document_frequency": 1
+  },
+  "include": {
+    "document_frequency": 3
+  },
+  "includes": {
+    "document_frequency": 1
+  },
+  "incoming": {
+    "document_frequency": 1
+  },
+  "independent": {
+    "document_frequency": 1
+  },
+  "index": {
+    "document_frequency": 12
+  },
+  "indexer": {
+    "document_frequency": 1
+  },
+  "indexes": {
+    "document_frequency": 2
+  },
+  "indexing": {
+    "document_frequency": 4
+  },
+  "individual": {
+    "document_frequency": 1
+  },
+  "influence": {
+    "document_frequency": 1
+  },
+  "information": {
+    "document_frequency": 12
+  },
+  "infrastructure": {
+    "document_frequency": 1
+  },
+  "infrequent": {
+    "document_frequency": 1
+  },
+  "initially": {
+    "document_frequency": 1
+  },
+  "injection": {
+    "document_frequency": 1
+  },
+  "input": {
+    "document_frequency": 1
+  },
+  "inputs": {
+    "document_frequency": 1
+  },
+  "insertions": {
+    "document_frequency": 1
+  },
+  "inside": {
+    "document_frequency": 2
+  },
+  "inspect": {
+    "document_frequency": 1
+  },
+  "inspected": {
+    "document_frequency": 1
+  },
+  "inspired": {
+    "document_frequency": 1
+  },
+  "instance": {
+    "document_frequency": 1
+  },
+  "instead": {
+    "document_frequency": 5
+  },
+  "integrity": {
+    "document_frequency": 1
+  },
+  "intended": {
+    "document_frequency": 1
+  },
+  "intentionally": {
+    "document_frequency": 1
+  },
+  "interaction": {
+    "document_frequency": 2
+  },
+  "interface": {
+    "document_frequency": 3
+  },
+  "intermediate": {
+    "document_frequency": 1
+  },
+  "internet": {
+    "document_frequency": 2
+  },
+  "intersect": {
+    "document_frequency": 1
+  },
+  "intersection": {
+    "document_frequency": 1
+  },
+  "into": {
+    "document_frequency": 9
+  },
+  "introducing": {
+    "document_frequency": 1
+  },
+  "inverse": {
+    "document_frequency": 2
+  },
+  "inverted": {
+    "document_frequency": 4
+  },
+  "ip": {
+    "document_frequency": 1
+  },
+  "isolate": {
+    "document_frequency": 1
+  },
+  "item": {
+    "document_frequency": 2
+  },
+  "items": {
+    "document_frequency": 2
+  },
+  "its": {
+    "document_frequency": 7
+  },
+  "jaccard": {
+    "document_frequency": 1
+  },
+  "jump": {
+    "document_frequency": 1
+  },
+  "k": {
+    "document_frequency": 2
+  },
+  "keep": {
+    "document_frequency": 1
+  },
+  "keeps": {
+    "document_frequency": 3
+  },
+  "key": {
+    "document_frequency": 3
+  },
+  "keys": {
+    "document_frequency": 2
+  },
+  "keywords": {
+    "document_frequency": 1
+  },
+  "know": {
+    "document_frequency": 1
+  },
+  "knowledge": {
+    "document_frequency": 2
+  },
+  "known": {
+    "document_frequency": 2
+  },
+  "labelled": {
+    "document_frequency": 2
+  },
+  "labels": {
+    "document_frequency": 1
+  },
+  "language": {
+    "document_frequency": 2
+  },
+  "large": {
+    "document_frequency": 5
+  },
+  "larger": {
+    "document_frequency": 2
+  },
+  "latency": {
+    "document_frequency": 1
+  },
+  "later": {
+    "document_frequency": 3
+  },
+  "layer": {
+    "document_frequency": 1
+  },
+  "layers": {
+    "document_frequency": 2
+  },
+  "learn": {
+    "document_frequency": 1
+  },
+  "learned": {
+    "document_frequency": 2
+  },
+  "learning": {
+    "document_frequency": 5
+  },
+  "least": {
+    "document_frequency": 1
+  },
+  "left": {
+    "document_frequency": 1
+  },
+  "lengths": {
+    "document_frequency": 1
+  },
+  "less": {
+    "document_frequency": 1
+  },
+  "letter": {
+    "document_frequency": 3
+  },
+  "letters": {
+    "document_frequency": 2
+  },
+  "level": {
+    "document_frequency": 1
+  },
+  "levenshtein": {
+    "document_frequency": 2
+  },
+  "lexical": {
+    "document_frequency": 1
+  },
+  "lidar": {
+    "document_frequency": 1
+  },
+  "lift": {
+    "document_frequency": 1
+  },
+  "lightweight": {
+    "document_frequency": 1
+  },
+  "like": {
+    "document_frequency": 1
+  },
+  "likely": {
+    "document_frequency": 2
+  },
+  "limit": {
+    "document_frequency": 1
+  },
+  "limits": {
+    "document_frequency": 1
+  },
+  "link": {
+    "document_frequency": 3
+  },
+  "linked": {
+    "document_frequency": 1
+  },
+  "links": {
+    "document_frequency": 6
+  },
+  "list": {
+    "document_frequency": 7
+  },
+  "listing": {
+    "document_frequency": 1
+  },
+  "lists": {
+    "document_frequency": 5
+  },
+  "little": {
+    "document_frequency": 1
+  },
+  "local": {
+    "document_frequency": 5
+  },
+  "locality": {
+    "document_frequency": 1
+  },
+  "locate": {
+    "document_frequency": 3
+  },
+  "location": {
+    "document_frequency": 1
+  },
+  "locations": {
+    "document_frequency": 4
+  },
+  "log": {
+    "document_frequency": 1
+  },
+  "logarithmic": {
+    "document_frequency": 1
+  },
+  "logging": {
+    "document_frequency": 1
+  },
+  "logs": {
+    "document_frequency": 3
+  },
+  "long": {
+    "document_frequency": 2
+  },
+  "longer": {
+    "document_frequency": 1
+  },
+  "looks": {
+    "document_frequency": 1
+  },
+  "loss": {
+    "document_frequency": 1
+  },
+  "lower": {
+    "document_frequency": 3
+  },
+  "lowercasing": {
+    "document_frequency": 1
+  },
+  "machine": {
+    "document_frequency": 4
+  },
+  "machines": {
+    "document_frequency": 3
+  },
+  "main": {
+    "document_frequency": 1
+  },
+  "maintain": {
+    "document_frequency": 1
+  },
+  "make": {
+    "document_frequency": 2
+  },
+  "makes": {
+    "document_frequency": 4
+  },
+  "making": {
+    "document_frequency": 2
+  },
+  "malicious": {
+    "document_frequency": 1
+  },
+  "malware": {
+    "document_frequency": 1
+  },
+  "manage": {
+    "document_frequency": 2
+  },
+  "managed": {
+    "document_frequency": 1
+  },
+  "management": {
+    "document_frequency": 1
+  },
+  "manipulate": {
+    "document_frequency": 1
+  },
+  "many": {
+    "document_frequency": 9
+  },
+  "map": {
+    "document_frequency": 1
+  },
+  "mapreduce": {
+    "document_frequency": 1
+  },
+  "maps": {
+    "document_frequency": 3
+  },
+  "markers": {
+    "document_frequency": 1
+  },
+  "market": {
+    "document_frequency": 1
+  },
+  "marks": {
+    "document_frequency": 1
+  },
+  "match": {
+    "document_frequency": 5
+  },
+  "matches": {
+    "document_frequency": 4
+  },
+  "matching": {
+    "document_frequency": 6
+  },
+  "material": {
+    "document_frequency": 1
+  },
+  "mathematical": {
+    "document_frequency": 1
+  },
+  "maximum": {
+    "document_frequency": 1
+  },
+  "may": {
+    "document_frequency": 12
+  },
+  "meaning": {
+    "document_frequency": 1
+  },
+  "meaningful": {
+    "document_frequency": 2
+  },
+  "meanings": {
+    "document_frequency": 2
+  },
+  "means": {
+    "document_frequency": 2
+  },
+  "measures": {
+    "document_frequency": 2
+  },
+  "mention": {
+    "document_frequency": 1
+  },
+  "mentioning": {
+    "document_frequency": 1
+  },
+  "menus": {
+    "document_frequency": 1
+  },
+  "merely": {
+    "document_frequency": 1
+  },
+  "merge": {
+    "document_frequency": 1
+  },
+  "message": {
+    "document_frequency": 1
+  },
+  "messages": {
+    "document_frequency": 1
+  },
+  "metadata": {
+    "document_frequency": 2
+  },
+  "method": {
+    "document_frequency": 2
+  },
+  "methods": {
+    "document_frequency": 3
+  },
+  "microphones": {
+    "document_frequency": 1
+  },
+  "middle": {
+    "document_frequency": 2
+  },
+  "milk": {
+    "document_frequency": 1
+  },
+  "mining": {
+    "document_frequency": 7
+  },
+  "mirrors": {
+    "document_frequency": 1
+  },
+  "misleading": {
+    "document_frequency": 1
+  },
+  "miss": {
+    "document_frequency": 2
+  },
+  "missing": {
+    "document_frequency": 1
+  },
+  "misspelled": {
+    "document_frequency": 2
+  },
+  "misspelling": {
+    "document_frequency": 1
+  },
+  "mode": {
+    "document_frequency": 3
+  },
+  "model": {
+    "document_frequency": 4
+  },
+  "models": {
+    "document_frequency": 4
+  },
+  "modern": {
+    "document_frequency": 2
+  },
+  "modular": {
+    "document_frequency": 1
+  },
+  "module": {
+    "document_frequency": 4
+  },
+  "monitoring": {
+    "document_frequency": 2
+  },
+  "more": {
+    "document_frequency": 10
+  },
+  "most": {
+    "document_frequency": 2
+  },
+  "much": {
+    "document_frequency": 1
+  },
+  "must": {
+    "document_frequency": 7
+  },
+  "n": {
+    "document_frequency": 2
+  },
+  "names": {
+    "document_frequency": 1
+  },
+  "natural": {
+    "document_frequency": 1
+  },
+  "navigation": {
+    "document_frequency": 3
+  },
+  "near": {
+    "document_frequency": 1
+  },
+  "nearest": {
+    "document_frequency": 1
+  },
+  "nearly": {
+    "document_frequency": 1
+  },
+  "need": {
+    "document_frequency": 3
+  },
+  "needed": {
+    "document_frequency": 1
+  },
+  "neighbouring": {
+    "document_frequency": 1
+  },
+  "network": {
+    "document_frequency": 4
+  },
+  "networks": {
+    "document_frequency": 5
+  },
+  "neural": {
+    "document_frequency": 2
+  },
+  "new": {
+    "document_frequency": 1
+  },
+  "news": {
+    "document_frequency": 1
+  },
+  "next": {
+    "document_frequency": 1
+  },
+  "no": {
+    "document_frequency": 1
+  },
+  "noise": {
+    "document_frequency": 1
+  },
+  "non": {
+    "document_frequency": 1
+  },
+  "normal": {
+    "document_frequency": 1
+  },
+  "normalization": {
+    "document_frequency": 1
+  },
+  "normalized": {
+    "document_frequency": 2
+  },
+  "normalizes": {
+    "document_frequency": 1
+  },
+  "normally": {
+    "document_frequency": 2
+  },
+  "nosql": {
+    "document_frequency": 1
+  },
+  "not": {
+    "document_frequency": 8
+  },
+  "notation": {
+    "document_frequency": 1
+  },
+  "number": {
+    "document_frequency": 4
+  },
+  "numeric": {
+    "document_frequency": 2
+  },
+  "object": {
+    "document_frequency": 2
+  },
+  "observe": {
+    "document_frequency": 1
+  },
+  "observed": {
+    "document_frequency": 1
+  },
+  "observing": {
+    "document_frequency": 1
+  },
+  "occur": {
+    "document_frequency": 4
+  },
+  "occurrence": {
+    "document_frequency": 1
+  },
+  "occurs": {
+    "document_frequency": 4
+  },
+  "offers": {
+    "document_frequency": 2
+  },
+  "often": {
+    "document_frequency": 11
+  },
+  "old": {
+    "document_frequency": 1
+  },
+  "omission": {
+    "document_frequency": 1
+  },
+  "one": {
+    "document_frequency": 12
+  },
+  "only": {
+    "document_frequency": 3
+  },
+  "operating": {
+    "document_frequency": 1
+  },
+  "operation": {
+    "document_frequency": 1
+  },
+  "operations": {
+    "document_frequency": 2
+  },
+  "operator": {
+    "document_frequency": 1
+  },
+  "operators": {
+    "document_frequency": 3
+  },
+  "optimization": {
+    "document_frequency": 1
+  },
+  "order": {
+    "document_frequency": 4
+  },
+  "ordered": {
+    "document_frequency": 2
+  },
+  "ordering": {
+    "document_frequency": 2
+  },
+  "orders": {
+    "document_frequency": 1
+  },
+  "ordinary": {
+    "document_frequency": 3
+  },
+  "organization": {
+    "document_frequency": 1
+  },
+  "organizations": {
+    "document_frequency": 1
+  },
+  "organize": {
+    "document_frequency": 1
+  },
+  "organizes": {
+    "document_frequency": 2
+  },
+  "original": {
+    "document_frequency": 1
+  },
+  "other": {
+    "document_frequency": 2
+  },
+  "outgoing": {
+    "document_frequency": 1
+  },
+  "over": {
+    "document_frequency": 1
+  },
+  "overlapping": {
+    "document_frequency": 2
+  },
+  "overvalue": {
+    "document_frequency": 1
+  },
+  "packets": {
+    "document_frequency": 1
+  },
+  "page": {
+    "document_frequency": 4
+  },
+  "pagerank": {
+    "document_frequency": 1
+  },
+  "pages": {
+    "document_frequency": 8
+  },
+  "pair": {
+    "document_frequency": 1
+  },
+  "pairs": {
+    "document_frequency": 2
+  },
+  "parallel": {
+    "document_frequency": 1
+  },
+  "parser": {
+    "document_frequency": 1
+  },
+  "parsers": {
+    "document_frequency": 1
+  },
+  "particular": {
+    "document_frequency": 1
+  },
+  "passed": {
+    "document_frequency": 1
+  },
+  "password": {
+    "document_frequency": 1
+  },
+  "passwords": {
+    "document_frequency": 1
+  },
+  "paths": {
+    "document_frequency": 2
+  },
+  "pattern": {
+    "document_frequency": 2
+  },
+  "patterns": {
+    "document_frequency": 3
+  },
+  "people": {
+    "document_frequency": 1
+  },
+  "perceive": {
+    "document_frequency": 1
+  },
+  "perfect": {
+    "document_frequency": 1
+  },
+  "periods": {
+    "document_frequency": 1
+  },
+  "permuterm": {
+    "document_frequency": 1
+  },
+  "personalization": {
+    "document_frequency": 1
+  },
+  "phishing": {
+    "document_frequency": 1
+  },
+  "phonetic": {
+    "document_frequency": 1
+  },
+  "phrase": {
+    "document_frequency": 5
+  },
+  "physical": {
+    "document_frequency": 2
+  },
+  "pipeline": {
+    "document_frequency": 1
+  },
+  "place": {
+    "document_frequency": 1
+  },
+  "placed": {
+    "document_frequency": 1
+  },
+  "places": {
+    "document_frequency": 1
+  },
+  "planning": {
+    "document_frequency": 1
+  },
+  "platform": {
+    "document_frequency": 1
+  },
+  "point": {
+    "document_frequency": 1
+  },
+  "policies": {
+    "document_frequency": 2
+  },
+  "popular": {
+    "document_frequency": 1
+  },
+  "position": {
+    "document_frequency": 2
+  },
+  "positional": {
+    "document_frequency": 4
+  },
+  "positions": {
+    "document_frequency": 3
+  },
+  "possible": {
+    "document_frequency": 3
+  },
+  "posting": {
+    "document_frequency": 3
+  },
+  "postings": {
+    "document_frequency": 1
+  },
+  "practical": {
+    "document_frequency": 1
+  },
+  "precede": {
+    "document_frequency": 1
+  },
+  "precise": {
+    "document_frequency": 2
+  },
+  "precision": {
+    "document_frequency": 1
+  },
+  "predictions": {
+    "document_frequency": 1
+  },
+  "preferences": {
+    "document_frequency": 1
+  },
+  "prefix": {
+    "document_frequency": 1
+  },
+  "prepared": {
+    "document_frequency": 1
+  },
+  "prepares": {
+    "document_frequency": 1
+  },
+  "preprocess": {
+    "document_frequency": 1
+  },
+  "preprocessing": {
+    "document_frequency": 1
+  },
+  "present": {
+    "document_frequency": 1
+  },
+  "presenting": {
+    "document_frequency": 1
+  },
+  "preserves": {
+    "document_frequency": 1
+  },
+  "prevents": {
+    "document_frequency": 1
+  },
+  "previews": {
+    "document_frequency": 2
+  },
+  "previous": {
+    "document_frequency": 1
+  },
+  "principle": {
+    "document_frequency": 1
+  },
+  "prints": {
+    "document_frequency": 1
+  },
+  "privacy": {
+    "document_frequency": 2
+  },
+  "private": {
+    "document_frequency": 1
+  },
+  "privilege": {
+    "document_frequency": 1
+  },
+  "problem": {
+    "document_frequency": 1
+  },
+  "procedures": {
+    "document_frequency": 1
+  },
+  "process": {
+    "document_frequency": 2
+  },
+  "processing": {
+    "document_frequency": 2
+  },
+  "processor": {
+    "document_frequency": 1
+  },
+  "produce": {
+    "document_frequency": 3
+  },
+  "produces": {
+    "document_frequency": 1
+  },
+  "producing": {
+    "document_frequency": 2
+  },
+  "product": {
+    "document_frequency": 1
+  },
+  "products": {
+    "document_frequency": 1
+  },
+  "programming": {
+    "document_frequency": 1
+  },
+  "project": {
+    "document_frequency": 9
+  },
+  "pronunciation": {
+    "document_frequency": 1
+  },
+  "protect": {
+    "document_frequency": 2
+  },
+  "protects": {
+    "document_frequency": 2
+  },
+  "protocol": {
+    "document_frequency": 1
+  },
+  "protocols": {
+    "document_frequency": 2
+  },
+  "prove": {
+    "document_frequency": 2
+  },
+  "provide": {
+    "document_frequency": 2
+  },
+  "provides": {
+    "document_frequency": 3
+  },
+  "providing": {
+    "document_frequency": 1
+  },
+  "proximity": {
+    "document_frequency": 2
+  },
+  "public": {
+    "document_frequency": 3
+  },
+  "punctuation": {
+    "document_frequency": 1
+  },
+  "quality": {
+    "document_frequency": 2
+  },
+  "queries": {
+    "document_frequency": 4
+  },
+  "query": {
+    "document_frequency": 15
+  },
+  "queue": {
+    "document_frequency": 1
+  },
+  "quickly": {
+    "document_frequency": 2
+  },
+  "quotation": {
+    "document_frequency": 1
+  },
+  "rank": {
+    "document_frequency": 1
+  },
+  "ranked": {
+    "document_frequency": 2
+  },
+  "ranker": {
+    "document_frequency": 1
+  },
+  "ranking": {
+    "document_frequency": 8
+  },
+  "rare": {
+    "document_frequency": 1
+  },
+  "rarely": {
+    "document_frequency": 2
+  },
+  "rate": {
+    "document_frequency": 1
+  },
+  "rather": {
+    "document_frequency": 3
+  },
+  "raw": {
+    "document_frequency": 2
+  },
+  "reach": {
+    "document_frequency": 1
+  },
+  "read": {
+    "document_frequency": 1
+  },
+  "readable": {
+    "document_frequency": 1
+  },
+  "reading": {
+    "document_frequency": 1
+  },
+  "real": {
+    "document_frequency": 1
+  },
+  "recall": {
+    "document_frequency": 2
+  },
+  "receive": {
+    "document_frequency": 1
+  },
+  "receives": {
+    "document_frequency": 2
+  },
+  "recommend": {
+    "document_frequency": 1
+  },
+  "recommendation": {
+    "document_frequency": 2
+  },
+  "recommendations": {
+    "document_frequency": 1
+  },
+  "record": {
+    "document_frequency": 1
+  },
+  "records": {
+    "document_frequency": 3
+  },
+  "recover": {
+    "document_frequency": 1
+  },
+  "recovery": {
+    "document_frequency": 1
+  },
+  "reduce": {
+    "document_frequency": 5
+  },
+  "reference": {
+    "document_frequency": 1
+  },
+  "refers": {
+    "document_frequency": 1
+  },
+  "related": {
+    "document_frequency": 3
+  },
+  "relational": {
+    "document_frequency": 1
+  },
+  "relationship": {
+    "document_frequency": 2
+  },
+  "relationships": {
+    "document_frequency": 2
+  },
+  "relevance": {
+    "document_frequency": 3
+  },
+  "relevant": {
+    "document_frequency": 6
+  },
+  "reliability": {
+    "document_frequency": 1
+  },
+  "reliable": {
+    "document_frequency": 2
+  },
+  "relies": {
+    "document_frequency": 1
+  },
+  "remains": {
+    "document_frequency": 3
+  },
+  "remote": {
+    "document_frequency": 1
+  },
+  "removed": {
+    "document_frequency": 1
+  },
+  "removes": {
+    "document_frequency": 1
+  },
+  "repeat": {
+    "document_frequency": 1
+  },
+  "repeated": {
+    "document_frequency": 2
+  },
+  "repeatedly": {
+    "document_frequency": 2
+  },
+  "repetition": {
+    "document_frequency": 1
+  },
+  "repetitive": {
+    "document_frequency": 1
+  },
+  "replicate": {
+    "document_frequency": 1
+  },
+  "replication": {
+    "document_frequency": 1
+  },
+  "representation": {
+    "document_frequency": 4
+  },
+  "represented": {
+    "document_frequency": 2
+  },
+  "representing": {
+    "document_frequency": 1
+  },
+  "represents": {
+    "document_frequency": 1
+  },
+  "requested": {
+    "document_frequency": 3
+  },
+  "requests": {
+    "document_frequency": 3
+  },
+  "require": {
+    "document_frequency": 2
+  },
+  "required": {
+    "document_frequency": 2
+  },
+  "requires": {
+    "document_frequency": 1
+  },
+  "requiring": {
+    "document_frequency": 3
+  },
+  "researcher": {
+    "document_frequency": 1
+  },
+  "resources": {
+    "document_frequency": 2
+  },
+  "respect": {
+    "document_frequency": 1
+  },
+  "respected": {
+    "document_frequency": 1
+  },
+  "response": {
+    "document_frequency": 1
+  },
+  "responsibilities": {
+    "document_frequency": 1
+  },
+  "result": {
+    "document_frequency": 5
+  },
+  "results": {
+    "document_frequency": 7
+  },
+  "retail": {
+    "document_frequency": 1
+  },
+  "retention": {
+    "document_frequency": 1
+  },
+  "retransmission": {
+    "document_frequency": 1
+  },
+  "retrieval": {
+    "document_frequency": 17
+  },
+  "retrieve": {
+    "document_frequency": 1
+  },
+  "return": {
+    "document_frequency": 1
+  },
+  "returns": {
+    "document_frequency": 2
+  },
+  "reverses": {
+    "document_frequency": 1
+  },
+  "revisited": {
+    "document_frequency": 1
+  },
+  "revisits": {
+    "document_frequency": 1
+  },
+  "rewrite": {
+    "document_frequency": 1
+  },
+  "right": {
+    "document_frequency": 1
+  },
+  "robot": {
+    "document_frequency": 1
+  },
+  "robotics": {
+    "document_frequency": 1
+  },
+  "robots": {
+    "document_frequency": 1
+  },
+  "root": {
+    "document_frequency": 1
+  },
+  "routers": {
+    "document_frequency": 1
+  },
+  "rows": {
+    "document_frequency": 1
+  },
+  "rule": {
+    "document_frequency": 2
+  },
+  "rules": {
+    "document_frequency": 3
+  },
+  "runs": {
+    "document_frequency": 1
+  },
+  "s": {
+    "document_frequency": 6
+  },
+  "safe": {
+    "document_frequency": 1
+  },
+  "safely": {
+    "document_frequency": 2
+  },
+  "safer": {
+    "document_frequency": 1
+  },
+  "same": {
+    "document_frequency": 11
+  },
+  "sarch": {
+    "document_frequency": 1
+  },
+  "satisfying": {
+    "document_frequency": 1
+  },
+  "scale": {
+    "document_frequency": 6
+  },
+  "scan": {
+    "document_frequency": 1
+  },
+  "scanning": {
+    "document_frequency": 1
+  },
+  "scene": {
+    "document_frequency": 1
+  },
+  "schedule": {
+    "document_frequency": 1
+  },
+  "schemas": {
+    "document_frequency": 1
+  },
+  "score": {
+    "document_frequency": 2
+  },
+  "scores": {
+    "document_frequency": 1
+  },
+  "scripting": {
+    "document_frequency": 1
+  },
+  "scripts": {
+    "document_frequency": 1
+  },
+  "search": {
+    "document_frequency": 21
+  },
+  "searchable": {
+    "document_frequency": 1
+  },
+  "searches": {
+    "document_frequency": 1
+  },
+  "secondary": {
+    "document_frequency": 1
+  },
+  "secret": {
+    "document_frequency": 1
+  },
+  "secure": {
+    "document_frequency": 2
+  },
+  "security": {
+    "document_frequency": 3
+  },
+  "seed": {
+    "document_frequency": 1
+  },
+  "segmentation": {
+    "document_frequency": 1
+  },
+  "select": {
+    "document_frequency": 1
+  },
+  "selecting": {
+    "document_frequency": 1
+  },
+  "semantic": {
+    "document_frequency": 1
+  },
+  "sending": {
+    "document_frequency": 1
+  },
+  "sensors": {
+    "document_frequency": 2
+  },
+  "sentence": {
+    "document_frequency": 1
+  },
+  "separate": {
+    "document_frequency": 1
+  },
+  "separated": {
+    "document_frequency": 1
+  },
+  "separates": {
+    "document_frequency": 1
+  },
+  "separation": {
+    "document_frequency": 1
+  },
+  "sequence": {
+    "document_frequency": 3
+  },
+  "sequences": {
+    "document_frequency": 2
+  },
+  "serve": {
+    "document_frequency": 1
+  },
+  "server": {
+    "document_frequency": 2
+  },
+  "serverless": {
+    "document_frequency": 1
+  },
+  "servers": {
+    "document_frequency": 2
+  },
+  "service": {
+    "document_frequency": 2
+  },
+  "services": {
+    "document_frequency": 2
+  },
+  "serving": {
+    "document_frequency": 1
+  },
+  "set": {
+    "document_frequency": 5
+  },
+  "sets": {
+    "document_frequency": 2
+  },
+  "seven": {
+    "document_frequency": 2
+  },
+  "several": {
+    "document_frequency": 2
+  },
+  "share": {
+    "document_frequency": 3
+  },
+  "shared": {
+    "document_frequency": 4
+  },
+  "shares": {
+    "document_frequency": 1
+  },
+  "short": {
+    "document_frequency": 4
+  },
+  "should": {
+    "document_frequency": 5
+  },
+  "shown": {
+    "document_frequency": 1
+  },
+  "shows": {
+    "document_frequency": 2
+  },
+  "signal": {
+    "document_frequency": 2
+  },
+  "signals": {
+    "document_frequency": 2
+  },
+  "signatures": {
+    "document_frequency": 1
+  },
+  "silently": {
+    "document_frequency": 1
+  },
+  "similar": {
+    "document_frequency": 5
+  },
+  "similarity": {
+    "document_frequency": 4
+  },
+  "simple": {
+    "document_frequency": 4
+  },
+  "single": {
+    "document_frequency": 1
+  },
+  "site": {
+    "document_frequency": 1
+  },
+  "size": {
+    "document_frequency": 2
+  },
+  "slow": {
+    "document_frequency": 1
+  },
+  "small": {
+    "document_frequency": 6
+  },
+  "smaller": {
+    "document_frequency": 1
+  },
+  "so": {
+    "document_frequency": 9
+  },
+  "software": {
+    "document_frequency": 2
+  },
+  "solves": {
+    "document_frequency": 1
+  },
+  "some": {
+    "document_frequency": 1
+  },
+  "sometimes": {
+    "document_frequency": 2
+  },
+  "sorted": {
+    "document_frequency": 1
+  },
+  "sound": {
+    "document_frequency": 1
+  },
+  "soundex": {
+    "document_frequency": 1
+  },
+  "spam": {
+    "document_frequency": 1
+  },
+  "specialized": {
+    "document_frequency": 1
+  },
+  "speed": {
+    "document_frequency": 1
+  },
+  "spelling": {
+    "document_frequency": 4
+  },
+  "spellings": {
+    "document_frequency": 2
+  },
+  "splits": {
+    "document_frequency": 1
+  },
+  "sql": {
+    "document_frequency": 1
+  },
+  "stage": {
+    "document_frequency": 2
+  },
+  "start": {
+    "document_frequency": 1
+  },
+  "statistical": {
+    "document_frequency": 1
+  },
+  "stemmer": {
+    "document_frequency": 1
+  },
+  "stemming": {
+    "document_frequency": 1
+  },
+  "still": {
+    "document_frequency": 2
+  },
+  "stop": {
+    "document_frequency": 1
+  },
+  "storage": {
+    "document_frequency": 4
+  },
+  "store": {
+    "document_frequency": 3
+  },
+  "stored": {
+    "document_frequency": 2
+  },
+  "stores": {
+    "document_frequency": 4
+  },
+  "storing": {
+    "document_frequency": 1
+  },
+  "strings": {
+    "document_frequency": 1
+  },
+  "stronger": {
+    "document_frequency": 1
+  },
+  "strongly": {
+    "document_frequency": 1
+  },
+  "structurally": {
+    "document_frequency": 1
+  },
+  "structure": {
+    "document_frequency": 5
+  },
+  "structured": {
+    "document_frequency": 1
+  },
+  "structures": {
+    "document_frequency": 1
+  },
+  "studies": {
+    "document_frequency": 1
+  },
+  "submits": {
+    "document_frequency": 1
+  },
+  "subset": {
+    "document_frequency": 1
+  },
+  "substituted": {
+    "document_frequency": 1
+  },
+  "substitutions": {
+    "document_frequency": 1
+  },
+  "subtracting": {
+    "document_frequency": 1
+  },
+  "such": {
+    "document_frequency": 9
+  },
+  "suggestion": {
+    "document_frequency": 1
+  },
+  "suggestions": {
+    "document_frequency": 3
+  },
+  "suggests": {
+    "document_frequency": 2
+  },
+  "suite": {
+    "document_frequency": 1
+  },
+  "summaries": {
+    "document_frequency": 1
+  },
+  "support": {
+    "document_frequency": 3
+  },
+  "supports": {
+    "document_frequency": 2
+  },
+  "switches": {
+    "document_frequency": 1
+  },
+  "symmetric": {
+    "document_frequency": 1
+  },
+  "synonym": {
+    "document_frequency": 1
+  },
+  "system": {
+    "document_frequency": 7
+  },
+  "systems": {
+    "document_frequency": 10
+  },
+  "tables": {
+    "document_frequency": 1
+  },
+  "takes": {
+    "document_frequency": 1
+  },
+  "taking": {
+    "document_frequency": 1
+  },
+  "task": {
+    "document_frequency": 1
+  },
+  "tasks": {
+    "document_frequency": 2
+  },
+  "tcp": {
+    "document_frequency": 1
+  },
+  "technical": {
+    "document_frequency": 1
+  },
+  "technique": {
+    "document_frequency": 2
+  },
+  "tell": {
+    "document_frequency": 1
+  },
+  "tend": {
+    "document_frequency": 1
+  },
+  "term": {
+    "document_frequency": 8
+  },
+  "terms": {
+    "document_frequency": 10
+  },
+  "text": {
+    "document_frequency": 6
+  },
+  "textual": {
+    "document_frequency": 2
+  },
+  "tf": {
+    "document_frequency": 4
+  },
+  "than": {
+    "document_frequency": 7
+  },
+  "them": {
+    "document_frequency": 4
+  },
+  "then": {
+    "document_frequency": 6
+  },
+  "therefore": {
+    "document_frequency": 4
+  },
+  "these": {
+    "document_frequency": 3
+  },
+  "they": {
+    "document_frequency": 8
+  },
+  "this": {
+    "document_frequency": 15
+  },
+  "threats": {
+    "document_frequency": 1
+  },
+  "three": {
+    "document_frequency": 2
+  },
+  "through": {
+    "document_frequency": 5
+  },
+  "tie": {
+    "document_frequency": 1
+  },
+  "time": {
+    "document_frequency": 2
+  },
+  "times": {
+    "document_frequency": 1
+  },
+  "tiny": {
+    "document_frequency": 1
+  },
+  "titles": {
+    "document_frequency": 2
+  },
+  "tls": {
+    "document_frequency": 1
+  },
+  "together": {
+    "document_frequency": 2
+  },
+  "token": {
+    "document_frequency": 1
+  },
+  "tokenization": {
+    "document_frequency": 1
+  },
+  "tokens": {
+    "document_frequency": 1
+  },
+  "tolerant": {
+    "document_frequency": 2
+  },
+  "too": {
+    "document_frequency": 2
+  },
+  "topic": {
+    "document_frequency": 2
+  },
+  "topics": {
+    "document_frequency": 1
+  },
+  "tracking": {
+    "document_frequency": 1
+  },
+  "trade": {
+    "document_frequency": 1
+  },
+  "tradeoff": {
+    "document_frequency": 1
+  },
+  "traditional": {
+    "document_frequency": 1
+  },
+  "trails": {
+    "document_frequency": 1
+  },
+  "trained": {
+    "document_frequency": 1
+  },
+  "training": {
+    "document_frequency": 3
+  },
+  "transaction": {
+    "document_frequency": 1
+  },
+  "transactions": {
+    "document_frequency": 2
+  },
+  "transformer": {
+    "document_frequency": 1
+  },
+  "transforming": {
+    "document_frequency": 1
+  },
+  "transforms": {
+    "document_frequency": 1
+  },
+  "transit": {
+    "document_frequency": 1
+  },
+  "transparent": {
+    "document_frequency": 2
+  },
+  "treat": {
+    "document_frequency": 1
+  },
+  "treating": {
+    "document_frequency": 1
+  },
+  "treats": {
+    "document_frequency": 1
+  },
+  "tree": {
+    "document_frequency": 1
+  },
+  "trust": {
+    "document_frequency": 1
+  },
+  "trusting": {
+    "document_frequency": 1
+  },
+  "trustworthy": {
+    "document_frequency": 1
+  },
+  "two": {
+    "document_frequency": 6
+  },
+  "types": {
+    "document_frequency": 1
+  },
+  "udp": {
+    "document_frequency": 1
+  },
+  "unauthorized": {
+    "document_frequency": 1
+  },
+  "understand": {
+    "document_frequency": 3
+  },
+  "understandable": {
+    "document_frequency": 2
+  },
+  "understanding": {
+    "document_frequency": 2
+  },
+  "uneven": {
+    "document_frequency": 1
+  },
+  "union": {
+    "document_frequency": 2
+  },
+  "units": {
+    "document_frequency": 1
+  },
+  "unknown": {
+    "document_frequency": 1
+  },
+  "unlike": {
+    "document_frequency": 1
+  },
+  "unordered": {
+    "document_frequency": 1
+  },
+  "unseen": {
+    "document_frequency": 1
+  },
+  "unusual": {
+    "document_frequency": 1
+  },
+  "unwanted": {
+    "document_frequency": 1
+  },
+  "up": {
+    "document_frequency": 2
+  },
+  "update": {
+    "document_frequency": 1
+  },
+  "updated": {
+    "document_frequency": 1
+  },
+  "updates": {
+    "document_frequency": 1
+  },
+  "usage": {
+    "document_frequency": 1
+  },
+  "use": {
+    "document_frequency": 12
+  },
+  "used": {
+    "document_frequency": 6
+  },
+  "useful": {
+    "document_frequency": 11
+  },
+  "user": {
+    "document_frequency": 9
+  },
+  "users": {
+    "document_frequency": 6
+  },
+  "using": {
+    "document_frequency": 5
+  },
+  "usually": {
+    "document_frequency": 2
+  },
+  "validates": {
+    "document_frequency": 2
+  },
+  "value": {
+    "document_frequency": 3
+  },
+  "values": {
+    "document_frequency": 2
+  },
+  "variations": {
+    "document_frequency": 2
+  },
+  "varied": {
+    "document_frequency": 1
+  },
+  "variety": {
+    "document_frequency": 2
+  },
+  "vector": {
+    "document_frequency": 2
+  },
+  "vectors": {
+    "document_frequency": 1
+  },
+  "velocity": {
+    "document_frequency": 1
+  },
+  "veracity": {
+    "document_frequency": 1
+  },
+  "very": {
+    "document_frequency": 5
+  },
+  "video": {
+    "document_frequency": 1
+  },
+  "videos": {
+    "document_frequency": 1
+  },
+  "virtual": {
+    "document_frequency": 1
+  },
+  "virtualization": {
+    "document_frequency": 1
+  },
+  "visible": {
+    "document_frequency": 2
+  },
+  "vision": {
+    "document_frequency": 1
+  },
+  "visit": {
+    "document_frequency": 1
+  },
+  "visited": {
+    "document_frequency": 1
+  },
+  "visual": {
+    "document_frequency": 1
+  },
+  "vocabulary": {
+    "document_frequency": 6
+  },
+  "volume": {
+    "document_frequency": 1
+  },
+  "wastes": {
+    "document_frequency": 1
+  },
+  "ways": {
+    "document_frequency": 1
+  },
+  "web": {
+    "document_frequency": 13
+  },
+  "webminingsearch": {
+    "document_frequency": 2
+  },
+  "website": {
+    "document_frequency": 2
+  },
+  "weight": {
+    "document_frequency": 2
+  },
+  "weighted": {
+    "document_frequency": 1
+  },
+  "weights": {
+    "document_frequency": 2
+  },
+  "whenever": {
+    "document_frequency": 1
+  },
+  "where": {
+    "document_frequency": 3
+  },
+  "which": {
+    "document_frequency": 5
+  },
+  "why": {
+    "document_frequency": 1
+  },
+  "wide": {
+    "document_frequency": 2
+  },
+  "widely": {
+    "document_frequency": 1
+  },
+  "wildcard": {
+    "document_frequency": 2
+  },
+  "winning": {
+    "document_frequency": 1
+  },
+  "within": {
+    "document_frequency": 1
+  },
+  "without": {
+    "document_frequency": 4
+  },
+  "word": {
+    "document_frequency": 10
+  },
+  "words": {
+    "document_frequency": 11
+  },
+  "work": {
+    "document_frequency": 3
+  },
+  "workloads": {
+    "document_frequency": 2
+  },
+  "world": {
+    "document_frequency": 1
+  },
+  "would": {
+    "document_frequency": 2
+  },
+  "yet": {
+    "document_frequency": 1
+  },
+  "zero": {
+    "document_frequency": 1
+  }
+}
